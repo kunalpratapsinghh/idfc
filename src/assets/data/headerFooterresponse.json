@@ -1,0 +1,2576 @@
+{
+  "header": {
+    "header_links": [
+      {
+        "documentId": "ef400b34-8919-4ec4-9b60-66c086b73229",
+        "id": "9abffdb5-2611-4fd6-a921-c11662395526",
+        "title": "Home",
+        "slug": "",
+        "categories": [],
+        "openRedirectUrlInNewTab": false,
+        "disclaimer_popup": null,
+        "groupedHeaderLinks": [],
+        "Ads": [],
+        "header_links": [],
+        "subTitle": null,
+        "redirectUrl": "https://offers-smartbuyuat.reward360.in/osb/infinia/home",
+        "icon": null,
+        "submenuTitle": null,
+        "submenuType": null,
+        "key": "home",
+        "badge": null,
+        "card_programs": [
+          {
+            "slug": "regaliagold",
+            "title": "Regalia Gold"
+          },
+          {
+            "slug": "business",
+            "title": "Business"
+          },
+          {
+            "slug": "corporate",
+            "title": "Corporate"
+          },
+          {
+            "slug": "default",
+            "title": "default"
+          },
+          {
+            "slug": "diners",
+            "title": "Diners"
+          },
+          {
+            "slug": "diners-privilege",
+            "title": "Diners privileges"
+          },
+          {
+            "slug": "infinia",
+            "title": "Infinia"
+          },
+          {
+            "slug": "irctc-co-brand",
+            "title": "IRCTC Co Brand"
+          },
+          {
+            "slug": "regalia",
+            "title": "Regalia"
+          },
+          {
+            "slug": "biz-black",
+            "title": "Biz Black"
+          },
+          {
+            "slug": "infinia-bharat",
+            "title": "Infinia-bharat"
+          },
+          {
+            "slug": "nonspc",
+            "title": "default-non-spc"
+          },
+          {
+            "slug": "biz-power",
+            "title": "Biz power"
+          },
+          {
+            "slug": "infinia-reserve",
+            "title": "Infinia-reserve"
+          },
+          {
+            "slug": "diners-black",
+            "title": "Diners Black"
+          },
+          {
+            "slug": "diners-black-metal",
+            "title": "Diners Black Metal"
+          },
+          {
+            "slug": "nonreward",
+            "title": "Non Reward"
+          },
+          {
+            "slug": "TATA_NEU",
+            "title": "tataneu"
+          }
+        ]
+      },
+      {
+        "documentId": "9fbf9349-341f-40c9-b170-6d433150e163",
+        "id": "24ffb3f1-72bc-4680-b42d-0137717d9587",
+        "title": "Just For you",
+        "slug": "",
+        "categories": [],
+        "openRedirectUrlInNewTab": false,
+        "disclaimer_popup": null,
+        "groupedHeaderLinks": [],
+        "Ads": [],
+        "header_links": [],
+        "subTitle": null,
+        "redirectUrl": "https://offers-smartbuyuat.reward360.in/justforyou",
+        "icon": null,
+        "submenuTitle": null,
+        "submenuType": null,
+        "key": "just-for-you",
+        "badge": null,
+        "card_programs": [
+          {
+            "slug": "biz-black",
+            "title": "Biz Black"
+          },
+          {
+            "slug": "biz-power",
+            "title": "Biz power"
+          },
+          {
+            "slug": "business",
+            "title": "Business"
+          },
+          {
+            "slug": "default",
+            "title": "default"
+          },
+          {
+            "slug": "corporate",
+            "title": "Corporate"
+          },
+          {
+            "slug": "nonspc",
+            "title": "default-non-spc"
+          },
+          {
+            "slug": "diners",
+            "title": "Diners"
+          },
+          {
+            "slug": "diners-black",
+            "title": "Diners Black"
+          },
+          {
+            "slug": "diners-black-metal",
+            "title": "Diners Black Metal"
+          },
+          {
+            "slug": "diners-privilege",
+            "title": "Diners privileges"
+          },
+          {
+            "slug": "infinia-bharat",
+            "title": "Infinia-bharat"
+          },
+          {
+            "slug": "infinia",
+            "title": "Infinia"
+          },
+          {
+            "slug": "infinia-reserve",
+            "title": "Infinia-reserve"
+          },
+          {
+            "slug": "irctc-co-brand",
+            "title": "IRCTC Co Brand"
+          },
+          {
+            "slug": "regalia",
+            "title": "Regalia"
+          },
+          {
+            "slug": "regaliagold",
+            "title": "Regalia Gold"
+          },
+          {
+            "slug": "nonreward",
+            "title": "Non Reward"
+          },
+          {
+            "slug": "TATA_NEU",
+            "title": "tataneu"
+          }
+        ]
+      },
+      {
+        "documentId": "b3ceb678-2612-4e90-8b0d-d4c0b2b0ed59",
+        "id": "177d68ac-1067-458c-bac1-3fff831ad5fc",
+        "title": "Travel & Stays",
+        "slug": "",
+        "categories": [],
+        "openRedirectUrlInNewTab": false,
+        "disclaimer_popup": null,
+        "groupedHeaderLinks": [],
+        "Ads": [],
+        "header_links": [
+          {
+            "documentId": "4a882cd5-b0d7-4879-88c1-6003f939377d",
+            "id": "94fe8b33-318a-4d77-a246-2e5c7d7f22bc",
+            "title": "Stay",
+            "slug": "",
+            "categories": [],
+            "openRedirectUrlInNewTab": false,
+            "disclaimer_popup": null,
+            "groupedHeaderLinks": [],
+            "Ads": [],
+            "header_links": [],
+            "subTitle": "10X Reward Points",
+            "redirectUrl": "https://offers-smartbuyuat.reward360.in/osb/compare-stay?utm_source=header",
+            "icon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/hotels_3d_4x_e898663685.webp",
+            "submenuTitle": null,
+            "submenuType": null,
+            "key": null,
+            "badge": null,
+            "card_programs": [
+              {
+                "slug": "infinia",
+                "title": "Infinia"
+              },
+              {
+                "slug": "infinia-bharat",
+                "title": "Infinia-bharat"
+              },
+              {
+                "slug": "infinia-reserve",
+                "title": "Infinia-reserve"
+              }
+            ]
+          },
+          {
+            "documentId": "f600dad7-fd35-4e3a-bffa-81d7993d42e0",
+            "id": "c21ffb07-cdcf-48b3-836d-8c6dedca13bf",
+            "title": "Bus",
+            "slug": "",
+            "categories": [],
+            "openRedirectUrlInNewTab": false,
+            "disclaimer_popup": null,
+            "groupedHeaderLinks": [],
+            "Ads": [],
+            "header_links": [],
+            "subTitle": "5X Reward Points",
+            "redirectUrl": "https://offers-smartbuyuat.reward360.in/v1/infinia/bus",
+            "icon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/bus_3d_4x_b0b8691998.webp",
+            "submenuTitle": null,
+            "submenuType": null,
+            "key": null,
+            "badge": null,
+            "card_programs": [
+              {
+                "slug": "infinia",
+                "title": "Infinia"
+              },
+              {
+                "slug": "infinia-bharat",
+                "title": "Infinia-bharat"
+              },
+              {
+                "slug": "infinia-reserve",
+                "title": "Infinia-reserve"
+              }
+            ]
+          },
+          {
+            "documentId": "632ef106-2445-411a-a8c4-3c6beeaeb0bc",
+            "id": "90287543-9e69-4a31-8d31-0e5f96da878e",
+            "title": "Flight",
+            "slug": "",
+            "categories": [],
+            "openRedirectUrlInNewTab": false,
+            "disclaimer_popup": null,
+            "groupedHeaderLinks": [],
+            "Ads": [],
+            "header_links": [],
+            "subTitle": "5X reward Points",
+            "redirectUrl": "https://offers-smartbuyuat.reward360.in/v1/infinia/compare-fly",
+            "icon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/flights_3d_4x_35179229a6.webp",
+            "submenuTitle": null,
+            "submenuType": null,
+            "key": null,
+            "badge": null,
+            "card_programs": [
+              {
+                "slug": "infinia",
+                "title": "Infinia"
+              },
+              {
+                "slug": "infinia-bharat",
+                "title": "Infinia-bharat"
+              },
+              {
+                "slug": "infinia-reserve",
+                "title": "Infinia-reserve"
+              }
+            ]
+          },
+          {
+            "documentId": "f1944602-d8f0-4d41-ae3e-3b7a2fe752bd",
+            "id": "45e91dff-c55b-44a9-a71e-cbcc03c4ffb1",
+            "title": "Trains",
+            "slug": "",
+            "categories": [],
+            "openRedirectUrlInNewTab": false,
+            "disclaimer_popup": null,
+            "groupedHeaderLinks": [],
+            "Ads": [],
+            "header_links": [],
+            "subTitle": "3X Reward Points",
+            "redirectUrl": "https://offers-smartbuyuat.reward360.in/v1/infinia/train",
+            "icon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/trains_3d_4x_7ce597519a.webp",
+            "submenuTitle": null,
+            "submenuType": null,
+            "key": null,
+            "badge": null,
+            "card_programs": [
+              {
+                "slug": "infinia",
+                "title": "Infinia"
+              },
+              {
+                "slug": "infinia-bharat",
+                "title": "Infinia-bharat"
+              },
+              {
+                "slug": "infinia-reserve",
+                "title": "Infinia-reserve"
+              }
+            ]
+          },
+          {
+            "documentId": "5c88644f-b508-43a2-bc12-23a443c4754b",
+            "id": "09c8f037-99de-4074-bca7-39c7424ca0f0",
+            "title": "Holiday Packages",
+            "slug": "",
+            "categories": [],
+            "openRedirectUrlInNewTab": true,
+            "disclaimer_popup": {
+              "id": 746,
+              "documentId": "dm175sknw0njzfzej6fgsy2l",
+              "slug": "holiday-packages"
+            },
+            "groupedHeaderLinks": [],
+            "Ads": [],
+            "header_links": [],
+            "subTitle": "5X Reward Points / 5% Cashback",
+            "redirectUrl": "https://hdfcsmartbuyholidays.makemytrip.com/holidays-india",
+            "icon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/holiday_Package_3d_4x_6b168bb001.webp",
+            "submenuTitle": null,
+            "submenuType": null,
+            "key": "holiday packages",
+            "badge": null,
+            "card_programs": [
+              {
+                "slug": "default",
+                "title": "default"
+              },
+              {
+                "slug": "diners",
+                "title": "Diners"
+              },
+              {
+                "slug": "regalia",
+                "title": "Regalia"
+              },
+              {
+                "slug": "infinia",
+                "title": "Infinia"
+              },
+              {
+                "slug": "regaliagold",
+                "title": "Regalia Gold"
+              },
+              {
+                "slug": "diners-privilege",
+                "title": "Diners privileges"
+              },
+              {
+                "slug": "business",
+                "title": "Business"
+              },
+              {
+                "slug": "corporate",
+                "title": "Corporate"
+              },
+              {
+                "slug": "infinia-bharat",
+                "title": "Infinia-bharat"
+              },
+              {
+                "slug": "biz-black",
+                "title": "Biz Black"
+              },
+              {
+                "slug": "nonspc",
+                "title": "default-non-spc"
+              },
+              {
+                "slug": "biz-power",
+                "title": "Biz power"
+              },
+              {
+                "slug": "infinia-reserve",
+                "title": "Infinia-reserve"
+              },
+              {
+                "slug": "diners-black",
+                "title": "Diners Black"
+              },
+              {
+                "slug": "diners-black-metal",
+                "title": "Diners Black Metal"
+              }
+            ]
+          },
+          {
+            "documentId": "0e05a5f7-f137-4f43-8d1d-e79576cd0ba4",
+            "id": "c844efcc-d31e-438a-a917-29b0e5c8a9b3",
+            "title": "Duty Free ",
+            "slug": "",
+            "categories": [],
+            "openRedirectUrlInNewTab": true,
+            "disclaimer_popup": {
+              "id": 795,
+              "documentId": "k6rxqwfklgeu9b55bnllx3hr",
+              "slug": "adani"
+            },
+            "groupedHeaderLinks": [],
+            "Ads": [],
+            "header_links": [],
+            "subTitle": "5X Reward Points / 5% Cashback",
+            "redirectUrl": "https://hdfcsmartbuy.uat.adanione.com/duty-free",
+            "icon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/Adani_Icon_with_BG_1e7eb52123.svg",
+            "submenuTitle": null,
+            "submenuType": null,
+            "key": "Adani One",
+            "badge": null,
+            "card_programs": []
+          },
+          {
+            "documentId": "c4c818b9-02b4-4daa-a15e-b1af7ac4c0bb",
+            "id": "bc3766bf-e01e-43fe-866c-ed8d7fa590b8",
+            "title": "Drivado Cabs",
+            "slug": "",
+            "categories": [],
+            "openRedirectUrlInNewTab": true,
+            "disclaimer_popup": {
+              "id": 832,
+              "documentId": "b373zovgrnyxylxtmjstddzk",
+              "slug": "drivado"
+            },
+            "groupedHeaderLinks": [],
+            "Ads": [],
+            "header_links": [],
+            "subTitle": "10X Reward Points",
+            "redirectUrl": "https://www.drivado.com/networks/hdfc-smartbuy/",
+            "icon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/car_Rental_3d_4x_b6d1884e47.webp",
+            "submenuTitle": null,
+            "submenuType": "secondary",
+            "key": "Drivado Cabs",
+            "badge": {
+              "backgroundColor": "#f50808",
+              "blink": false,
+              "title": "New"
+            },
+            "card_programs": []
+          }
+        ],
+        "subTitle": null,
+        "redirectUrl": "https://offers-smartbuyuat.reward360.in/v1/compare-fly",
+        "icon": null,
+        "submenuTitle": null,
+        "submenuType": null,
+        "key": "travel-and-stays",
+        "badge": null,
+        "card_programs": [
+          {
+            "slug": "infinia",
+            "title": "Infinia"
+          },
+          {
+            "slug": "infinia-bharat",
+            "title": "Infinia-bharat"
+          },
+          {
+            "slug": "infinia-reserve",
+            "title": "Infinia-reserve"
+          }
+        ]
+      },
+      {
+        "documentId": "600eed5b-510f-418b-b016-638d2ada420c",
+        "id": "67dc7dd0-5fad-4480-a581-aaf3cbe7639b",
+        "title": "Shop",
+        "slug": "",
+        "categories": [],
+        "openRedirectUrlInNewTab": false,
+        "disclaimer_popup": null,
+        "groupedHeaderLinks": [],
+        "Ads": [],
+        "header_links": [
+          {
+            "documentId": "12987266-f0af-46b3-967e-3148e3f460ea",
+            "id": "c31631c1-8033-4f8a-a293-b22e88fdc107",
+            "title": "Imagine | Tresor",
+            "slug": "",
+            "categories": [],
+            "openRedirectUrlInNewTab": true,
+            "disclaimer_popup": {
+              "id": 744,
+              "documentId": "hibf2ncaoi23birz4131ok1i",
+              "slug": "imagine"
+            },
+            "groupedHeaderLinks": [],
+            "Ads": [],
+            "header_links": [],
+            "subTitle": "Upto 5X Reward Points",
+            "redirectUrl": "https://offers-smartbuyuat.reward360.in/popup-redirection/imagine",
+            "icon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/apple_logo_82010b86c2.svg",
+            "submenuTitle": null,
+            "submenuType": null,
+            "key": "Imagine | Tresor -internal",
+            "badge": null,
+            "card_programs": []
+          },
+          {
+            "documentId": "2537bd0a-449f-4df5-b95b-f1770f063e8a",
+            "id": "e2a1ee2d-7048-47d1-afcf-b484ebc9b9cf",
+            "title": "IGP",
+            "slug": "",
+            "categories": [],
+            "openRedirectUrlInNewTab": true,
+            "disclaimer_popup": {
+              "id": 747,
+              "documentId": "v7cuhjhhgpkgp9v2ngrktxsz",
+              "slug": "igp"
+            },
+            "groupedHeaderLinks": [],
+            "Ads": [],
+            "header_links": [],
+            "subTitle": " 10X  Reward Points ",
+            "redirectUrl": "https://offers-smartbuyuat.reward360.in/popup-redirection/igp",
+            "icon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/igp_logo_c0c7069588.svg",
+            "submenuTitle": null,
+            "submenuType": null,
+            "key": "igp-header",
+            "badge": null,
+            "card_programs": []
+          },
+          {
+            "documentId": "d64e9c43-ddba-4124-b43f-837509183ad3",
+            "id": "011b6969-1e4f-41cf-be5d-138654ee353e",
+            "title": "Jockey",
+            "slug": "",
+            "categories": [],
+            "openRedirectUrlInNewTab": true,
+            "disclaimer_popup": {
+              "id": 831,
+              "documentId": "jnect6j60grwz96fjsxzlm2q",
+              "slug": "jockey"
+            },
+            "groupedHeaderLinks": [],
+            "Ads": [],
+            "header_links": [],
+            "subTitle": "10X Reward Points",
+            "redirectUrl": "https://offers-smartbuyuat.reward360.in/popup-redirection/jockey",
+            "icon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/jockey_logo_eff16aa9b2.png",
+            "submenuTitle": null,
+            "submenuType": null,
+            "key": "jockey-submenu",
+            "badge": null,
+            "card_programs": []
+          },
+          {
+            "documentId": "c7a49997-35b4-4640-9d29-7c36e194d380",
+            "id": "a7787975-9f0d-438d-9cca-6b79f23686a4",
+            "title": "PharmEasy",
+            "slug": "",
+            "categories": [],
+            "openRedirectUrlInNewTab": true,
+            "disclaimer_popup": {
+              "id": 753,
+              "documentId": "om1brexczk3zmod6wvio5j2j",
+              "slug": "pharmeasy"
+            },
+            "groupedHeaderLinks": [],
+            "Ads": [],
+            "header_links": [],
+            "subTitle": "10X Reward Points",
+            "redirectUrl": "https://offers-smartbuyuat.reward360.in/popup-redirection/pharmeasy",
+            "icon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/pharmeasy_35c09f0478.png",
+            "submenuTitle": null,
+            "submenuType": null,
+            "key": "pharmeasy",
+            "badge": null,
+            "card_programs": []
+          },
+          {
+            "documentId": "33b80831-8e42-44d2-99f9-daafc3927f25",
+            "id": "21c9ff95-84a5-46a1-89ec-746861f48f06",
+            "title": "Myntra",
+            "slug": "",
+            "categories": [],
+            "openRedirectUrlInNewTab": true,
+            "disclaimer_popup": {
+              "id": 830,
+              "documentId": "qgyec67s3qhe8ky1bwi4xa05",
+              "slug": "myntra"
+            },
+            "groupedHeaderLinks": [],
+            "Ads": [],
+            "header_links": [],
+            "subTitle": "5X Reward Points",
+            "redirectUrl": "https://offers-smartbuyuat.reward360.in/popup-redirection/myntra",
+            "icon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/myntra_logo_186d5c5cba.png",
+            "submenuTitle": null,
+            "submenuType": null,
+            "key": "myntra-internal",
+            "badge": {
+              "backgroundColor": "#e70505",
+              "blink": false,
+              "title": "Double Perks"
+            },
+            "card_programs": []
+          }
+        ],
+        "subTitle": null,
+        "redirectUrl": null,
+        "icon": null,
+        "submenuTitle": null,
+        "submenuType": null,
+        "key": "shop",
+        "badge": {
+          "backgroundColor": "#f50808",
+          "blink": false,
+          "title": "New"
+        },
+        "card_programs": [
+          {
+            "slug": "business",
+            "title": "Business"
+          },
+          {
+            "slug": "corporate",
+            "title": "Corporate"
+          },
+          {
+            "slug": "default",
+            "title": "default"
+          },
+          {
+            "slug": "infinia",
+            "title": "Infinia"
+          },
+          {
+            "slug": "biz-black",
+            "title": "Biz Black"
+          },
+          {
+            "slug": "diners-privilege",
+            "title": "Diners privileges"
+          },
+          {
+            "slug": "diners",
+            "title": "Diners"
+          },
+          {
+            "slug": "infinia-bharat",
+            "title": "Infinia-bharat"
+          },
+          {
+            "slug": "regaliagold",
+            "title": "Regalia Gold"
+          },
+          {
+            "slug": "regalia",
+            "title": "Regalia"
+          },
+          {
+            "slug": "nonspc",
+            "title": "default-non-spc"
+          },
+          {
+            "slug": "infinia-reserve",
+            "title": "Infinia-reserve"
+          },
+          {
+            "slug": "diners-black",
+            "title": "Diners Black"
+          },
+          {
+            "slug": "diners-black-metal",
+            "title": "Diners Black Metal"
+          }
+        ]
+      },
+      {
+        "documentId": "46891c61-2201-48ad-9109-1d5372ead01d",
+        "id": "bf3c9b79-1ee8-4872-b3ba-36b018f968eb",
+        "title": "Brand Vouchers",
+        "slug": "",
+        "categories": [],
+        "openRedirectUrlInNewTab": true,
+        "disclaimer_popup": null,
+        "groupedHeaderLinks": [
+          {
+            "id": 54,
+            "groupTitle": "Brand Vouchers by Gyftr",
+            "viewAllLink": "gyftr://www.gyftr.com",
+            "viewAllLinkText": "View more brands",
+            "openRedirectUrlInNewTab": true,
+            "badge": null,
+            "disclaimer_popup": {
+              "id": 781,
+              "documentId": "o0v9waog6hx0g6ior5u8zekw",
+              "slug": "gyftr-brand-voucher"
+            },
+            "header_links": [
+              {
+                "documentId": "2528fbba-ab28-4ede-bd4b-84fdd6e297b4",
+                "id": "4d31dce2-546e-43e3-a4c8-a1948e85ca1b",
+                "title": "Swiggy",
+                "slug": "",
+                "categories": [],
+                "openRedirectUrlInNewTab": true,
+                "disclaimer_popup": {
+                  "id": 781,
+                  "documentId": "o0v9waog6hx0g6ior5u8zekw",
+                  "slug": "gyftr-brand-voucher"
+                },
+                "header_links": [],
+                "subTitle": null,
+                "redirectUrl": "gyftr://www.gyftr.com/instantvouchers/swiggy-gv-gift-vouchers?utm_source=Smartbuygeneric&utm_campaign=Swiggy",
+                "icon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/Swiggy_QC_fc20b24560.png",
+                "submenuTitle": null,
+                "submenuType": "primary",
+                "key": null,
+                "badge": null,
+                "card_programs": []
+              },
+              {
+                "documentId": "c2958a76-2a28-4b1f-8636-58c40f37ef2a",
+                "id": "41a249ad-dd6f-482c-8fad-ec23c7f50c62",
+                "title": "Allen Solly",
+                "slug": "",
+                "categories": [],
+                "openRedirectUrlInNewTab": true,
+                "disclaimer_popup": {
+                  "id": 748,
+                  "documentId": "iqry35eb2twxwwgdf56qwdz5",
+                  "slug": "instavouchers"
+                },
+                "header_links": [],
+                "subTitle": null,
+                "redirectUrl": "https://www.gyftr.com/instantvouchers/allen-solly-gift-vouchers",
+                "icon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/ALLEN_SOLLY_QC_afe2b8f5b7.png",
+                "submenuTitle": null,
+                "submenuType": "primary",
+                "key": null,
+                "badge": null,
+                "card_programs": []
+              },
+              {
+                "documentId": "1f1f09cc-580b-4f0c-a715-8c1cd9d64e32",
+                "id": "cf3b359a-f46e-4b35-b819-e18e6cabc2d6",
+                "title": "Marks & Spencer",
+                "slug": "",
+                "categories": [],
+                "openRedirectUrlInNewTab": true,
+                "disclaimer_popup": {
+                  "id": 781,
+                  "documentId": "o0v9waog6hx0g6ior5u8zekw",
+                  "slug": "gyftr-brand-voucher"
+                },
+                "header_links": [],
+                "subTitle": null,
+                "redirectUrl": "gyftr://www.gyftr.com/instantvouchers/marks-spencer-gift-vouchers",
+                "icon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/M_and_S_QC_085b0d9be9.png",
+                "submenuTitle": null,
+                "submenuType": "primary",
+                "key": null,
+                "badge": null,
+                "card_programs": []
+              },
+              {
+                "documentId": "491d41c9-4ab7-46ac-896d-9c20978114ea",
+                "id": "f6eca6c8-9d58-4f26-8448-0532e21fd0ab",
+                "title": "Bata",
+                "slug": "",
+                "categories": [],
+                "openRedirectUrlInNewTab": true,
+                "disclaimer_popup": {
+                  "id": 781,
+                  "documentId": "o0v9waog6hx0g6ior5u8zekw",
+                  "slug": "gyftr-brand-voucher"
+                },
+                "header_links": [],
+                "subTitle": null,
+                "redirectUrl": "gyftr://www.gyftr.com/instantvouchers/bata-gift-vouchers",
+                "icon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/Bata_QC_d79e7b3597.png",
+                "submenuTitle": null,
+                "submenuType": "primary",
+                "key": null,
+                "badge": null,
+                "card_programs": []
+              },
+              {
+                "documentId": "08e79057-4ad6-4ee2-b669-0446ee6cdc47",
+                "id": "537ed03a-d5d5-4372-ac31-6b9666662701",
+                "title": "Bath & Body Works",
+                "slug": "",
+                "categories": [],
+                "openRedirectUrlInNewTab": true,
+                "disclaimer_popup": {
+                  "id": 781,
+                  "documentId": "o0v9waog6hx0g6ior5u8zekw",
+                  "slug": "gyftr-brand-voucher"
+                },
+                "header_links": [],
+                "subTitle": null,
+                "redirectUrl": "gyftr://www.gyftr.com/instantvouchers/bath-body-works-gift-vouchers",
+                "icon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/B_and_B_works_QC_717a685490.png",
+                "submenuTitle": null,
+                "submenuType": "primary",
+                "key": null,
+                "badge": null,
+                "card_programs": []
+              },
+              {
+                "documentId": "e897d345-0ca4-4ce5-8e44-df7e734d8cbf",
+                "id": "6491d06b-b8cb-439e-a9cd-f9afc58442c8",
+                "title": "MAC",
+                "slug": "",
+                "categories": [],
+                "openRedirectUrlInNewTab": true,
+                "disclaimer_popup": {
+                  "id": 781,
+                  "documentId": "o0v9waog6hx0g6ior5u8zekw",
+                  "slug": "gyftr-brand-voucher"
+                },
+                "header_links": [],
+                "subTitle": null,
+                "redirectUrl": "gyftr://www.gyftr.com/instantvouchers/mac-gift-vouchers",
+                "icon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/MAC_QC_92f451ab6d.png",
+                "submenuTitle": null,
+                "submenuType": "primary",
+                "key": null,
+                "badge": null,
+                "card_programs": []
+              }
+            ]
+          },
+          {
+            "id": 55,
+            "groupTitle": "Brand Vouchers by Woohoo",
+            "viewAllLink": "pinelabs://instantvouchers.woohoo.in/en-in/",
+            "viewAllLinkText": "View more brands",
+            "openRedirectUrlInNewTab": true,
+            "badge": {
+              "id": 9,
+              "documentId": "wzev9kv71cpcu222huf0hy8o",
+              "displayName": "new_infinia",
+              "backgroundColor": "#f50808",
+              "blink": false,
+              "title": "New",
+              "createdAt": "2025-06-06T06:41:50.802Z",
+              "updatedAt": "2025-06-18T15:35:49.914Z",
+              "publishedAt": "2025-06-18T15:35:49.938Z",
+              "locale": null
+            },
+            "disclaimer_popup": {
+              "id": 787,
+              "documentId": "ietlyb33icmquu2akdljte7e",
+              "slug": "woohoo-brand-voucher"
+            },
+            "header_links": [
+              {
+                "documentId": "db2e876d-d820-488c-bdf3-62dcd25d49db",
+                "id": "852f2d0c-d196-4d5c-9970-90d45b95f2e1",
+                "title": "Mokobara",
+                "slug": "",
+                "categories": [],
+                "openRedirectUrlInNewTab": true,
+                "disclaimer_popup": {
+                  "id": 787,
+                  "documentId": "ietlyb33icmquu2akdljte7e",
+                  "slug": "woohoo-brand-voucher"
+                },
+                "header_links": [],
+                "subTitle": null,
+                "redirectUrl": "pinelabs://instantvouchers.woohoo.in/en-in/mokobara-b2b-e-gift-card",
+                "icon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/Group_1171277339_0795748183.webp",
+                "submenuTitle": null,
+                "submenuType": "primary",
+                "key": null,
+                "badge": null,
+                "card_programs": []
+              },
+              {
+                "documentId": "20fb090d-1727-43be-bba2-9230aec22127",
+                "id": "08a27a56-46d9-42b4-985f-92d7b15c2d9a",
+                "title": "Ray-Ban",
+                "slug": "",
+                "categories": [],
+                "openRedirectUrlInNewTab": true,
+                "disclaimer_popup": {
+                  "id": 787,
+                  "documentId": "ietlyb33icmquu2akdljte7e",
+                  "slug": "woohoo-brand-voucher"
+                },
+                "header_links": [],
+                "subTitle": null,
+                "redirectUrl": "pinelabs://instantvouchers.woohoo.in/en-in/ray-ban-e-gift-cards",
+                "icon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/Group_1171277342_e6b27a366e.webp",
+                "submenuTitle": null,
+                "submenuType": "primary",
+                "key": null,
+                "badge": null,
+                "card_programs": []
+              },
+              {
+                "documentId": "f7f5b43b-db44-4911-a73e-68986a77a4cf",
+                "id": "6a260055-724e-4735-82f3-1e9e5a8dd3e7",
+                "title": "Mcdonalds",
+                "slug": "",
+                "categories": [],
+                "openRedirectUrlInNewTab": true,
+                "disclaimer_popup": {
+                  "id": 787,
+                  "documentId": "ietlyb33icmquu2akdljte7e",
+                  "slug": "woohoo-brand-voucher"
+                },
+                "header_links": [],
+                "subTitle": null,
+                "redirectUrl": "pinelabs://instantvouchers.woohoo.in/en-in/mcdonalds-meal-e-gift-card-1000",
+                "icon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/Group_1171277347_0b01fee3a3.webp",
+                "submenuTitle": null,
+                "submenuType": "primary",
+                "key": null,
+                "badge": null,
+                "card_programs": []
+              },
+              {
+                "documentId": "08331cea-6610-4b95-af4d-51fedb9f25c0",
+                "id": "aa62cf5c-688a-4083-a6d4-c9c767c3af37",
+                "title": "BookMyShow",
+                "slug": "",
+                "categories": [],
+                "openRedirectUrlInNewTab": true,
+                "disclaimer_popup": {
+                  "id": 787,
+                  "documentId": "ietlyb33icmquu2akdljte7e",
+                  "slug": "woohoo-brand-voucher"
+                },
+                "header_links": [],
+                "subTitle": null,
+                "redirectUrl": "pinelabs://instantvouchers.woohoo.in/en-in/bookmyshow-e-gift-card",
+                "icon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/Group_1171277344_b7e35ef601.webp",
+                "submenuTitle": null,
+                "submenuType": "primary",
+                "key": null,
+                "badge": null,
+                "card_programs": []
+              },
+              {
+                "documentId": "4279839e-357d-4724-8a02-268dbbe49b57",
+                "id": "50144e8e-7aae-4a17-9185-7283db0756ad",
+                "title": "Boat",
+                "slug": "",
+                "categories": [],
+                "openRedirectUrlInNewTab": true,
+                "disclaimer_popup": {
+                  "id": 787,
+                  "documentId": "ietlyb33icmquu2akdljte7e",
+                  "slug": "woohoo-brand-voucher"
+                },
+                "header_links": [],
+                "subTitle": null,
+                "redirectUrl": "pinelabs://instantvouchers.woohoo.in/en-in/boat-b2b-e-gift-card",
+                "icon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/Group_1171277338_0b4d2b8400.webp",
+                "submenuTitle": null,
+                "submenuType": "primary",
+                "key": null,
+                "badge": null,
+                "card_programs": []
+              },
+              {
+                "documentId": "7bcd3543-068c-4578-b61c-6b940160074b",
+                "id": "635f15a1-4687-4c88-b375-3088840cb539",
+                "title": "Lakme Salon",
+                "slug": "",
+                "categories": [],
+                "openRedirectUrlInNewTab": true,
+                "disclaimer_popup": {
+                  "id": 787,
+                  "documentId": "ietlyb33icmquu2akdljte7e",
+                  "slug": "woohoo-brand-voucher"
+                },
+                "header_links": [],
+                "subTitle": null,
+                "redirectUrl": "\npinelabs://instantvouchers.woohoo.in/en-in/lakme-salon-e-gift-card",
+                "icon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/Group_1171277348_b9fcba6955.webp",
+                "submenuTitle": null,
+                "submenuType": "primary",
+                "key": null,
+                "badge": null,
+                "card_programs": []
+              }
+            ]
+          }
+        ],
+        "Ads": [
+          {
+            "id": 285,
+            "text": "Make the best of your savings: Check offers on both partners to maximize your savings",
+            "lottieImage": null,
+            "image": {
+              "id": 7782,
+              "documentId": "czsz0yj1wscqgqvl4bn673ia",
+              "name": "makeSavings.gif",
+              "alternativeText": null,
+              "caption": null,
+              "width": 150,
+              "height": 150,
+              "formats": null,
+              "hash": "make_Savings_d97578591d",
+              "ext": ".gif",
+              "mime": "image/gif",
+              "size": 177.5,
+              "url": "https://d2hx8jjky1f7ly.cloudfront.net/cms/make_Savings_d97578591d.gif",
+              "previewUrl": null,
+              "provider": "/data/code/webapp/strapi/smartbuy_strapi/dist/providers/aws-s3-with-custom-url.js",
+              "provider_metadata": null,
+              "folderPath": "/75",
+              "createdAt": "2025-11-21T11:11:20.816Z",
+              "updatedAt": "2025-11-21T11:11:20.816Z",
+              "publishedAt": "2025-11-21T11:11:20.816Z",
+              "locale": null,
+              "focalPoint": null
+            }
+          }
+        ],
+        "header_links": [],
+        "subTitle": null,
+        "redirectUrl": "https://offers-smartbuyuat.reward360.in/osb",
+        "icon": null,
+        "submenuTitle": null,
+        "submenuType": "primary",
+        "key": null,
+        "badge": null,
+        "card_programs": [
+          {
+            "slug": "business",
+            "title": "Business"
+          },
+          {
+            "slug": "infinia",
+            "title": "Infinia"
+          },
+          {
+            "slug": "infinia-bharat",
+            "title": "Infinia-bharat"
+          },
+          {
+            "slug": "infinia-reserve",
+            "title": "Infinia-reserve"
+          },
+          {
+            "slug": "diners",
+            "title": "Diners"
+          },
+          {
+            "slug": "diners-black",
+            "title": "Diners Black"
+          },
+          {
+            "slug": "diners-privilege",
+            "title": "Diners privileges"
+          },
+          {
+            "slug": "regalia",
+            "title": "Regalia"
+          },
+          {
+            "slug": "regaliagold",
+            "title": "Regalia Gold"
+          },
+          {
+            "slug": "corporate",
+            "title": "Corporate"
+          },
+          {
+            "slug": "biz-black",
+            "title": "Biz Black"
+          },
+          {
+            "slug": "biz-power",
+            "title": "Biz power"
+          },
+          {
+            "slug": "default",
+            "title": "default"
+          },
+          {
+            "slug": "nonspc",
+            "title": "default-non-spc"
+          },
+          {
+            "slug": "nonreward",
+            "title": "Non Reward"
+          },
+          {
+            "slug": "TATA_NEU",
+            "title": "tataneu"
+          }
+        ]
+      },
+      {
+        "documentId": "159890b4-4d48-4f2c-859d-9acaad86b5ea",
+        "id": "85dad90b-cfac-4ae9-b490-24f83851c700",
+        "title": "My Rewards",
+        "slug": "",
+        "categories": [],
+        "openRedirectUrlInNewTab": false,
+        "disclaimer_popup": null,
+        "groupedHeaderLinks": [],
+        "Ads": [],
+        "header_links": [
+          {
+            "documentId": "4a43a43a-f6d6-4c16-9017-39e28afed8a3",
+            "id": "2266d31b-4c23-419a-9492-558c4b5786da",
+            "title": "Rewards Catalogue",
+            "slug": "",
+            "categories": [],
+            "openRedirectUrlInNewTab": false,
+            "disclaimer_popup": null,
+            "groupedHeaderLinks": [],
+            "Ads": [],
+            "header_links": [],
+            "subTitle": null,
+            "redirectUrl": "https://offers-smartbuyuat.reward360.in/rewards/infinia/",
+            "icon": null,
+            "submenuTitle": null,
+            "submenuType": "none",
+            "key": "Rewards Catalogue -hni",
+            "badge": null,
+            "card_programs": [
+              {
+                "slug": "infinia",
+                "title": "Infinia"
+              },
+              {
+                "slug": "diners",
+                "title": "Diners"
+              },
+              {
+                "slug": "infinia-bharat",
+                "title": "Infinia-bharat"
+              },
+              {
+                "slug": "infinia-reserve",
+                "title": "Infinia-reserve"
+              }
+            ]
+          },
+          {
+            "documentId": "1afdd940-0ae2-47c9-8472-aeed87bf044d",
+            "id": "238501ca-b532-4446-878d-c0070b6444f4",
+            "title": "Miles Transfer",
+            "slug": "",
+            "categories": [],
+            "openRedirectUrlInNewTab": false,
+            "disclaimer_popup": null,
+            "groupedHeaderLinks": [],
+            "Ads": [],
+            "header_links": [],
+            "subTitle": null,
+            "redirectUrl": "https://offers-smartbuyuat.reward360.in/infinia/miles_transfer",
+            "icon": null,
+            "submenuTitle": null,
+            "submenuType": "none",
+            "key": "Miles Transfer gen",
+            "badge": null,
+            "card_programs": [
+              {
+                "slug": "infinia",
+                "title": "Infinia"
+              },
+              {
+                "slug": "infinia-bharat",
+                "title": "Infinia-bharat"
+              },
+              {
+                "slug": "regaliagold",
+                "title": "Regalia Gold"
+              },
+              {
+                "slug": "regalia",
+                "title": "Regalia"
+              },
+              {
+                "slug": "infinia-reserve",
+                "title": "Infinia-reserve"
+              }
+            ]
+          },
+          {
+            "documentId": "46eca399-0ff0-4a38-aeec-d6bbdf48f6ee",
+            "id": "69dcd60d-1624-4a88-bc79-f6586dcb33d9",
+            "title": "Points to Cash",
+            "slug": "",
+            "categories": [],
+            "openRedirectUrlInNewTab": false,
+            "disclaimer_popup": null,
+            "groupedHeaderLinks": [],
+            "Ads": [],
+            "header_links": [],
+            "subTitle": null,
+            "redirectUrl": "https://offers-smartbuyuat.reward360.in/infinia/credit_payment",
+            "icon": null,
+            "submenuTitle": null,
+            "submenuType": "none",
+            "key": "pointtocash",
+            "badge": null,
+            "card_programs": [
+              {
+                "slug": "infinia",
+                "title": "Infinia"
+              },
+              {
+                "slug": "diners",
+                "title": "Diners"
+              },
+              {
+                "slug": "diners-privilege",
+                "title": "Diners privileges"
+              },
+              {
+                "slug": "infinia-bharat",
+                "title": "Infinia-bharat"
+              },
+              {
+                "slug": "regaliagold",
+                "title": "Regalia Gold"
+              },
+              {
+                "slug": "regalia",
+                "title": "Regalia"
+              },
+              {
+                "slug": "infinia-reserve",
+                "title": "Infinia-reserve"
+              },
+              {
+                "slug": "diners-black",
+                "title": "Diners Black"
+              },
+              {
+                "slug": "diners-black-metal",
+                "title": "Diners Black Metal"
+              }
+            ]
+          }
+        ],
+        "subTitle": null,
+        "redirectUrl": "https://offers-smartbuyuat.reward360.in/rewards",
+        "icon": null,
+        "submenuTitle": null,
+        "submenuType": "none",
+        "key": "My Rewards-new",
+        "badge": null,
+        "card_programs": [
+          {
+            "slug": "infinia",
+            "title": "Infinia"
+          },
+          {
+            "slug": "diners-privilege",
+            "title": "Diners privileges"
+          },
+          {
+            "slug": "biz-black",
+            "title": "Biz Black"
+          },
+          {
+            "slug": "infinia-bharat",
+            "title": "Infinia-bharat"
+          },
+          {
+            "slug": "business",
+            "title": "Business"
+          },
+          {
+            "slug": "corporate",
+            "title": "Corporate"
+          },
+          {
+            "slug": "regalia",
+            "title": "Regalia"
+          },
+          {
+            "slug": "regaliagold",
+            "title": "Regalia Gold"
+          },
+          {
+            "slug": "default",
+            "title": "default"
+          },
+          {
+            "slug": "nonspc",
+            "title": "default-non-spc"
+          },
+          {
+            "slug": "infinia-reserve",
+            "title": "Infinia-reserve"
+          },
+          {
+            "slug": "diners-black",
+            "title": "Diners Black"
+          },
+          {
+            "slug": "diners-black-metal",
+            "title": "Diners Black Metal"
+          }
+        ]
+      },
+      {
+        "documentId": "b19b9835-4787-403a-96ec-c26b4bbfc4f6",
+        "id": "80bed090-a2ab-49ac-b3ce-941ce4d92d51",
+        "title": "Savings Calculator",
+        "slug": "",
+        "categories": [],
+        "openRedirectUrlInNewTab": false,
+        "disclaimer_popup": null,
+        "groupedHeaderLinks": [],
+        "Ads": [],
+        "header_links": [
+          {
+            "documentId": "0b584f0c-e814-4845-95d3-420bbbb6a359",
+            "id": "f3026008-24ea-4881-826d-600499608902",
+            "title": "Savings Calculator",
+            "slug": "",
+            "categories": [],
+            "openRedirectUrlInNewTab": false,
+            "disclaimer_popup": null,
+            "groupedHeaderLinks": [],
+            "Ads": [],
+            "header_links": [],
+            "subTitle": null,
+            "redirectUrl": "https://offers-smartbuyuat.reward360.in/v1/savings_calculator",
+            "icon": null,
+            "submenuTitle": null,
+            "submenuType": null,
+            "key": "Savings Calculator ",
+            "badge": null,
+            "card_programs": []
+          },
+          {
+            "documentId": "15f39855-95d8-47aa-8a72-08ae9359bcf9",
+            "id": "2c8ee09f-3f7f-47e5-af8d-a7277a70424e",
+            "title": "Accelerated Earn Rules",
+            "slug": "",
+            "categories": [],
+            "openRedirectUrlInNewTab": false,
+            "disclaimer_popup": null,
+            "groupedHeaderLinks": [],
+            "Ads": [],
+            "header_links": [],
+            "subTitle": null,
+            "redirectUrl": "https://offers-smartbuyuat.reward360.in/offer_details/smartbuy/15282/Zmilm2U%3D",
+            "icon": null,
+            "submenuTitle": null,
+            "submenuType": "secondary",
+            "key": null,
+            "badge": null,
+            "card_programs": []
+          }
+        ],
+        "subTitle": null,
+        "redirectUrl": "https://offers-smartbuyuat.reward360.in/v1/savings_calculator",
+        "icon": null,
+        "submenuTitle": null,
+        "submenuType": "secondary",
+        "key": "Savings Calculator -h",
+        "badge": null,
+        "card_programs": [
+          {
+            "slug": "biz-black",
+            "title": "Biz Black"
+          },
+          {
+            "slug": "business",
+            "title": "Business"
+          },
+          {
+            "slug": "biz-power",
+            "title": "Biz power"
+          },
+          {
+            "slug": "default",
+            "title": "default"
+          },
+          {
+            "slug": "nonspc",
+            "title": "default-non-spc"
+          },
+          {
+            "slug": "corporate",
+            "title": "Corporate"
+          },
+          {
+            "slug": "diners-black",
+            "title": "Diners Black"
+          },
+          {
+            "slug": "diners",
+            "title": "Diners"
+          },
+          {
+            "slug": "diners-privilege",
+            "title": "Diners privileges"
+          },
+          {
+            "slug": "infinia",
+            "title": "Infinia"
+          },
+          {
+            "slug": "infinia-bharat",
+            "title": "Infinia-bharat"
+          },
+          {
+            "slug": "diners-black-metal",
+            "title": "Diners Black Metal"
+          },
+          {
+            "slug": "irctc-co-brand",
+            "title": "IRCTC Co Brand"
+          },
+          {
+            "slug": "infinia-reserve",
+            "title": "Infinia-reserve"
+          },
+          {
+            "slug": "regaliagold",
+            "title": "Regalia Gold"
+          },
+          {
+            "slug": "regalia",
+            "title": "Regalia"
+          },
+          {
+            "slug": "nonreward",
+            "title": "Non Reward"
+          },
+          {
+            "slug": "TATA_NEU",
+            "title": "tataneu"
+          }
+        ]
+      },
+      {
+        "documentId": "2f2a4c21-08f5-4c4f-b474-fcaad0ee0972",
+        "id": "5cfa1628-ba5f-4a11-bc19-368925b68d29",
+        "title": "Infinia Benefits",
+        "slug": "",
+        "categories": [],
+        "openRedirectUrlInNewTab": false,
+        "disclaimer_popup": null,
+        "groupedHeaderLinks": [],
+        "Ads": [],
+        "header_links": [
+          {
+            "documentId": "0a04304b-38bb-49c7-8db9-0707e8f2e526",
+            "id": "04333e87-a382-464b-ad80-4117ccf97dac",
+            "title": " 2 + 1 ITC benefit",
+            "slug": "",
+            "categories": [],
+            "openRedirectUrlInNewTab": false,
+            "disclaimer_popup": null,
+            "groupedHeaderLinks": [],
+            "Ads": [],
+            "header_links": [],
+            "subTitle": null,
+            "redirectUrl": "itc-infinia-2plus1://visaitcoffer.poshvine.com/",
+            "icon": null,
+            "submenuTitle": null,
+            "submenuType": "secondary",
+            "key": "itc-two-plus-one",
+            "badge": null,
+            "card_programs": [
+              {
+                "slug": "infinia",
+                "title": "Infinia"
+              },
+              {
+                "slug": "infinia-bharat",
+                "title": "Infinia-bharat"
+              },
+              {
+                "slug": "infinia-reserve",
+                "title": "Infinia-reserve"
+              }
+            ]
+          },
+          {
+            "documentId": "4fe4c79a-95cc-470f-94a7-10f416e41e7e",
+            "id": "4136f9f3-43c5-4245-beba-47bf10a65f2b",
+            "title": "Club marriot Offer ",
+            "slug": "",
+            "categories": [],
+            "openRedirectUrlInNewTab": false,
+            "disclaimer_popup": null,
+            "groupedHeaderLinks": [],
+            "Ads": [],
+            "header_links": [],
+            "subTitle": null,
+            "redirectUrl": "https://offers-smartbuyuat.reward360.in/v1/infinia/club-marriott-membership",
+            "icon": null,
+            "submenuTitle": null,
+            "submenuType": "secondary",
+            "key": null,
+            "badge": null,
+            "card_programs": [
+              {
+                "slug": "infinia",
+                "title": "Infinia"
+              }
+            ]
+          },
+          {
+            "documentId": "96289f2f-c4e7-4182-ad08-3cc827e5fc6a",
+            "id": "95d76d0f-9134-4aee-9e5d-d79056430094",
+            "title": "Know Your Card",
+            "slug": "",
+            "categories": [],
+            "openRedirectUrlInNewTab": false,
+            "disclaimer_popup": null,
+            "groupedHeaderLinks": [],
+            "Ads": [],
+            "header_links": [],
+            "subTitle": null,
+            "redirectUrl": "https://offers-smartbuyuat.reward360.in/osb/infinia/know-your-card",
+            "icon": null,
+            "submenuTitle": null,
+            "submenuType": "secondary",
+            "key": "Know Your Card in",
+            "badge": null,
+            "card_programs": []
+          }
+        ],
+        "subTitle": null,
+        "redirectUrl": null,
+        "icon": null,
+        "submenuTitle": null,
+        "submenuType": "secondary",
+        "key": null,
+        "badge": null,
+        "card_programs": [
+          {
+            "slug": "infinia",
+            "title": "Infinia"
+          }
+        ]
+      }
+    ],
+    "bottom_bar_links": [
+      {
+        "id": "2543a7ec-9363-4c00-9bcd-1de4f496ffca",
+        "title": "Home",
+        "slug": "home",
+        "key": "home",
+        "badge": null,
+        "openRedirectUrlInNewTab": false,
+        "link": "https://offers-smartbuyuat.reward360.in/osb",
+        "activeIcon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/home_Active_121324345c.svg",
+        "inactiveIcon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/home_In_Active_487a776aee.svg",
+        "card_programs": [
+          {
+            "slug": "infinia",
+            "title": "Infinia"
+          },
+          {
+            "slug": "infinia-bharat",
+            "title": "Infinia-bharat"
+          },
+          {
+            "slug": "infinia-reserve",
+            "title": "Infinia-reserve"
+          },
+          {
+            "slug": "regalia",
+            "title": "Regalia"
+          },
+          {
+            "slug": "regaliagold",
+            "title": "Regalia Gold"
+          },
+          {
+            "slug": "diners",
+            "title": "Diners"
+          },
+          {
+            "slug": "diners-black",
+            "title": "Diners Black"
+          },
+          {
+            "slug": "diners-black-metal",
+            "title": "Diners Black Metal"
+          },
+          {
+            "slug": "diners-privilege",
+            "title": "Diners privileges"
+          },
+          {
+            "slug": "corporate",
+            "title": "Corporate"
+          },
+          {
+            "slug": "business",
+            "title": "Business"
+          },
+          {
+            "slug": "biz-black",
+            "title": "Biz Black"
+          },
+          {
+            "slug": "biz-power",
+            "title": "Biz power"
+          },
+          {
+            "slug": "default",
+            "title": "default"
+          },
+          {
+            "slug": "nonspc",
+            "title": "default-non-spc"
+          }
+        ]
+      },
+      {
+        "id": "62a9b487-c5f5-428a-88a9-206255c37d8f",
+        "title": "Travel",
+        "slug": "travel-d",
+        "key": "travel-and-stays",
+        "badge": null,
+        "openRedirectUrlInNewTab": false,
+        "link": "https://offers-smartbuyuat.reward360.in/osb/compare-fly",
+        "activeIcon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/travel_Active_369c6a8a50.svg",
+        "inactiveIcon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/travel_In_Active_8c1beb7daf.svg",
+        "card_programs": [
+          {
+            "slug": "diners",
+            "title": "Diners"
+          },
+          {
+            "slug": "diners-privilege",
+            "title": "Diners privileges"
+          },
+          {
+            "slug": "diners-black",
+            "title": "Diners Black"
+          },
+          {
+            "slug": "diners-black-metal",
+            "title": "Diners Black Metal"
+          },
+          {
+            "slug": "infinia",
+            "title": "Infinia"
+          },
+          {
+            "slug": "regalia",
+            "title": "Regalia"
+          },
+          {
+            "slug": "regaliagold",
+            "title": "Regalia Gold"
+          },
+          {
+            "slug": "corporate",
+            "title": "Corporate"
+          },
+          {
+            "slug": "business",
+            "title": "Business"
+          },
+          {
+            "slug": "biz-black",
+            "title": "Biz Black"
+          },
+          {
+            "slug": "biz-power",
+            "title": "Biz power"
+          },
+          {
+            "slug": "irctc-co-brand",
+            "title": "IRCTC Co Brand"
+          },
+          {
+            "slug": "default",
+            "title": "default"
+          },
+          {
+            "slug": "nonspc",
+            "title": "default-non-spc"
+          },
+          {
+            "slug": "concierge",
+            "title": "concierge  "
+          },
+          {
+            "slug": "infinia-bharat",
+            "title": "Infinia-bharat"
+          },
+          {
+            "slug": "infinia-reserve",
+            "title": "Infinia-reserve"
+          }
+        ]
+      },
+      {
+        "id": "d2fead25-c1b3-43e7-be3e-35015ae9176a",
+        "title": "My Rewards",
+        "slug": "my-rewardsinfinia",
+        "key": "my-rewards",
+        "badge": null,
+        "openRedirectUrlInNewTab": false,
+        "link": "https://offers-smartbuyuat.reward360.in/rewards/infinia",
+        "activeIcon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/cart_Active_f2473a8f38.svg",
+        "inactiveIcon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/cart_In_Active_e0abc5d45e.svg",
+        "card_programs": [
+          {
+            "slug": "infinia",
+            "title": "Infinia"
+          },
+          {
+            "slug": "infinia-bharat",
+            "title": "Infinia-bharat"
+          },
+          {
+            "slug": "infinia-reserve",
+            "title": "Infinia-reserve"
+          }
+        ]
+      },
+      {
+        "id": "bf0140a9-86f9-40ca-9331-0e93018e7929",
+        "title": "My Bookings",
+        "slug": "my-bookings",
+        "key": "my-bookings",
+        "badge": null,
+        "openRedirectUrlInNewTab": false,
+        "link": "https://offers-smartbuyuat.reward360.in/manage_orders",
+        "activeIcon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/Blue_Bookings_f530236b61.svg",
+        "inactiveIcon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/Grey_Bookings_1a8f851ec7.svg",
+        "card_programs": [
+          {
+            "slug": "business",
+            "title": "Business"
+          },
+          {
+            "slug": "default",
+            "title": "default"
+          },
+          {
+            "slug": "infinia",
+            "title": "Infinia"
+          },
+          {
+            "slug": "diners",
+            "title": "Diners"
+          },
+          {
+            "slug": "regaliagold",
+            "title": "Regalia Gold"
+          },
+          {
+            "slug": "regalia",
+            "title": "Regalia"
+          },
+          {
+            "slug": "diners-privilege",
+            "title": "Diners privileges"
+          },
+          {
+            "slug": "infinia-bharat",
+            "title": "Infinia-bharat"
+          },
+          {
+            "slug": "nonspc",
+            "title": "default-non-spc"
+          },
+          {
+            "slug": "biz-power",
+            "title": "Biz power"
+          },
+          {
+            "slug": "infinia-reserve",
+            "title": "Infinia-reserve"
+          },
+          {
+            "slug": "diners-black",
+            "title": "Diners Black"
+          },
+          {
+            "slug": "diners-black-metal",
+            "title": "Diners Black Metal"
+          },
+          {
+            "slug": "corporate",
+            "title": "Corporate"
+          },
+          {
+            "slug": "biz-black",
+            "title": "Biz Black"
+          },
+          {
+            "slug": "irctc-co-brand",
+            "title": "IRCTC Co Brand"
+          }
+        ]
+      },
+      {
+        "id": "ef8f0fd6-c6ab-41d1-84cd-a37d58b7c802",
+        "title": "Discover",
+        "slug": "discover",
+        "key": "discover",
+        "badge": null,
+        "openRedirectUrlInNewTab": false,
+        "link": "https://offers-smartbuyuat.reward360.in/osb/discover-sb",
+        "activeIcon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/discover_Active_cf58e7257d.svg",
+        "inactiveIcon": "https://d2hx8jjky1f7ly.cloudfront.net/cms/discover_In_Active_2c53c3f6f7.svg",
+        "card_programs": [
+          {
+            "slug": "default",
+            "title": "default"
+          },
+          {
+            "slug": "corporate",
+            "title": "Corporate"
+          },
+          {
+            "slug": "nonspc",
+            "title": "default-non-spc"
+          },
+          {
+            "slug": "infinia",
+            "title": "Infinia"
+          },
+          {
+            "slug": "infinia-bharat",
+            "title": "Infinia-bharat"
+          },
+          {
+            "slug": "infinia-reserve",
+            "title": "Infinia-reserve"
+          },
+          {
+            "slug": "regalia",
+            "title": "Regalia"
+          },
+          {
+            "slug": "regaliagold",
+            "title": "Regalia Gold"
+          },
+          {
+            "slug": "diners",
+            "title": "Diners"
+          },
+          {
+            "slug": "diners-black",
+            "title": "Diners Black"
+          },
+          {
+            "slug": "diners-black-metal",
+            "title": "Diners Black Metal"
+          },
+          {
+            "slug": "diners-privilege",
+            "title": "Diners privileges"
+          },
+          {
+            "slug": "business",
+            "title": "Business"
+          },
+          {
+            "slug": "biz-black",
+            "title": "Biz Black"
+          },
+          {
+            "slug": "biz-power",
+            "title": "Biz power"
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "id": 1,
+    "documentId": "uty3nwdd9vmruky9pdq1omdf",
+    "disclaimerText": "HDFC Bank SmartBuy is a platform for communication of offers extended by Merchants to HDFC Bank's Customers. HDFC Bank is only communicating the offers extended by Merchants to its Customers and not Selling/Rendering any of these Products/Services. HDFC Bank is merely facilitating the payment to its Customers by providing the Payment Gateway Services. HDFC Bank is neither guaranteeing nor making any representation. HDFC Bank is not responsible for Sale/Quality/Features of the Products/Services under the offers.",
+    "email1": "Infinia.services@hdfcbank.com",
+    "mobile1": "800118887",
+    "email2": null,
+    "mobile2": "022 42320226",
+    "createdAt": "2025-06-02T11:45:02.646Z",
+    "updatedAt": "2026-04-15T05:48:35.237Z",
+    "publishedAt": null,
+    "locale": null,
+    "title": "infinia_footer",
+    "supportTiming": "9to21hrs,MontoSatOnly",
+    "card_programs": [
+      {
+        "id": 1,
+        "documentId": "duhamyzyvad2n1js5gw8kzgv",
+        "title": "Infinia",
+        "slug": "infinia",
+        "createdAt": "2025-05-19T13:54:32.555Z",
+        "updatedAt": "2026-05-14T13:27:28.107Z",
+        "publishedAt": null,
+        "locale": null,
+        "metaTitle": null,
+        "metaDescription": null,
+        "is_search_enabled": null
+      }
+    ],
+    "footer_links": [
+      {
+        "id": 16,
+        "documentId": "c5ffxtordfzi5199n6x4ss6c",
+        "title": "About Us",
+        "redirectUrl": "https://offers-smartbuyuat.reward360.in/aboutus",
+        "textColor": null,
+        "createdAt": "2025-06-17T08:07:15.166Z",
+        "updatedAt": "2025-08-12T11:42:08.541Z",
+        "publishedAt": "2025-07-17T05:45:18.238Z",
+        "locale": null,
+        "openRedirectUrlInNewTab": false
+      },
+      {
+        "id": 18,
+        "documentId": "u8rrf6l16asdgzx6dx156zmu",
+        "title": "FAQs",
+        "redirectUrl": "https://offers-smartbuyuat.reward360.in/faqs",
+        "textColor": null,
+        "createdAt": "2025-06-17T08:11:04.330Z",
+        "updatedAt": "2025-08-12T11:42:08.547Z",
+        "publishedAt": "2025-07-17T05:46:14.347Z",
+        "locale": null,
+        "openRedirectUrlInNewTab": false
+      },
+      {
+        "id": 21,
+        "documentId": "usn2wjuosxrkt15gweoc0u92",
+        "title": "Terms and Conditions",
+        "redirectUrl": "https://offers-smartbuyuat.reward360.in/terms_conditions",
+        "textColor": null,
+        "createdAt": "2025-06-17T08:14:45.558Z",
+        "updatedAt": "2025-08-12T11:42:08.567Z",
+        "publishedAt": "2025-07-17T05:47:44.653Z",
+        "locale": null,
+        "openRedirectUrlInNewTab": false
+      },
+      {
+        "id": 20,
+        "documentId": "iv5c239ol5g32mz917qhwrez",
+        "title": "Privacy Policy",
+        "redirectUrl": "https://offers-smartbuyuat.reward360.in/privacy_policy",
+        "textColor": null,
+        "createdAt": "2025-06-17T08:12:02.176Z",
+        "updatedAt": "2025-08-12T11:42:08.560Z",
+        "publishedAt": "2025-07-17T05:47:23.608Z",
+        "locale": null,
+        "openRedirectUrlInNewTab": false
+      },
+      {
+        "id": 17,
+        "documentId": "mxhsmmx9aup0nsz4x07ffyop",
+        "title": "Customer Support",
+        "redirectUrl": "https://offers-smartbuyuat.reward360.in/customer_support",
+        "textColor": null,
+        "createdAt": "2025-06-17T08:09:13.666Z",
+        "updatedAt": "2025-08-12T11:42:08.553Z",
+        "publishedAt": "2025-07-17T05:47:03.156Z",
+        "locale": null,
+        "openRedirectUrlInNewTab": false
+      }
+    ]
+  },
+  "ticker": {
+    "id": 157,
+    "documentId": "cpd5rdvwtrp56xyhwlmf3ryw",
+    "title": "maintainance",
+    "content": "\u003Cp\u003E\u003Cspan data-teams=\"true\"\u003EDear Customers, Due to a scheduled maintenance activity, Points redemption services will not be available between May 23rd, 2026 1:00 AM and May 23rd, 2026 04:00 PM. We thank you for your patience and apologize for the inconvenience caused.\u003C/span\u003E\u003C/p\u003E",
+    "isActive": true,
+    "startTime": "2026-04-30T18:30:00.000Z",
+    "endTime": "2026-05-23T11:00:00.000Z",
+    "createdAt": "2026-05-22T16:58:02.836Z",
+    "updatedAt": "2026-05-22T16:55:30.769Z",
+    "publishedAt": "2026-05-22T16:55:30.779Z",
+    "card_programs": [
+      {
+        "id": 236,
+        "documentId": "jxzhfjcwl015ahrtznef5vt5",
+        "title": "Biz Black",
+        "slug": "biz-black",
+        "createdAt": "2025-08-11T04:14:32.244Z",
+        "updatedAt": "2026-05-14T12:31:26.083Z",
+        "publishedAt": "2026-05-14T12:31:26.183Z",
+        "metaTitle": null,
+        "metaDescription": null
+      },
+      {
+        "id": 245,
+        "documentId": "dnl0gzyc0jiyz4av4e04xpxn",
+        "title": "Biz power",
+        "slug": "biz-power",
+        "createdAt": "2025-09-12T12:32:43.889Z",
+        "updatedAt": "2026-05-14T12:40:35.624Z",
+        "publishedAt": "2026-05-14T12:40:35.718Z",
+        "metaTitle": null,
+        "metaDescription": null
+      },
+      {
+        "id": 250,
+        "documentId": "kxnvuc8z7xyjycrnn6ezt9j2",
+        "title": "Business",
+        "slug": "business",
+        "createdAt": "2025-06-13T03:00:30.110Z",
+        "updatedAt": "2026-05-14T12:45:19.194Z",
+        "publishedAt": "2026-05-14T12:45:19.296Z",
+        "metaTitle": null,
+        "metaDescription": null
+      },
+      {
+        "id": 172,
+        "documentId": "a0o8sda5e10fe5jego667cre",
+        "title": "concierge ",
+        "slug": "concierge",
+        "createdAt": "2026-04-23T12:09:16.708Z",
+        "updatedAt": "2026-04-23T20:38:53.181Z",
+        "publishedAt": "2026-04-23T20:38:53.304Z",
+        "metaTitle": null,
+        "metaDescription": null
+      },
+      {
+        "id": 252,
+        "documentId": "qg7dyaly038aa79nvnk3e0r0",
+        "title": "Corporate",
+        "slug": "corporate",
+        "createdAt": "2025-06-16T01:20:13.279Z",
+        "updatedAt": "2026-05-14T12:50:17.159Z",
+        "publishedAt": "2026-05-14T12:50:17.264Z",
+        "metaTitle": null,
+        "metaDescription": null
+      },
+      {
+        "id": 260,
+        "documentId": "jlvivc3hs3kbmn78ukm0h8xt",
+        "title": "default",
+        "slug": "default",
+        "createdAt": "2025-06-02T06:20:32.090Z",
+        "updatedAt": "2026-05-15T06:09:18.944Z",
+        "publishedAt": "2026-05-15T06:09:19.119Z",
+        "metaTitle": null,
+        "metaDescription": null
+      },
+      {
+        "id": 216,
+        "documentId": "hdw5deb2pmach5p2lvqsr0fr",
+        "title": "default-non-spc",
+        "slug": "nonspc",
+        "createdAt": "2025-09-10T12:50:36.199Z",
+        "updatedAt": "2026-05-14T11:54:37.990Z",
+        "publishedAt": "2026-05-14T11:54:38.086Z",
+        "metaTitle": null,
+        "metaDescription": null
+      },
+      {
+        "id": 241,
+        "documentId": "uxztwm6ex5j3ovhx8ghovsbp",
+        "title": "Diners",
+        "slug": "diners",
+        "createdAt": "2025-06-16T01:28:17.019Z",
+        "updatedAt": "2026-05-14T12:38:41.198Z",
+        "publishedAt": "2026-05-14T12:38:41.291Z",
+        "metaTitle": null,
+        "metaDescription": null
+      },
+      {
+        "id": 254,
+        "documentId": "q8zxlmjc5cjuvwkfy07skf77",
+        "title": "Diners Black PVC",
+        "slug": "diners-black",
+        "createdAt": "2025-10-09T12:18:50.673Z",
+        "updatedAt": "2026-05-14T12:56:57.349Z",
+        "publishedAt": "2026-05-14T12:56:57.435Z",
+        "metaTitle": null,
+        "metaDescription": null
+      },
+      {
+        "id": 242,
+        "documentId": "jqk2h00ifbbatlg8mhdqflg9",
+        "title": "Diners Black Metal",
+        "slug": "diners-black-metal",
+        "createdAt": "2025-10-09T12:19:07.871Z",
+        "updatedAt": "2026-05-14T12:41:22.641Z",
+        "publishedAt": "2026-05-14T12:41:22.829Z",
+        "metaTitle": null,
+        "metaDescription": null
+      },
+      {
+        "id": 256,
+        "documentId": "wnhnpgc5n1c58nqma0v3pgje",
+        "title": "Diners privileges",
+        "slug": "diners-privilege",
+        "createdAt": "2025-06-20T00:33:11.423Z",
+        "updatedAt": "2026-05-14T13:08:02.042Z",
+        "publishedAt": "2026-05-14T13:08:02.212Z",
+        "metaTitle": null,
+        "metaDescription": null
+      },
+      {
+        "id": 257,
+        "documentId": "duhamyzyvad2n1js5gw8kzgv",
+        "title": "Infinia",
+        "slug": "infinia",
+        "createdAt": "2025-05-19T08:24:32.555Z",
+        "updatedAt": "2026-05-14T13:11:00.774Z",
+        "publishedAt": "2026-05-14T13:11:00.942Z",
+        "metaTitle": null,
+        "metaDescription": null
+      },
+      {
+        "id": 262,
+        "documentId": "xxn54dpf7aptw92zog5i93ic",
+        "title": "Infinia-reserve",
+        "slug": "infinia-reserve",
+        "createdAt": "2025-10-16T11:16:22.584Z",
+        "updatedAt": "2026-05-19T07:07:34.856Z",
+        "publishedAt": "2026-05-19T07:07:34.948Z",
+        "metaTitle": null,
+        "metaDescription": null
+      },
+      {
+        "id": 261,
+        "documentId": "ugmhndighb59e5py3wxmzysu",
+        "title": "Infinia-bharat",
+        "slug": "infinia-bharat",
+        "createdAt": "2025-08-12T06:17:39.390Z",
+        "updatedAt": "2026-05-19T07:07:19.549Z",
+        "publishedAt": "2026-05-19T07:07:19.639Z",
+        "metaTitle": null,
+        "metaDescription": null
+      },
+      {
+        "id": 251,
+        "documentId": "r3crp2sor6jm8tjj8sbi7ofu",
+        "title": "IRCTC Co Brand",
+        "slug": "irctc-co-brand",
+        "createdAt": "2025-06-19T07:08:45.350Z",
+        "updatedAt": "2026-05-14T12:48:25.506Z",
+        "publishedAt": "2026-05-14T12:48:25.584Z",
+        "metaTitle": null,
+        "metaDescription": null
+      },
+      {
+        "id": 259,
+        "documentId": "pyzw5mhzhjx1qsnr0f4sgf2j",
+        "title": "Non reward card",
+        "slug": "nonreward",
+        "createdAt": "2026-04-27T09:10:43.801Z",
+        "updatedAt": "2026-05-14T13:21:20.218Z",
+        "publishedAt": "2026-05-14T13:21:20.405Z",
+        "metaTitle": null,
+        "metaDescription": null
+      },
+      {
+        "id": 247,
+        "documentId": "shixn9n4186eex4v0mhxb743",
+        "title": "Regalia",
+        "slug": "regalia",
+        "createdAt": "2025-05-30T01:21:59.979Z",
+        "updatedAt": "2026-05-14T12:41:35.157Z",
+        "publishedAt": "2026-05-14T12:41:35.247Z",
+        "metaTitle": null,
+        "metaDescription": null
+      },
+      {
+        "id": 248,
+        "documentId": "c07sxi9no4q4nahogc53pnjg",
+        "title": "Regalia Gold",
+        "slug": "regaliagold",
+        "createdAt": "2025-06-16T01:20:00.284Z",
+        "updatedAt": "2026-05-14T12:41:55.133Z",
+        "publishedAt": "2026-05-14T12:41:55.226Z",
+        "metaTitle": null,
+        "metaDescription": null
+      },
+      {
+        "id": 249,
+        "documentId": "h3zng9uvsnd63bmiarieaofn",
+        "title": "tata_neu_card",
+        "slug": "tata_neu",
+        "createdAt": "2026-05-13T13:44:23.465Z",
+        "updatedAt": "2026-05-14T12:44:59.310Z",
+        "publishedAt": "2026-05-14T12:44:59.516Z",
+        "metaTitle": null,
+        "metaDescription": null
+      }
+    ]
+  },
+  "disclaimers": [
+    {
+      "partnerName": "emistore",
+      "slug": "emistore",
+      "disclaimer": {
+        "title": "\u003Cp\u003ECant redeem points here\u003C/p\u003E",
+        "content": "\u003Cp\u003EDear Customer,\u003C/p\u003E\u003Cp\u003EBy clicking on the hyperlink, you will be exiting the HDFC Bank SmartBuy website and entering into the Merchant‘s website. This link is provided only for the convenience of HDFC Bank’s customers, HDFC Bank will not earn any commission or any other fee upon its Customers viewing the offers made available by Merchants or purchasing/ availing of a Product/Service offered by Merchants, except the customary considerations for use of credit card/debit cards/net banking facility. The Customer is free to purchase/avail them from any other stores/online platforms and by using any other payment mechanism.\u003C/p\u003E\u003Cp\u003E&nbsp;\u003C/p\u003E\u003Cp\u003EHDFC Bank is not selling/rendering any of these Products/Services. Neither is HDFC Bank guaranteeing nor making any representation with respect to the offers made by the merchants and HDFC Bank is not liable /responsible for the sale/quality/features of the Products/Services selected for purchase by the customers. HDFC Bank is merely facilitating the payment by its Customers by providing Payment Gateway Services.\u003C/p\u003E\u003Cp\u003EImportant Note:\u003C/p\u003E\u003Cp\u003ESmartBuy offer benefits are not applicable on usage of non HDFC Bank payment instruments.\u003C/p\u003E\u003Cp\u003E1. This redirection holds good only for Customer Capital’s MyEMIShop via SmartBuy. Hence, the benefit of 5% Instant Cashback from MyEMIShop would only be applicable for Customer Capital’s MyEMIShop via SmartBuy.\u003C/p\u003E\u003Cp\u003E2. The payment modes for EMI Store have been restricted to only HDFC Bank payment methods. No other payment instruments can be utilised here. This again would only be applicable for Customer Capital’s MyEMIShop via SmartBuy\u003C/p\u003E",
+        "buttonText": "Proceed",
+        "type": null,
+        "displayName": "emistore",
+        "footerContent": "\u003Cp\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003EThank&nbsp;you&nbsp;for&nbsp;visiting&nbsp; https://offers.reward360.in/. Please \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-shadow:none;box-sizing:border-box;color:inherit;font-family:opensans-regular;font-size:12px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;line-height:1.2;list-style:none;margin:0px;orphans:2;outline:none;overflow-wrap:break-word;padding:0px;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://offers.reward360.in/terms_conditions\" _ngcontent-cou-c139=\"\"\u003E\u003Cu style=\"box-sizing:border-box;font-family:opensans-regular;line-height:20px;list-style:none;margin:0px;outline:none;overflow-wrap:break-word;padding:0px;\" _ngcontent-cou-c139=\"\"\u003Eclick here\u003C/u\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E for detailed terms &amp; conditions.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E"
+      },
+      "card_program": "default"
+    },
+    {
+      "partnerName": "system-default",
+      "slug": "system-default",
+      "disclaimers": [
+        {
+          "title": "\u003Cp\u003EDisclaimer\u003C/p\u003E",
+          "content": "\u003Cp\u003ESmartBuy is a platform that solely displays offers extended by Merchants to HDFC Bank's Customers. HDFC Bank is not responsible for selling/rendering any of the listed Products/Services. HDFC Bank does not act as an express or implied agent of the listed Merchants/owners of the following vis-a-vis the Customers.\u003C/p\u003E\u003Cp\u003EHDFC Bank merely facilitates the payment from Customers by providing Payment Gateway Services, and will not earn any fee by hosting this website.\u003C/p\u003E\u003Cp\u003EHDFC Bank neither guarantees nor makes any representation with respect to the offers made by the Merchant. HDFC Bank is not responsible for the sale/quality/features of the Products/Services listed.\u003C/p\u003E\u003Cp\u003EIf the Customer proceeds, any purchase of Products/Services made through HDFC Bank's credit/debit cards/net banking facilities only. The Products/Services offered by Merchants may also be available at other stores/online platforms. The Customer's discretion is advised in this regard.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EHDFC Bank SmartBuy is designed to bring valuable offers and deals. The customer can use his / her discretion to check merchant offers available online or at stores and purchase / avail them from any other stores / online platforms basis their payment needs.\u003C/strong\u003E\u003C/p\u003E",
+          "buttonText": "Proceed",
+          "type": "consent_popup",
+          "displayName": "consent_popup",
+          "footerContent": "\u003Cp\u003E\u003Cspan style=\"color:rgb(155,155,155);\"\u003EBy choosing Proceed, I am accepting all \u003C/span\u003E\u003Ca href=\"https://offers.reward360.in/terms_conditions\"\u003E\u003Cu\u003ETerms and conditions\u003C/u\u003E\u003C/a\u003E\u003C/p\u003E",
+          "card_program": {
+            "id": 5,
+            "documentId": "jlvivc3hs3kbmn78ukm0h8xt",
+            "slug": "default"
+          }
+        },
+        {
+          "title": "\u003Cp\u003E\u003Cstrong\u003EDisclaimer\u003C/strong\u003E\u003C/p\u003E",
+          "content": "\u003Cp\u003EBy clicking \"I ACCEPT,\" you are acknowledging and agreeing to this disclaimer and the subsequent automatic redirection to a third-party website, i.e., the website of Reward360, which you may proceed to use for your transactions.\u003C/p\u003E\u003Cp\u003EThis Website is not owned, controlled or endorsed by HDFC Bank Limited, its affiliates, subsidiaries, employees, officers, directors, personnel or agents (hereinafter \"HDFC Bank\")\u003C/p\u003E\u003Cp\u003EHDFC Bank does not warrant the accuracy or completeness of the services, information, materials, tools or reliability of any service, advice, opinion, statement or information displayed or distributed through the Website. Furthermore, it is advised that you make your own enquiries and arrangements to verify, scan and check the Website for any viruses, malicious code or malware. HDFC Bank provides no warranties whatsoever in this regard. Upon agreeing, you understand and acknowledge that accessing/availing any service offered on the Website or relying on any opinion, statement, or information presented on the Website shall be at your sole risk.\u003C/p\u003E\u003Cp\u003EThe information/services available on the Website is subject to change, revision, verification and/or amendment without notice. Such services/information may change materially at any time, and you agree and accept the same.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EHDFC Bank SmartBuy is designed to bring valuable offers and deals. The customer can use his / her discretion to check merchant offers available online or at stores and purchase / avail them from any other stores / online platforms basis their payment needs.\u003C/strong\u003E\u003C/p\u003E",
+          "buttonText": "Proceed",
+          "type": "navigate-to-r360",
+          "displayName": "redirect-main-domain",
+          "footerContent": "\u003Cp\u003E\u003Cspan style=\"color:hsl(0,0%,30%);\"\u003EBy choosing Proceed, I am accepting all\u003C/span\u003E \u003Ca target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://offers-smartbuyuat.reward360.in/faqs\"\u003ETerms and conditions\u003C/a\u003E\u003C/p\u003E",
+          "card_program": null
+        }
+      ]
+    },
+    {
+      "partnerName": "abhiBus",
+      "slug": "abhiBus",
+      "disclaimer": {
+        "title": "\u003Cp\u003EEarn upto 5X Reward Points/ 5% Cashback when you Book via SmartBuy. You cannot redeem points here\u003C/p\u003E",
+        "content": "\u003Cp\u003E\u003Cspan style=\"color:inherit;\"\u003EDear Customer,\u003C/span\u003E\u003C/p\u003E\u003Cp\u003E\u003Cspan style=\"color:inherit;\"\u003EBy clicking on the hyperlink you will be exiting HDFC Bank SmartBuy website and entering into the Merchant's website. This link is provided only for the convenience of HDFC Bank's customers, HDFC Bank will not earn any commission or any other fee upon its Customers viewing the offers made available by Merchants or purchasing/ availing of a Product/Service offered by Merchants, except the customary considerations for use of credit card/debit cards/net banking facility. The Customer is free to purchase/avail them from any other stores/online platforms and by using any other payment mechanism.\u003C/span\u003E\u003C/p\u003E\u003Cp\u003E\u003Cspan style=\"color:inherit;\"\u003EHDFC Bank is not selling/rendering any of these Products/Services. Neither is HDFC Bank guaranteeing nor making any representation with respect to the offers made by the merchants and HDFC Bank is not liable /responsible for sale/quality/features of the Products/Services selected for purchase by the customers. HDFC Bank is merely facilitating the payment by its Customers by providing the Payment Gateway Services.\u003C/span\u003E\u003C/p\u003E\u003Cp\u003E\u003Cspan style=\"color:inherit;\"\u003E\u003Cstrong\u003EImportant Note:\u003C/strong\u003E\u003C/span\u003E\u003Cbr\u003E\u003Cspan style=\"color:inherit;\"\u003ESmartBuy offer benefits are not applicable on usage of non HDFC Bank payment instruments.\u003C/span\u003E\u003Cbr\u003E\u003Cspan style=\"color:inherit;\"\u003EThis redirection holds good only for this brand via SmartBuy. Hence, upto 5X RP/ 5 %CB benefit would only be applicable for this brand via SmartBuy.\u003C/span\u003E\u003Cbr\u003E\u003Cspan style=\"color:inherit;\"\u003EThe payment modes have been restricted to only HDFC Bank payment methods. No other payment instruments can be utilised here.\u003C/span\u003E\u003Cbr\u003E\u003Cspan style=\"color:inherit;\"\u003EHDFC Bank SmartBuy is designed to bring valuable offers and deals. The customer can use his / her discretion to check merchant offers available online or at stores and purchase / avail them from any other stores / online platforms basis their payment needs.\u003C/span\u003E\u003C/p\u003E",
+        "buttonText": "Proceed",
+        "type": "default",
+        "displayName": "abhiBus",
+        "footerContent": "\u003Cp\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003EThank&nbsp;you&nbsp;for&nbsp;visiting&nbsp; https://offers.reward360.in/. Please \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-shadow:none;box-sizing:border-box;color:inherit;font-family:opensans-regular;font-size:12px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;line-height:1.2;list-style:none;margin:0px;orphans:2;outline:none;overflow-wrap:break-word;padding:0px;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://offers.reward360.in/terms_conditions\" _ngcontent-fun-c149=\"\"\u003E\u003Cu style=\"box-sizing:border-box;font-family:opensans-regular;line-height:20px;list-style:none;margin:0px;outline:none;overflow-wrap:break-word;padding:0px;\" _ngcontent-fun-c149=\"\"\u003Eclick here\u003C/u\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E for detailed terms &amp; conditions.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E"
+      },
+      "card_program": "default"
+    },
+    {
+      "partnerName": "redBus",
+      "slug": "redBus",
+      "disclaimer": {
+        "title": "\u003Cp\u003EEarn upto 5X Reward Points/ 5% Cashback when you Book via SmartBuy. You cannot redeem points here\u003C/p\u003E",
+        "content": "\u003Cp\u003E\u003Cspan style=\"color:inherit;\"\u003EDear Customer,\u003C/span\u003E\u003C/p\u003E\u003Cp\u003E\u003Cspan style=\"color:inherit;\"\u003EBy clicking on the hyperlink you will be exiting HDFC Bank SmartBuy website and entering into the Merchant's website. This link is provided only for the convenience of HDFC Bank's customers, HDFC Bank will not earn any commission or any other fee upon its Customers viewing the offers made available by Merchants or purchasing/ availing of a Product/Service offered by Merchants, except the customary considerations for use of credit card/debit cards/net banking facility. The Customer is free to purchase/avail them from any other stores/online platforms and by using any other payment mechanism.\u003C/span\u003E\u003C/p\u003E\u003Cp\u003E\u003Cspan style=\"color:inherit;\"\u003EHDFC Bank is not selling/rendering any of these Products/Services. Neither is HDFC Bank guaranteeing nor making any representation with respect to the offers made by the merchants and HDFC Bank is not liable /responsible for sale/quality/features of the Products/Services selected for purchase by the customers. HDFC Bank is merely facilitating the payment by its Customers by providing the Payment Gateway Services.\u003C/span\u003E\u003C/p\u003E\u003Cp\u003E\u003Cspan style=\"color:inherit;\"\u003E\u003Cstrong\u003EImportant Note:\u003C/strong\u003E\u003C/span\u003E\u003Cbr\u003E\u003Cspan style=\"color:inherit;\"\u003ESmartBuy offer benefits are not applicable on usage of non HDFC Bank payment instruments.\u003C/span\u003E\u003Cbr\u003E\u003Cspan style=\"color:inherit;\"\u003EThis redirection holds good only for this brand via SmartBuy. Hence, upto 5X RP/ 5 %CB benefit would only be applicable for this brand via SmartBuy.\u003C/span\u003E\u003Cbr\u003E\u003Cspan style=\"color:inherit;\"\u003EThe payment modes have been restricted to only HDFC Bank payment methods. No other payment instruments can be utilised here.\u003C/span\u003E\u003Cbr\u003E\u003Cspan style=\"color:inherit;\"\u003EHDFC Bank SmartBuy is designed to bring valuable offers and deals. The customer can use his / her discretion to check merchant offers available online or at stores and purchase / avail them from any other stores / online platforms basis their payment needs.\u003C/span\u003E\u003C/p\u003E",
+        "buttonText": "Proceed",
+        "type": "default",
+        "displayName": "redBus",
+        "footerContent": "\u003Cp\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003EThank&nbsp;you&nbsp;for&nbsp;visiting&nbsp; https://offers.reward360.in/. Please \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-shadow:none;box-sizing:border-box;color:inherit;font-family:opensans-regular;font-size:12px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;line-height:1.2;list-style:none;margin:0px;orphans:2;outline:none;overflow-wrap:break-word;padding:0px;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://offers.reward360.in/terms_conditions\" _ngcontent-fun-c149=\"\"\u003E\u003Cu style=\"box-sizing:border-box;font-family:opensans-regular;line-height:20px;list-style:none;margin:0px;outline:none;overflow-wrap:break-word;padding:0px;\" _ngcontent-fun-c149=\"\"\u003Eclick here\u003C/u\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E for detailed terms &amp; conditions.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E"
+      },
+      "card_program": "default"
+    },
+    {
+      "partnerName": "Master Card",
+      "slug": "mastercard-twoplusone",
+      "disclaimer": {
+        "title": "\u003Cp\u003EYou cannot redeem points here. (Master Card POPUP)\u003C/p\u003E",
+        "content": "\u003Cp\u003EDear Customer,\u003C/p\u003E\u003Cp\u003EBy clicking on the hyperlink you will be exiting HDFC Bank SmartBuy website and entering into the Merchant's website. This link is provided only for the convenience of HDFC Bank's customers, HDFC Bank will not earn any commission or any other fee upon its Customers viewing the offers made available by Merchants or purchasing/ availing of a Product/Service offered by Merchants, except the customary considerations for use of credit card/debit cards/net banking facility. The Customer is free to purchase/avail them from any other stores/online platforms and by using any other payment mechanism.\u003C/p\u003E\u003Cp\u003EHDFC Bank is not selling/rendering any of these Products/Services. Neither is HDFC Bank guaranteeing nor making any representation with respect to the offers made by the merchants and HDFC Bank is not liable /responsible for sale/quality/features of the Products/Services selected for purchase by the customers. HDFC Bank is merely facilitating the payment by its Customers by providing the Payment Gateway Services.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EHDFC Bank SmartBuy is designed to bring valuable offers and deals. The customer can use his / her discretion to check merchant offers available online or at stores and purchase / avail them from any other stores / online platforms basis their payment needs.\u003C/strong\u003E\u003C/p\u003E",
+        "buttonText": "Proceed",
+        "type": null,
+        "displayName": "Master Card",
+        "footerContent": "\u003Cp\u003EThank you for visiting &nbsp;https://offers.reward360.in/. Please \u003Ca target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://offers.reward360.in/terms_conditions\"\u003Eclick here\u003C/a\u003E for detailed terms &amp; conditions.\u003C/p\u003E"
+      },
+      "card_program": "default"
+    },
+    {
+      "partnerName": "holiday packages",
+      "slug": "holiday-packages",
+      "disclaimer": {
+        "title": "\u003Cp\u003EEarn 5X Reward Points or 5% Cashback when you Book via SmartBuy.\u003Cbr\u003EYou cannot redeem points here.\u003C/p\u003E",
+        "content": "\u003Cp\u003EDear Customer,\u003C/p\u003E\u003Cp\u003EBy clicking on the hyperlink, you will be exiting the HDFC Bank SmartBuy website and entering into the Merchant's website. This link is provided only for the convenience of HDFC Bank's customers, HDFC Bank will not earn any commission or any other fee upon its Customers viewing the offers made available by Merchants or purchasing/ availing of a Product/Service offered by Merchants, except the customary considerations for use of credit card/debit cards/net banking facility. The Customer is free to purchase/avail them from any other stores/online platforms and by using any other payment mechanism.\u003Cbr\u003EHDFC Bank is not selling/rendering any of these Products/Services. Neither is HDFC Bank guaranteeing nor making any representation with respect to the offers made by the merchants and HDFC Bank is not liable /responsible for the sale/quality/features of the Products/Services selected for purchase by the customers. HDFC Bank is merely facilitating the payment by its Customers by providing Payment Gateway Services.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EImportant Note:\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003ESmartBuy offer benefits are not applicable on the usage of non-HDFC Bank payment instruments\u003Cbr\u003E1. This redirection holds good only for the website and m-web module via SmartBuy. Hence,5XRP/5%CB benefit would \u003Cstrong\u003Eonly be Applicable for MMT Holiday Packages via SmartBuy.\u003C/strong\u003E\u003Cbr\u003E2. The payment modes for MMT Holiday Packages have been restricted to \u003Cstrong\u003Eonly HDFC Bank payment methods.\u003C/strong\u003E No other payment instruments can be utilized here. This again would only be applicable to MMT Holiday Packages via SmartBuy.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EHDFC Bank SmartBuy is designed to bring valuable offers and deals. The customer can use his / her discretion to check merchant offers available online or at stores and purchase / avail them from any other stores / online platforms basis their payment needs.\u003C/strong\u003E\u003C/p\u003E",
+        "buttonText": "Proceed",
+        "type": null,
+        "displayName": "holiday packages",
+        "footerContent": "\u003Cp\u003E\u003Cspan style=\"color:rgb(155,155,155);\"\u003EThank&nbsp;you&nbsp;for&nbsp;visiting&nbsp; https://sbpreprod.reward360.in/. Please \u003C/span\u003E\u003Ca href=\"https://sbpreprod.reward360.in/terms_conditions\"\u003E\u003Cu\u003Eclick here\u003C/u\u003E\u003C/a\u003E\u003Cspan style=\"color:rgb(155,155,155);\"\u003E for detailed terms &amp; conditions.\u003C/span\u003E\u003C/p\u003E"
+      },
+      "card_program": "infinia"
+    },
+    {
+      "partnerName": "igp",
+      "slug": "igp",
+      "disclaimer": {
+        "title": "You cannot redeem points here.",
+        "content": "\u003Cp\u003EDear Customer,\u003C/p\u003E\u003Cp\u003EBy clicking on the hyperlink you will be exiting HDFC Bank SmartBuy website and entering into the Merchant's website. This link is provided only for the convenience of HDFC Bank's customers, HDFC Bank will not earn any commission or any other fee upon its Customers viewing the offers made available by Merchants or purchasing/ availing of a Product/Service offered by Merchants, except the customary considerations for use of credit card/debit cards/net banking facility. The Customer is free to purchase/avail them from any other stores/online platforms and by using any other payment mechanism.\u003C/p\u003E\u003Cp\u003EHDFC Bank is not selling/rendering any of these Products/Services. Neither is HDFC Bank guaranteeing nor making any representation with respect to the offers made by the merchants and HDFC Bank is not liable /responsible for sale/quality/features of the Products/Services selected for purchase by the customers. HDFC Bank is merely facilitating the payment by its Customers by providing the Payment Gateway Services.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EImportant Note:\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003ESmartBuy offer benefits are not applicable on usage of non HDFC Bank payment instruments\u003Cbr\u003E1. This redirection holds good only for igp module via SmartBuy. Hence, 10X RP/10% CB benefit would \u003Cu\u003Eonly be applicable for igp via SmartBuy\u003C/u\u003E.\u003Cbr\u003E2. The payment modes for igp have been restricted to \u003Cu\u003Eonly HDFC Bank payment methods\u003C/u\u003E. No other payment instruments can be utilised here. This again would only be applicable for igp via SmartBuy.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EHDFC Bank SmartBuy is designed to bring valuable offers and deals. The customer can use his / her discretion to check merchant offers available online or at stores and purchase / avail them from any other stores / online platforms basis their payment needs.\u003C/strong\u003E\u003C/p\u003E",
+        "buttonText": "Proceed",
+        "type": "default",
+        "displayName": "igp",
+        "footerContent": "\u003Cp\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003EThank&nbsp;you&nbsp;for&nbsp;visiting&nbsp; https://offers.reward360.in/. Please \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-shadow:none;box-sizing:border-box;color:inherit;font-family:opensans-regular;font-size:12px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;line-height:1.2;list-style:none;margin:0px;orphans:2;outline:none;overflow-wrap:break-word;padding:0px;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://offers.reward360.in/terms_conditions\" _ngcontent-cou-c139=\"\"\u003E\u003Cu style=\"box-sizing:border-box;font-family:opensans-regular;line-height:20px;list-style:none;margin:0px;outline:none;overflow-wrap:break-word;padding:0px;\" _ngcontent-cou-c139=\"\"\u003Eclick here\u003C/u\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E for detailed terms &amp; conditions.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E"
+      },
+      "card_program": "infinia"
+    },
+    {
+      "partnerName": "Visa ",
+      "slug": "visa-twoplusone",
+      "disclaimer": {
+        "title": "\u003Cp\u003EYou cannot redeem points here.(VISA POPUP)\u003C/p\u003E",
+        "content": "\u003Cp\u003EDear Customer,\u003C/p\u003E\u003Cp\u003EBy clicking on the hyperlink you will be exiting HDFC Bank SmartBuy website and entering into the Merchant's website. This link is provided only for the convenience of HDFC Bank's customers, HDFC Bank will not earn any commission or any other fee upon its Customers viewing the offers made available by Merchants or purchasing/ availing of a Product/Service offered by Merchants, except the customary considerations for use of credit card/debit cards/net banking facility. The Customer is free to purchase/avail them from any other stores/online platforms and by using any other payment mechanism.\u003C/p\u003E\u003Cp\u003EHDFC Bank is not selling/rendering any of these Products/Services. Neither is HDFC Bank guaranteeing nor making any representation with respect to the offers made by the merchants and HDFC Bank is not liable /responsible for sale/quality/features of the Products/Services selected for purchase by the customers. HDFC Bank is merely facilitating the payment by its Customers by providing the Payment Gateway Services.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EHDFC Bank SmartBuy is designed to bring valuable offers and deals. The customer can use his / her discretion to check merchant offers available online or at stores and purchase / avail them from any other stores / online platforms basis their payment needs.\u003C/strong\u003E\u003C/p\u003E",
+        "buttonText": "Proceed",
+        "type": null,
+        "displayName": "Visa Redirection",
+        "footerContent": "\u003Cp\u003EThank you for visiting &nbsp;https://offers.reward360.in/. Please \u003Ca target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://offers.reward360.in/terms_conditions\"\u003Eclick here\u003C/a\u003E for detailed terms &amp; conditions.\u003C/p\u003E"
+      },
+      "card_program": "default"
+    },
+    {
+      "partnerName": "instavouchers",
+      "slug": "instavouchers",
+      "disclaimer": {
+        "title": "You cannot redeem points here",
+        "content": "\u003Cp\u003EDear Customer,\u003C/p\u003E\u003Cp\u003ESmartBuy offer benefits are not applicable on usage of non HDFC Bank payment instruments\u003C/p\u003E\u003Cp\u003EBy clicking on the hyperlink you will be exiting HDFC Bank SmartBuy website and entering into the Merchant's website. This link is provided only for the convenience of HDFC Bank's customers, HDFC Bank will not earn any commission or any other fee upon its Customers viewing the offers made available by Merchants or purchasing/ availing of a Product/Service offered by Merchants, except the customary considerations for use of credit card/debit cards/net banking facility. The Customer is free to purchase/avail them from any other stores/online platforms and by using any other payment mechanism.\u003C/p\u003E\u003Cp\u003EHDFC Bank is not selling/rendering any of these Products/Services. Neither is HDFC Bank guaranteeing nor making any representation with respect to the offers made by the merchants and HDFC Bank is not liable /responsible for sale/quality/features of the Products/Services selected for purchase by the customers. HDFC Bank is merely facilitating the payment by its Customers by providing the Payment Gateway Services.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EHDFC Bank SmartBuy is designed to bring valuable offers and deals. The customer can use his / her discretion to check merchant offers available online or at stores and purchase / avail them from any other stores / online platforms basis their payment needs.\u003C/strong\u003E\u003C/p\u003E",
+        "buttonText": "Proceed",
+        "type": "default",
+        "displayName": "instavouchers",
+        "footerContent": "\u003Cp\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003EThank&nbsp;you&nbsp;for&nbsp;visiting&nbsp; https://offers.reward360.in/. Please \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-shadow:none;box-sizing:border-box;color:inherit;font-family:opensans-regular;font-size:12px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;line-height:1.2;list-style:none;margin:0px;orphans:2;outline:none;overflow-wrap:break-word;padding:0px;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://offers.reward360.in/terms_conditions\" _ngcontent-cou-c139=\"\"\u003E\u003Cu style=\"box-sizing:border-box;font-family:opensans-regular;line-height:20px;list-style:none;margin:0px;outline:none;overflow-wrap:break-word;padding:0px;\" _ngcontent-cou-c139=\"\"\u003Eclick here\u003C/u\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E for detailed terms &amp; conditions.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E"
+      },
+      "card_program": "infinia"
+    },
+    {
+      "partnerName": "myntra",
+      "slug": "myntra",
+      "disclaimer": {
+        "title": "Earn upto 5X Reward Points/ 5% Cashback when you Book via SmartBuy. You cannot redeem points here",
+        "content": "\u003Cp\u003EDear Customer,\u003C/p\u003E\u003Cp\u003EBy clicking on the hyperlink you will be exiting HDFC Bank SmartBuy website and entering into the Merchant's website. This link is provided only for the convenience of HDFC Bank's customers, HDFC Bank will not earn any commission or any other fee upon its Customers viewing the offers made available by Merchants or purchasing/ availing of a Product/Service offered by Merchants, except the customary considerations for use of credit card/debit cards/net banking facility. The Customer is free to purchase/avail them from any other stores/online platforms and by using any other payment mechanism.\u003C/p\u003E\u003Cp\u003EHDFC Bank is not selling/rendering any of these Products/Services. Neither is HDFC Bank guaranteeing nor making any representation with respect to the offers made by the merchants and HDFC Bank is not liable /responsible for sale/quality/features of the Products/Services selected for purchase by the customers. HDFC Bank is merely facilitating the payment by its Customers by providing the Payment Gateway Services.\u003C/p\u003E\u003Cp\u003E&nbsp;\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EImportant Note:\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003ESmartBuy offer benefits are not applicable on usage of non HDFC Bank payment instruments\u003Cbr\u003E1. This redirection holds good only for myntra module via SmartBuy. Hence, Upto 5X RP/5% CB benefit would \u003Cu\u003Eonly be applicable for myntra via SmartBuy\u003C/u\u003E.\u003Cbr\u003E2. The payment modes for myntra have been restricted to \u003Cu\u003Eonly HDFC Bank payment methods\u003C/u\u003E. No other payment instruments can be utilised here. This again would only be applicable for myntra via SmartBuy.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EHDFC Bank SmartBuy is designed to bring valuable offers and deals. The customer can use his / her discretion to check merchant offers available online or at stores and purchase / avail them from any other stores / online platforms basis their payment needs.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003E&nbsp;\u003C/p\u003E",
+        "buttonText": "Proceed",
+        "type": "default",
+        "displayName": "myntra",
+        "footerContent": "\u003Cp\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003EThank&nbsp;you&nbsp;for&nbsp;visiting&nbsp; https://offers.reward360.in/. Please \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-shadow:none;box-sizing:border-box;color:inherit;font-family:opensans-regular;font-size:12px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;line-height:1.2;list-style:none;margin:0px;orphans:2;outline:none;overflow-wrap:break-word;padding:0px;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://offers.reward360.in/terms_conditions\" _ngcontent-cou-c139=\"\"\u003E\u003Cu style=\"box-sizing:border-box;font-family:opensans-regular;line-height:20px;list-style:none;margin:0px;outline:none;overflow-wrap:break-word;padding:0px;\" _ngcontent-cou-c139=\"\"\u003Eclick here\u003C/u\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E for detailed terms &amp; conditions.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E"
+      },
+      "card_program": "infinia"
+    },
+    {
+      "partnerName": "jockey",
+      "slug": "jockey",
+      "disclaimer": {
+        "title": "You cannot redeem points here",
+        "content": "\u003Cp\u003EDear Customer,\u003C/p\u003E\u003Cp\u003EBy clicking on the hyperlink you will be exiting HDFC Bank SmartBuy website and entering into the Merchant's website. This link is provided only for the convenience of HDFC Bank's customers, HDFC Bank will not earn any commission or any other fee upon its Customers viewing the offers made available by Merchants or purchasing/ availing of a Product/Service offered by Merchants, except the customary considerations for use of credit card/debit cards/net banking facility. The Customer is free to purchase/avail them from any other stores/online platforms and by using any other payment mechanism.\u003C/p\u003E\u003Cp\u003EHDFC Bank is not selling/rendering any of these Products/Services. Neither is HDFC Bank guaranteeing nor making any representation with respect to the offers made by the merchants and HDFC Bank is not liable /responsible for sale/quality/features of the Products/Services selected for purchase by the customers. HDFC Bank is merely facilitating the payment by its Customers by providing the Payment Gateway Services.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EImportant Note:\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003ESmartBuy offer benefits are not applicable on usage of non HDFC Bank payment instruments\u003Cbr\u003E1. This redirection holds good only for jockey module via SmartBuy. Hence, 10X RP/10% CB benefit would \u003Cu\u003Eonly be applicable for jockey via SmartBuy\u003C/u\u003E.\u003Cbr\u003E2. The payment modes for jockey have been restricted to \u003Cu\u003Eonly HDFC Bank payment methods\u003C/u\u003E. No other payment instruments can be utilised here. This again would only be applicable for jockey via SmartBuy.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EHDFC Bank SmartBuy is designed to bring valuable offers and deals. The customer can use his / her discretion to check merchant offers available online or at stores and purchase / avail them from any other stores / online platforms basis their payment needs.\u003C/strong\u003E\u003C/p\u003E",
+        "buttonText": "Proceed",
+        "type": "default",
+        "displayName": "jockey",
+        "footerContent": "\u003Cp\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003EThank&nbsp;you&nbsp;for&nbsp;visiting&nbsp; https://offers.reward360.in/. Please \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-shadow:none;box-sizing:border-box;color:inherit;font-family:opensans-regular;font-size:12px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;line-height:1.2;list-style:none;margin:0px;orphans:2;outline:none;overflow-wrap:break-word;padding:0px;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://offers.reward360.in/terms_conditions\" _ngcontent-cou-c139=\"\"\u003E\u003Cu style=\"box-sizing:border-box;font-family:opensans-regular;line-height:20px;list-style:none;margin:0px;outline:none;overflow-wrap:break-word;padding:0px;\" _ngcontent-cou-c139=\"\"\u003Eclick here\u003C/u\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E for detailed terms &amp; conditions.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E"
+      },
+      "card_program": "infinia"
+    },
+    {
+      "partnerName": "drivado",
+      "slug": "drivado",
+      "disclaimer": {
+        "title": "\u003Cp\u003EEarn up to 10X Reward Points/ 10% Cashback when you Book via SmartBuy. You cannot redeem points here.\u003C/p\u003E",
+        "content": "\u003Cp\u003EDear Customer,\u003C/p\u003E\u003Cp\u003E&nbsp;\u003C/p\u003E\u003Cp\u003EBy clicking on the hyperlink you will be exiting HDFC Bank SmartBuy website and entering into the Merchant's website. This link is provided only for the convenience of HDFC Bank's customers, HDFC Bank will not earn any commission or any other fee upon its Customers viewing the offers made available by Merchants or purchasing/ availing of a Product/Service offered by Merchants, except the customary considerations for use of credit card/debit cards/net banking facility. The Customer is free to purchase/avail them from any other stores/online platforms and by using any other payment mechanism.\u003C/p\u003E\u003Cp\u003EHDFC Bank is not selling/rendering any of these Products/Services. Neither is HDFC Bank guaranteeing nor making any representation with respect to the offers made by the merchants and HDFC Bank is not liable /responsible for sale/quality/features of the Products/Services selected for purchase by the customers. HDFC Bank is merely facilitating the payment by its Customers by providing the Payment Gateway Services.\u003C/p\u003E\u003Cp\u003EImportant Note:\u003C/p\u003E\u003Cp\u003ESmartBuy offer benefits are not applicable on usage of non HDFC Bank payment instruments&nbsp;\u003C/p\u003E\u003Cp\u003E1. This redirection holds good only for the website and m-web module via SmartBuy. Hence, up to10X RP/ 10% CB benefit would \u003Cu\u003Eonly be applicable for Drivado via SmartBuy.\u003C/u\u003E&nbsp;\u003C/p\u003E\u003Cp\u003E2. The payment modes for Drivado have been restricted to \u003Cu\u003Eonly HDFC Bank payment methods.\u003C/u\u003E No other payment instruments can be utilised here. This again would only be applicable for Drivado via SmartBuy.\u003C/p\u003E\u003Cp\u003EHDFC Bank SmartBuy is designed to bring valuable offers and deals. The customer can use his / her discretion to check merchant offers available online or at stores and purchase / avail them from any other stores / online platforms basis their payment needs\u003C/p\u003E",
+        "buttonText": "Proceed",
+        "type": "default",
+        "displayName": "drivado",
+        "footerContent": "\u003Cp class=\"p1\"\u003EThank&nbsp;you&nbsp;for&nbsp;visiting&nbsp; https://offers.reward360.in/. Please \u003Ca target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://offers.reward360.in/terms_conditions\"\u003E\u003Cspan class=\"s1\"\u003Eclick here\u003C/span\u003E\u003C/a\u003E for detailed terms &amp; conditions.\u003C/p\u003E"
+      },
+      "card_program": "default"
+    },
+    {
+      "partnerName": "dreamfolks",
+      "slug": "dreamfolks",
+      "Disclaimers": [
+        {
+          "id": 3994,
+          "title": "\u003Cp\u003EYou cannot redeem your points here\u003C/p\u003E",
+          "content": "\u003Cp\u003EDear Customer,\u003C/p\u003E\u003Cp\u003EBy clicking on the hyperlink, you will be redirected from the HDFC Bank SmartBuy website to a third-party merchant website. This link is provided solely for the convenience of HDFC Bank customers. By proceeding, you acknowledge and consent to sharing certain personal information, including your mobile number and email ID, with the third-party service provider. The collection, use, and protection of such information shall be governed by the third party’s privacy policy and terms of use.\u003C/p\u003E\u003Cp\u003EHDFC Bank does not sell, provide, control, or render any products or services offered by the merchant and is acting solely as a facilitator by providing access to these services.\u003C/p\u003E\u003Cp\u003EHDFC Bank does not guarantee, endorse, or make any representation with respect to the merchant offers, products, or services and shall not be liable or responsible for the sale, quality, features, delivery, pricing, or performance of such products or services. Customers are free to purchase or avail products or services from any other merchant or platform using any payment method of their choice.\u003C/p\u003E\u003Cp\u003EHDFC Bank SmartBuy is intended to provide access to curated offers and deals. Customers are advised to exercise their own discretion while evaluating and availing merchant offerings.\u003C/p\u003E",
+          "buttonText": "Proceed",
+          "type": "default",
+          "displayName": "dreamfolks-regalia",
+          "footerContent": "\u003Cp\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003EThank&nbsp;you&nbsp;for&nbsp;visiting&nbsp; https://offers.reward360.in/. Please \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-shadow:none;box-sizing:border-box;color:inherit;font-family:opensans-regular;font-size:12px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;line-height:1.2;list-style:none;margin:0px;orphans:2;outline:none;overflow-wrap:break-word;padding:0px;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://offers.reward360.in/terms_conditions\" _ngcontent-fun-c149=\"\"\u003E\u003Cu style=\"box-sizing:border-box;font-family:opensans-regular;line-height:20px;list-style:none;margin:0px;outline:none;overflow-wrap:break-word;padding:0px;\" _ngcontent-fun-c149=\"\"\u003Eclick here\u003C/u\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E for detailed terms &amp; conditions.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E",
+          "card_program": {
+            "id": 9,
+            "documentId": "c07sxi9no4q4nahogc53pnjg",
+            "slug": "regaliagold"
+          }
+        }
+      ],
+      "disclaimer": null,
+      "card_program": "default"
+    },
+    {
+      "partnerName": "adani",
+      "slug": "adani",
+      "disclaimer": {
+        "title": "\u003Cp\u003EEarn 5X Reward Points/ 5% Cashback when you Book via SmartBuy. You cannot redeem points here\u003C/p\u003E",
+        "content": "\u003Cp\u003EDear Customer,\u003C/p\u003E\u003Cp\u003EBy clicking on the hyperlink you will be exiting HDFC Bank SmartBuy website and entering into the Merchant's website. This link is provided only for the convenience of HDFC Bank's customers, HDFC Bank will not earn any commission or any other fee upon its Customers viewing the offers made available by Merchants or purchasing/ availing of a Product/Service offered by Merchants, except the customary considerations for use of credit card/debit cards/net banking facility. The Customer is free to purchase/avail them from any other stores/online platforms and by using any other payment mechanism.\u003C/p\u003E\u003Cp\u003EHDFC Bank is not selling/rendering any of these Products/Services. Neither is HDFC Bank guaranteeing nor making any representation with respect to the offers made by the merchants and HDFC Bank is not liable /responsible for sale/quality/features of the Products/Services selected for purchase by the customers. HDFC Bank is merely facilitating the payment by its Customers by providing the Payment Gateway Services.\u003C/p\u003E\u003Cp\u003E&nbsp;\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EImportant Note:\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003ESmartBuy offer benefits are not applicable on usage of non HDFC Bank payment instruments\u003Cbr\u003E1. This redirection holds good only for adani module via SmartBuy. Hence, 5X RP/5% CB benefit would \u003Cu\u003Eonly be applicable for adani via SmartBuy\u003C/u\u003E.\u003Cbr\u003E2. The payment modes for adani have been restricted to \u003Cu\u003Eonly HDFC Bank payment methods\u003C/u\u003E. No other payment instruments can be utilised here. This again would only be applicable for adani via SmartBuy.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EHDFC Bank SmartBuy is designed to bring valuable offers and deals. The customer can use his / her discretion to check merchant offers available online or at stores and purchase / avail them from any other stores / online platforms basis their payment needs.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003E&nbsp;\u003C/p\u003E",
+        "buttonText": "Proceed",
+        "type": "default",
+        "displayName": "adani",
+        "footerContent": "\u003Cp\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003EThank&nbsp;you&nbsp;for&nbsp;visiting&nbsp; https://offers.reward360.in/. Please \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-shadow:none;box-sizing:border-box;color:inherit;font-family:opensans-regular;font-size:12px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;line-height:1.2;list-style:none;margin:0px;orphans:2;outline:none;overflow-wrap:break-word;padding:0px;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://offers.reward360.in/terms_conditions\" _ngcontent-cou-c139=\"\"\u003E\u003Cu style=\"box-sizing:border-box;font-family:opensans-regular;line-height:20px;list-style:none;margin:0px;outline:none;overflow-wrap:break-word;padding:0px;\" _ngcontent-cou-c139=\"\"\u003Eclick here\u003C/u\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E for detailed terms &amp; conditions.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E"
+      },
+      "card_program": "default"
+    },
+    {
+      "partnerName": "Gyfter Redirection",
+      "slug": "gyftr-brand-voucher",
+      "disclaimer": {
+        "title": "\u003Cp\u003EYou cannot redeem points here.\u003C/p\u003E",
+        "content": "\u003Cp\u003EDear Customer,\u003C/p\u003E\u003Cp\u003EBy clicking on the hyperlink you will be exiting HDFC Bank SmartBuy website and entering into the Merchant's website. This link is provided only for the convenience of HDFC Bank's customers, HDFC Bank will not earn any commission or any other fee upon its Customers viewing the offers made available by Merchants or purchasing/ availing of a Product/Service offered by Merchants, except the customary considerations for use of credit card/debit cards/net banking facility. The Customer is free to purchase/avail them from any other stores/online platforms and by using any other payment mechanism.\u003C/p\u003E\u003Cp\u003EHDFC Bank is not selling/rendering any of these Products/Services. Neither is HDFC Bank guaranteeing nor making any representation with respect to the offers made by the merchants and HDFC Bank is not liable /responsible for sale/quality/features of the Products/Services selected for purchase by the customers. HDFC Bank is merely facilitating the payment by its Customers by providing the Payment Gateway Services.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EHDFC Bank SmartBuy is designed to bring valuable offers and deals. The customer can use his / her discretion to check merchant offers available online or at stores and purchase / avail them from any other stores / online platforms basis their payment needs.\u003C/strong\u003E\u003C/p\u003E",
+        "buttonText": "Proceed",
+        "type": null,
+        "displayName": "Gyftr ",
+        "footerContent": "\u003Cp\u003EThank you for visiting &nbsp;https://offers.reward360.in/. Please \u003Ca target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://offers.reward360.in/terms_conditions\"\u003Eclick here\u003C/a\u003E for detailed terms &amp; conditions.\u003C/p\u003E"
+      },
+      "card_program": "default"
+    },
+    {
+      "partnerName": "makemytrip",
+      "slug": "makemytrip",
+      "disclaimer": {
+        "title": "\u003Cp\u003EEarn 5X Reward Points or 5% Cashback when you Book via SmartBuy.\u003Cbr\u003EYou cannot redeem points here.\u003C/p\u003E",
+        "content": "\u003Cp\u003EDear Customer,\u003C/p\u003E\u003Cp\u003EBy clicking on the hyperlink, you will be exiting the HDFC Bank SmartBuy website and entering into the Merchant's website. This link is provided only for the convenience of HDFC Bank's customers, HDFC Bank will not earn any commission or any other fee upon its Customers viewing the offers made available by Merchants or purchasing/ availing of a Product/Service offered by Merchants, except the customary considerations for use of credit card/debit cards/net banking facility. The Customer is free to purchase/avail them from any other stores/online platforms and by using any other payment mechanism.\u003Cbr\u003EHDFC Bank is not selling/rendering any of these Products/Services. Neither is HDFC Bank guaranteeing nor making any representation with respect to the offers made by the merchants and HDFC Bank is not liable /responsible for the sale/quality/features of the Products/Services selected for purchase by the customers. HDFC Bank is merely facilitating the payment by its Customers by providing Payment Gateway Services.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EImportant Note:\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003ESmartBuy offer benefits are not applicable on the usage of non-HDFC Bank payment instruments\u003Cbr\u003E1. This redirection holds good only for the website and m-web module via SmartBuy. Hence,5XRP/5%CB benefit would \u003Cstrong\u003Eonly be Applicable for MMT Holiday Packages via SmartBuy.\u003C/strong\u003E\u003Cbr\u003E2. The payment modes for MMT Holiday Packages have been restricted to \u003Cstrong\u003Eonly HDFC Bank payment methods.\u003C/strong\u003E No other payment instruments can be utilized here. This again would only be applicable to MMT Holiday Packages via SmartBuy.\u003Cbr\u003E&nbsp;\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EHDFC Bank SmartBuy is designed to bring valuable offers and deals. The customer can use his / her discretion to check merchant offers available online or at stores and purchase / avail them from any other stores / online platforms basis their payment needs.\u003C/strong\u003E\u003C/p\u003E",
+        "buttonText": "Proceed",
+        "type": "default",
+        "displayName": "makemytrip",
+        "footerContent": "\u003Cp\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003EThank&nbsp;you&nbsp;for&nbsp;visiting&nbsp; https://offers.reward360.in/. Please \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-shadow:none;box-sizing:border-box;color:inherit;font-family:opensans-regular;font-size:12px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;line-height:1.2;list-style:none;margin:0px;orphans:2;outline:none;overflow-wrap:break-word;padding:0px;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://offers.reward360.in/terms_conditions\" _ngcontent-cou-c139=\"\"\u003E\u003Cu style=\"box-sizing:border-box;font-family:opensans-regular;line-height:20px;list-style:none;margin:0px;outline:none;overflow-wrap:break-word;padding:0px;\" _ngcontent-cou-c139=\"\"\u003Eclick here\u003C/u\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E for detailed terms &amp; conditions.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E"
+      },
+      "card_program": "infinia"
+    },
+    {
+      "partnerName": "nykaa",
+      "slug": "nykaa",
+      "disclaimer": {
+        "title": "Earn upto5X Rewards Points when you Book via SmartBuy. You cannot redeem points here",
+        "content": "\u003Cp\u003EDear Customer,\u003C/p\u003E\u003Cp\u003E&nbsp;\u003C/p\u003E\u003Cp\u003EBy clicking on the hyperlink you will be exiting HDFC Bank SmartBuy website and entering into the Merchant's website. This link is provided only for the convenience of HDFC Bank's customers, HDFC Bank will not earn any commission or any other fee upon its Customers viewing the offers made available by Merchants or purchasing/ availing of a Product/Service offered by Merchants, except the customary considerations for use of credit card/debit cards/net banking facility. The Customer is free to purchase/avail them from any other stores/online platforms and by using any other payment mechanism.\u003C/p\u003E\u003Cp\u003EHDFC Bank is not selling/rendering any of these Products/Services. Neither is HDFC Bank guaranteeing nor making any representation with respect to the offers made by the merchants and HDFC Bank is not liable /responsible for sale/quality/features of the Products/Services selected for purchase by the customers. HDFC Bank is merely facilitating the payment by its Customers by providing the Payment Gateway Services.\u003C/p\u003E\u003Cp\u003E&nbsp;\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EImportant Note:\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003ESmartBuy offer benefits are not applicable on usage of non HDFC Bank payment instruments\u003Cbr\u003E1. This redirection holds good only for nykaa module via SmartBuy. Hence, Upto 5X/0% CB benefit would \u003Cu\u003Eonly be applicable for nykaa via SmartBuy\u003C/u\u003E.\u003Cbr\u003E2. The payment modes for nykaa have been restricted to \u003Cu\u003Eonly HDFC Bank payment methods\u003C/u\u003E. No other payment instruments can be utilised here. This again would only be applicable for nykaa via SmartBuy.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EHDFC Bank SmartBuy is designed to bring valuable offers and deals. The customer can use his / her discretion to check merchant offers available online or at stores and purchase / avail them from any other stores / online platforms basis their payment needs.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003E&nbsp;\u003C/p\u003E",
+        "buttonText": "Proceed",
+        "type": "default",
+        "displayName": "nykaa",
+        "footerContent": null
+      },
+      "card_program": "infinia"
+    },
+    {
+      "partnerName": "pharmeasy",
+      "slug": "pharmeasy",
+      "disclaimer": {
+        "title": "Earn up to 10X Reward Points/ 10% Cashback when you Book via SmartBuy.You cannot redeem points here.",
+        "content": "\u003Cp\u003EDear Customer,\u003C/p\u003E\u003Cp\u003EBy clicking on the hyperlink you will be exiting HDFC Bank SmartBuy website and entering into the Merchant's website. This link is provided only for the convenience of HDFC Bank's customers, HDFC Bank will not earn any commission or any other fee upon its Customers viewing the offers made available by Merchants or purchasing/ availing of a Product/Service offered by Merchants, except the customary considerations for use of credit card/debit cards/net banking facility. The Customer is free to purchase/avail them from any other stores/online platforms and by using any other payment mechanism.\u003C/p\u003E\u003Cp\u003EHDFC Bank is not selling/rendering any of these Products/Services. Neither is HDFC Bank guaranteeing nor making any representation with respect to the offers made by the merchants and HDFC Bank is not liable /responsible for sale/quality/features of the Products/Services selected for purchase by the customers. HDFC Bank is merely facilitating the payment by its Customers by providing the Payment Gateway Services.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EImportant Note:\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003ESmartBuy offer benefits are not applicable on usage of non HDFC Bank payment instruments\u003Cbr\u003E1. This redirection holds good only for the website and m-web module via SmartBuy. Hence, up to10X RP/10% CB benefit would \u003Cu\u003Eonly be applicable for pharmeasy via SmartBuy\u003C/u\u003E.\u003Cbr\u003E2. The payment modes for pharmeasy have been restricted to \u003Cu\u003Eonly HDFC Bank payment methods\u003C/u\u003E. No other payment instruments can be utilised here. This again would only be applicable for pharmeasy via SmartBuy.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EHDFC Bank SmartBuy is designed to bring valuable offers and deals. The customer can use his / her discretion to check merchant offers available online or at stores and purchase / avail them from any other stores / online platforms basis their payment needs.\u003C/strong\u003E\u003C/p\u003E",
+        "buttonText": "Proceed",
+        "type": "default",
+        "displayName": "pharmeasy",
+        "footerContent": "\u003Cp\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003EThank&nbsp;you&nbsp;for&nbsp;visiting&nbsp; https://offers.reward360.in/. Please \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-shadow:none;box-sizing:border-box;color:inherit;font-family:opensans-regular;font-size:12px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;line-height:1.2;list-style:none;margin:0px;orphans:2;outline:none;overflow-wrap:break-word;padding:0px;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://offers.reward360.in/terms_conditions\" _ngcontent-cou-c139=\"\"\u003E\u003Cu style=\"box-sizing:border-box;font-family:opensans-regular;line-height:20px;list-style:none;margin:0px;outline:none;overflow-wrap:break-word;padding:0px;\" _ngcontent-cou-c139=\"\"\u003Eclick here\u003C/u\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E for detailed terms &amp; conditions.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E"
+      },
+      "card_program": "infinia"
+    },
+    {
+      "partnerName": "zoomcar",
+      "slug": "zoomcar",
+      "disclaimer": {
+        "title": "Earn 5X Reward Points or 5% Cashback when you Book via SmartBuyYou cannot redeem points here",
+        "content": "\u003Cp\u003EDear Customer,\u003C/p\u003E\u003Cp\u003EBy clicking on the hyperlink, you will be exiting the HDFC Bank SmartBuy website and entering into the Merchant's website. This link is provided only for the convenience of HDFC Bank's customers, HDFC Bank will not earn any commission or any other fee upon its Customers viewing the offers made available by Merchants or purchasing/ availing of a Product/Service offered by Merchants, except the customary considerations for use of credit card/debit cards/net banking facility. The Customer is free to purchase/avail them from any other stores/online platforms and by using any other payment mechanism.\u003C/p\u003E\u003Cp\u003EHDFC Bank is not selling/rendering any of these Products/Services. Neither is HDFC Bank guaranteeing nor making any representation with respect to the offers made by the merchants and HDFC Bank is not liable /responsible for the sale/quality/features of the Products/Services selected for purchase by the customers. HDFC Bank is merely facilitating the payment by its Customers by providing Payment Gateway Services.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EImportant Note:\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003ESmartBuy offer benefits are not applicable on the usage of non-HDFC Bank payment instruments\u003C/p\u003E\u003Cp\u003E1. This redirection holds good only for Car rentals module via SmartBuy. Hence, 5X RP/ 5% CB benefit would \u003Cu\u003Eonly be applicable for Car rentals via SmartBuy\u003C/u\u003E\u003C/p\u003E\u003Cp\u003E2. The payment modes for Car rentals have been restricted to \u003Cu\u003Eonly HDFC Bank payment methods\u003C/u\u003E. No other payment instruments can be utilised here. This again would only be applicable for Car rentals via SmartBuy.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EHDFC Bank SmartBuy is designed to bring valuable offers and deals. The customer can use his / her discretion to check merchant offers available online or at stores and purchase / avail them from any other stores / online platforms basis their payment needs.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003E&nbsp;\u003C/p\u003E",
+        "buttonText": "Proceed",
+        "type": "default",
+        "displayName": "zoomcar",
+        "footerContent": "\u003Cp\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003EThank&nbsp;you&nbsp;for&nbsp;visiting&nbsp; https://offers.reward360.in/. Please \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-shadow:none;box-sizing:border-box;color:inherit;font-family:opensans-regular;font-size:12px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;line-height:1.2;list-style:none;margin:0px;orphans:2;outline:none;overflow-wrap:break-word;padding:0px;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://offers.reward360.in/terms_conditions\" _ngcontent-cou-c139=\"\"\u003E\u003Cu style=\"box-sizing:border-box;font-family:opensans-regular;line-height:20px;list-style:none;margin:0px;outline:none;overflow-wrap:break-word;padding:0px;\" _ngcontent-cou-c139=\"\"\u003Eclick here\u003C/u\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E for detailed terms &amp; conditions.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E"
+      },
+      "card_program": "infinia"
+    },
+    {
+      "partnerName": "woohoo-brand-voucher",
+      "slug": "woohoo-brand-voucher",
+      "disclaimer": {
+        "title": "You cannot redeem points here",
+        "content": "\u003Cp\u003EDear Customer,\u003C/p\u003E\u003Cp\u003ESmartBuy offer benefits are not applicable on usage of non HDFC Bank payment instruments\u003C/p\u003E\u003Cp\u003EBy clicking on the hyperlink you will be exiting HDFC Bank SmartBuy website and entering into the Merchant's website. This link is provided only for the convenience of HDFC Bank's customers, HDFC Bank will not earn any commission or any other fee upon its Customers viewing the offers made available by Merchants or purchasing/ availing of a Product/Service offered by Merchants, except the customary considerations for use of credit card/debit cards/net banking facility. The Customer is free to purchase/avail them from any other stores/online platforms and by using any other payment mechanism.\u003C/p\u003E\u003Cp\u003EHDFC Bank is not selling/rendering any of these Products/Services. Neither is HDFC Bank guaranteeing nor making any representation with respect to the offers made by the merchants and HDFC Bank is not liable /responsible for sale/quality/features of the Products/Services selected for purchase by the customers. HDFC Bank is merely facilitating the payment by its Customers by providing the Payment Gateway Services.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EHDFC Bank SmartBuy is designed to bring valuable offers and deals. The customer can use his / her discretion to check merchant offers available online or at stores and purchase / avail them from any other stores / online platforms basis their payment needs.\u003C/strong\u003E\u003C/p\u003E",
+        "buttonText": "Proceed",
+        "type": "default",
+        "displayName": "instavouchers",
+        "footerContent": "\u003Cp\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003EThank&nbsp;you&nbsp;for&nbsp;visiting&nbsp; https://offers.reward360.in/. Please \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-shadow:none;box-sizing:border-box;color:inherit;font-family:opensans-regular;font-size:12px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;line-height:1.2;list-style:none;margin:0px;orphans:2;outline:none;overflow-wrap:break-word;padding:0px;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://offers.reward360.in/terms_conditions\" _ngcontent-cou-c139=\"\"\u003E\u003Cu style=\"box-sizing:border-box;font-family:opensans-regular;line-height:20px;list-style:none;margin:0px;outline:none;overflow-wrap:break-word;padding:0px;\" _ngcontent-cou-c139=\"\"\u003Eclick here\u003C/u\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E for detailed terms &amp; conditions.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E"
+      },
+      "card_program": "infinia"
+    },
+    {
+      "partnerName": "mmt biz",
+      "slug": "mmt-biz",
+      "Disclaimers": [
+        {
+          "id": 3771,
+          "title": "\u003Cp\u003EDisclaimer\u003C/p\u003E",
+          "content": "\u003Cp\u003EDear Customer,\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EImportant Note:\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003ESmartBuy offer benefits are not applicable on usage of non HDFC Bank payment instruments\u003C/p\u003E\u003Cp\u003EBy clicking on the hyperlink you will be exiting HDFC Bank SmartBuy website and entering into the Merchant's website. This link is provided only for the convenience of HDFC Bank's customers, HDFC Bank will not earn any commission or any other fee upon its Customers viewing the offers made available by Merchants or purchasing/ availing of a Product/Service offered by Merchants, except the customary considerations for use of credit card/debit cards/net banking facility. The Customer is free to purchase/avail them from any other stores/online platforms and by using any other payment mechanism.\u003C/p\u003E\u003Cp\u003EHDFC Bank is not selling/rendering any of these Products/Services. Neither is HDFC Bank guaranteeing nor making any representation with respect to the offers made by the merchants and HDFC Bank is not liable /responsible for sale/quality/features of the Products/Services selected for purchase by the customers. HDFC Bank is merely facilitating the payment by its Customers by providing the Payment Gateway Services.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EHDFC Bank SmartBuy is designed to bring valuable offers and deals. The customer can use his / her discretion to check merchant offers available online or at stores and purchase / avail them from any other stores / online platforms basis their payment needs.\u003C/strong\u003E\u003C/p\u003E",
+          "buttonText": "Proceed",
+          "type": null,
+          "displayName": "mmt biz",
+          "footerContent": "\u003Cp\u003E\u003Cspan style=\"color:rgb(155,155,155);\"\u003EThank&nbsp;you&nbsp;for&nbsp;visiting&nbsp;. https://offers.reward360.in/business.\u003C/span\u003E\u003Cbr\u003E\u003Cspan style=\"color:rgb(155,155,155);\"\u003EPlease \u003C/span\u003E\u003Ca href=\"https://offers.reward360.in/business/terms_conditions\"\u003E\u003Cu\u003Eclick here\u003C/u\u003E\u003C/a\u003E\u003Cspan style=\"color:rgb(155,155,155);\"\u003E for detailed terms &amp; conditions.\u003C/span\u003E\u003C/p\u003E",
+          "card_program": {
+            "id": 7,
+            "documentId": "kxnvuc8z7xyjycrnn6ezt9j2",
+            "slug": "business"
+          }
+        }
+      ],
+      "disclaimer": null,
+      "card_program": "default"
+    },
+    {
+      "partnerName": "imagine",
+      "slug": "imagine",
+      "disclaimer": {
+        "title": "You cannot redeem points here.",
+        "content": "\u003Cp\u003EDear Customer,\u003C/p\u003E\u003Cp\u003EBy clicking on the hyperlink you will be exiting HDFC Bank SmartBuy website and entering into the Merchant's website. This link is provided only for the convenience of HDFC Bank's customers, HDFC Bank will not earn any commission or any other fee upon its Customers viewing the offers made available by Merchants or purchasing/ availing of a Product/Service offered by Merchants, except the customary considerations for use of credit card/debit cards/net banking facility. The Customer is free to purchase/avail them from any other stores/online platforms and by using any other payment mechanism.\u003C/p\u003E\u003Cp\u003EHDFC Bank is not selling/rendering any of these Products/Services. Neither is HDFC Bank guaranteeing nor making any representation with respect to the offers made by the merchants and HDFC Bank is not liable /responsible for sale/quality/features of the Products/Services selected for purchase by the customers. HDFC Bank is merely facilitating the payment by its Customers by providing the Payment Gateway Services.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EImportant Note:\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003ESmartBuy offer benefits are not applicable on usage of non HDFC Bank payment instruments\u003Cbr\u003E1. This redirection holds good only for Imagine|Tresor module via SmartBuy. Hence, Upto 5X RP/5% CB benefit would \u003Cu\u003Eonly be applicable for Imagine|Tresor via SmartBuy\u003C/u\u003E.\u003Cbr\u003E2. The payment modes for Imagine|Tresor have been restricted to \u003Cu\u003Eonly HDFC Bank payment methods\u003C/u\u003E. No other payment instruments can be utilised here. This again would only be applicable for Imagine|Tresor via SmartBuy.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EHDFC Bank SmartBuy is designed to bring valuable offers and deals. The customer can use his / her discretion to check merchant offers available online or at stores and purchase / avail them from any other stores / online platforms basis their payment needs.\u003C/strong\u003E\u003C/p\u003E",
+        "buttonText": "Proceed",
+        "type": "default",
+        "displayName": "imagine",
+        "footerContent": "\u003Cp\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003EThank&nbsp;you&nbsp;for&nbsp;visiting&nbsp; https://offers.reward360.in/. Please \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-shadow:none;box-sizing:border-box;color:inherit;font-family:opensans-regular;font-size:12px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;line-height:1.2;list-style:none;margin:0px;orphans:2;outline:none;overflow-wrap:break-word;padding:0px;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://offers.reward360.in/terms_conditions\" _ngcontent-cou-c139=\"\"\u003E\u003Cu style=\"box-sizing:border-box;font-family:opensans-regular;line-height:20px;list-style:none;margin:0px;outline:none;overflow-wrap:break-word;padding:0px;\" _ngcontent-cou-c139=\"\"\u003Eclick here\u003C/u\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E for detailed terms &amp; conditions.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E"
+      },
+      "card_program": "infinia"
+    },
+    {
+      "partnerName": "easemytrip",
+      "slug": "easemytrip",
+      "disclaimer": {
+        "title": "You cannot redeem points here",
+        "content": "\u003Cp\u003EDear Customer,\u003C/p\u003E\u003Cp\u003E&nbsp;\u003C/p\u003E\u003Cp\u003EBy clicking on the hyperlink you will be exiting HDFC Bank SmartBuy website and entering into the Merchant's website. This link is provided only for the convenience of HDFC Bank's customers, HDFC Bank will not earn any commission or any other fee upon its Customers viewing the offers made available by Merchants or purchasing/ availing of a Product/Service offered by Merchants, except the customary considerations for use of credit card/debit cards/net banking facility. The Customer is free to purchase/avail them from any other stores/online platforms and by using any other payment mechanism.\u003C/p\u003E\u003Cp\u003EHDFC Bank is not selling/rendering any of these Products/Services. Neither is HDFC Bank guaranteeing nor making any representation with respect to the offers made by the merchants and HDFC Bank is not liable /responsible for sale/quality/features of the Products/Services selected for purchase by the customers. HDFC Bank is merely facilitating the payment by its Customers by providing the Payment Gateway Services.\u003C/p\u003E\u003Cp\u003E&nbsp;\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EImportant Note:\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003ESmartBuy offer benefits are not applicable on usage of non HDFC Bank payment instruments\u003Cbr\u003E1. This redirection holds good only for easemytrip module via SmartBuy. Hence, Upto 5X/0% CB benefit would \u003Cu\u003Eonly be applicable for easemytrip via SmartBuy\u003C/u\u003E.\u003Cbr\u003E2. The payment modes for easemytrip have been restricted to \u003Cu\u003Eonly HDFC Bank payment methods\u003C/u\u003E. No other payment instruments can be utilised here. This again would only be applicable for easemytrip via SmartBuy.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EHDFC Bank SmartBuy is designed to bring valuable offers and deals. The customer can use his / her discretion to check merchant offers available online or at stores and purchase / avail them from any other stores / online platforms basis their payment needs.\u003C/strong\u003E\u003C/p\u003E",
+        "buttonText": "Proceed",
+        "type": "default",
+        "displayName": "easemytrip",
+        "footerContent": "\u003Cp\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003EThank&nbsp;you&nbsp;for&nbsp;visiting&nbsp; https://offers.reward360.in/. Please \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-shadow:none;box-sizing:border-box;color:inherit;font-family:opensans-regular;font-size:12px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;line-height:1.2;list-style:none;margin:0px;orphans:2;outline:none;overflow-wrap:break-word;padding:0px;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://offers.reward360.in/terms_conditions\" _ngcontent-cou-c139=\"\"\u003E\u003Cu style=\"box-sizing:border-box;font-family:opensans-regular;line-height:20px;list-style:none;margin:0px;outline:none;overflow-wrap:break-word;padding:0px;\" _ngcontent-cou-c139=\"\"\u003Eclick here\u003C/u\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E for detailed terms &amp; conditions.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E"
+      },
+      "card_program": "infinia"
+    },
+    {
+      "partnerName": "confirmTkt",
+      "slug": "confirmTkt",
+      "disclaimer": {
+        "title": "\u003Cp\u003EEarn 3X Reward Points when you Book via SmartBuy. You cannot redeem points here.\u003C/p\u003E",
+        "content": "\u003Cp\u003EDear Customer,\u003C/p\u003E\u003Cp\u003EBy clicking on the hyperlink you will be exiting HDFC Bank SmartBuy website and entering into the Merchant‘s website. This link is provided only for the convenience of HDFC Bank‘s customers, HDFC Bank will not earn any commission or any other fee upon its Customers viewing the offers made available by Merchants or purchasing/ availing of a Product/Service offered by Merchants, except the customary considerations for use of credit card/debit cards/net banking facility. The Customer is free to purchase/avail them from any other stores/online platforms and by using any other payment mechanism.\u003C/p\u003E\u003Cp\u003EHDFC Bank is not selling/rendering any of these Products/Services. Neither is HDFC Bank guaranteeing nor making any representation with respect to the offers made by the merchants and HDFC Bank is not liable /responsible for sale/quality/features of the Products/Services selected for purchase by the customers. HDFC Bank is merely facilitating the payment by its Customers by providing the Payment Gateway Services.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EImportant Note:\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EUpto 3X Reward Points on select HDFC Bank Credit Card/ 1% Cashback on other HDFC Bank Debit, Credit Cards &amp; PayZapp offer.\u003C/p\u003E\u003Cp\u003EHDFC Bank SmartBuy is designed to bring valuable offers and deals. The customer can use his / her discretion to check merchant offers available online or at stores and purchase / avail them from any other stores / online platforms basis their payment needs.\u003C/p\u003E",
+        "buttonText": "Proceed",
+        "type": "default",
+        "displayName": "confirmTkt",
+        "footerContent": "\u003Cp\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003EThank&nbsp;you&nbsp;for&nbsp;visiting&nbsp; https://offers.reward360.in/. Please \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-shadow:none;box-sizing:border-box;color:inherit;font-family:opensans-regular;font-size:12px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;line-height:1.2;list-style:none;margin:0px;orphans:2;outline:none;overflow-wrap:break-word;padding:0px;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://offers.reward360.in/terms_conditions\" _ngcontent-fun-c149=\"\"\u003E\u003Cu style=\"box-sizing:border-box;font-family:opensans-regular;line-height:20px;list-style:none;margin:0px;outline:none;overflow-wrap:break-word;padding:0px;\" _ngcontent-fun-c149=\"\"\u003Eclick here\u003C/u\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E for detailed terms &amp; conditions.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E"
+      },
+      "card_program": "default"
+    },
+    {
+      "partnerName": "mmt_train",
+      "slug": "mmt-train",
+      "disclaimer": {
+        "title": "\u003Cp\u003EEarn 3X Reward Points when you Book via SmartBuy. You cannot redeem points here.\u003C/p\u003E",
+        "content": "\u003Cp\u003EDear Customer,\u003C/p\u003E\u003Cp\u003EBy clicking on the hyperlink you will be exiting HDFC Bank SmartBuy website and entering into the Merchant‘s website. This link is provided only for the convenience of HDFC Bank‘s customers, HDFC Bank will not earn any commission or any other fee upon its Customers viewing the offers made available by Merchants or purchasing/ availing of a Product/Service offered by Merchants, except the customary considerations for use of credit card/debit cards/net banking facility. The Customer is free to purchase/avail them from any other stores/online platforms and by using any other payment mechanism.\u003C/p\u003E\u003Cp\u003EHDFC Bank is not selling/rendering any of these Products/Services. Neither is HDFC Bank guaranteeing nor making any representation with respect to the offers made by the merchants and HDFC Bank is not liable /responsible for sale/quality/features of the Products/Services selected for purchase by the customers. HDFC Bank is merely facilitating the payment by its Customers by providing the Payment Gateway Services.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EImportant Note:\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EUpto 3X Reward Points on select HDFC Bank Credit Card/ 1% Cashback on other HDFC Bank Debit, Credit Cards &amp; PayZapp offer.\u003C/p\u003E\u003Cp\u003EHDFC Bank SmartBuy is designed to bring valuable offers and deals. The customer can use his / her discretion to check merchant offers available online or at stores and purchase / avail them from any other stores / online platforms basis their payment needs.\u003C/p\u003E",
+        "buttonText": "Proceed",
+        "type": "default",
+        "displayName": "confirmTkt",
+        "footerContent": "\u003Cp\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003EThank&nbsp;you&nbsp;for&nbsp;visiting&nbsp; https://offers.reward360.in/. Please \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-shadow:none;box-sizing:border-box;color:inherit;font-family:opensans-regular;font-size:12px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;line-height:1.2;list-style:none;margin:0px;orphans:2;outline:none;overflow-wrap:break-word;padding:0px;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://offers.reward360.in/terms_conditions\" _ngcontent-fun-c149=\"\"\u003E\u003Cu style=\"box-sizing:border-box;font-family:opensans-regular;line-height:20px;list-style:none;margin:0px;outline:none;overflow-wrap:break-word;padding:0px;\" _ngcontent-fun-c149=\"\"\u003Eclick here\u003C/u\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(155,155,155);font-family:opensans-medium;font-size:12px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E for detailed terms &amp; conditions.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E"
+      },
+      "card_program": "default"
+    }
+  ],
+  "error": null
+}

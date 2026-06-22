@@ -1,0 +1,1 @@
+export { IDFCFooter } from "./IDFCFooter";

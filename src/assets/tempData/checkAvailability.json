@@ -1,0 +1,149 @@
+{
+  "response": {
+    "hotelId": "6608967321242295",
+    "hotelName": null,
+    "hotelAddress": null,
+    "hotelCity": null,
+    "hotelCountry": null,
+    "checkInInstructions": null,
+    "specialCheckInInstructions": null,
+    "partnerName": "Makemytrip",
+    "validResponse": true,
+    "mmtTxnKey": "f8a74337-0500-4e2a-9b6e-243f69038f7e",
+    "panCardRequired": true,
+    "cancellationPolicy": null,
+    "docKey": null,
+    "traceId": "9dc612e6-de4b-4391-89b8-f3db710e3329_hdfc",
+    "checkIn": "2025-10-09",
+    "checkOut": "2025-10-12",
+    "rooms": [
+      {
+        "roomTypeCode": "1510247076",
+        "roomRatePlanId": "-144667146847602528",
+        "bookingCode": "defaultMtkey",
+        "pricingKey": "s9rHC9RN7n/Awd/Jmr7rk52DH9U36cFlQ/Apd2U7pzQeIoJcHfoGcLF61GMWKXqkUKXMNpXRfcC7LuEOBRjaUHTbTfQ/erJ3ZcgbGEXzXL/OUkDrsyOv8qY+6HcFp4mhRLzx+6I+pRaH4Gw+TZPxQNT685qIZIzDWq9OnE/cmdGcrz1AQ7N4ICR6UY6GoewDFVKm0dRHfD+T3m+lFavqFSbh80K0p+kPPWxeicQD8v8W41Kb2csqJtjltOvgJQ/EWvwJQ+T/ZF7F5uH8eo/StlmLVJlNAR+tDECCgPXQjxlDBdMidB8yRbBkAdmxllh5",
+        "roomTypeDescription": "Villa, 1 King Bed, Non Smoking, Ocean View (Overwater)",
+        "rateInfo": [
+          {
+            "chargeableRateInfo": {
+              "baseFare": 161512,
+              "perRoomBaseFare": 0,
+              "perRoomTax": 0,
+              "perRoomTotal": 0,
+              "nightlyRateTotal": "218840.0",
+              "total": 218840,
+              "partnerDiscount": 3926,
+              "tax": 57328
+            }
+          }
+        ],
+        "inclusions": [
+          "Half board",
+          "Free WiFi",
+          "Free roundtrip airport transfer for 2 (on request)"
+        ],
+        "breakFastIncluded": "true",
+        "cancellationInfo": [
+          {
+            "info": "Free Cancellation (100% refund) if you cancel this booking before 2025-09-25 23:58:59 (destination time). Cancellations post that will be subject to a hotel fee as follows:From 2025-09-25 23:59:00 (destination time) till 2025-10-09 10:59:59 (destination time) - 100% of booking amount.After 2025-10-09 11:00:00 (destination time) - 100% of booking amount.Cancellations are only allowed before CheckIn."
+          }
+        ],
+        "specialInstructions": [
+          "This rate is for 2 Adults only. Third and fourth adult/child charges are not part of this rate and are payable at hotel directly."
+        ],
+        "checkinInstructions": [
+          "",
+          "The primary guest checking in to the hotel must be at least 18 years of age.",
+          "It is mandatory for guests to present valid photo identification at the time of check-in.",
+          "In case of bookings where payment is charged directly at the hotel, we need your Credit Card details to guarantee the booking. The booking confirmation is subject to successful validation of your Credit Card by the hotel. MakeMyTrip will not charge your card; however, the hotel reserves the right to charge a part or full amount before the check-in.",
+          "If your child requires additional bedding and/or breakfast options, please book them as an adult to ensure the correct room configuration. You will be notified of any additional costs resulting from individual hotel policies regarding children staying with parents and age range allowed",
+          "Early check-in or late check-out is subject to availability and may be chargeable by Sheraton Maldives Full Moon Resort & Spa - Complimentary Roundtrip Transfer. The standard check-in time is 3 PM and the standard check-out time is 12 PM. After booking you will be sent an email confirmation with hotel phone number. You can contact the hotel directly for early check-in or late check-out.",
+          "The room tariff includes all taxes. The amount paid for the room does not include charges for optional services and facilities (such as room service, mini bar, snacks or telephone calls). These will be charged at the time of check-out from the Resort.",
+          "The room tariff is inclusive of charges for extra bed for adults.",
+          "For any update, User shall pay applicable cancellation/modification charges.",
+          "For any concerns or clarifications related to your booking, you can contact the property on 9606642010.",
+          "Modified bookings will be subject to availability and revised booking policy of the Resort.",
+          "The cancellation/modification charges are standard and any waiver is on the hotel's discretion.",
+          "Number of modifications possible on a booking will be on the discretion of MakeMyTrip.",
+          "Selective offers of MakeMyTrip will not be valid on a cancellation or modification of booking.",
+          "Any e-coupon discount on the original booking shall be forfeited in the event of cancellation or modification.",
+          "Cancellation and prepayment policies vary according to room type. Please check the Fare policy associatedr room.",
+          "Hotel Check-in Time is 3 PM, Check-out Time is 12 PM."
+        ],
+        "mandatoryCharges": [
+          {
+            "name": "mandatory_tax",
+            "description": "Additional taxes/fees to be paid directly to the hotel (subject to change basis local regulations):INR 8740.40",
+            "refundable": false,
+            "mandatory": true,
+            "subCategory": "City/Local Tax",
+            "leafCategory": "City/Local Tax",
+            "currency": "INR",
+            "amount": 8740,
+            "askedCurrencyAmount": 8740.4,
+            "totalAdults": 2,
+            "totalChild": 0,
+            "totalRooms": 1,
+            "applicableDaysCount": 3,
+            "hotelierCurrency": "INR",
+            "hotelierCurrencyAmount": 8740
+          },
+          {
+            "name": "mandatory_fee",
+            "description": "Additional taxes/fees to be paid directly to the hotel (subject to change basis local regulations):INR 8879.37",
+            "refundable": false,
+            "mandatory": true,
+            "subCategory": "Mandatory Fees",
+            "leafCategory": "Mandatory Fees",
+            "currency": "INR",
+            "amount": 8879,
+            "askedCurrencyAmount": 8879.37,
+            "totalAdults": 2,
+            "totalChild": 0,
+            "totalRooms": 1,
+            "applicableDaysCount": 3,
+            "hotelierCurrency": "INR",
+            "hotelierCurrencyAmount": 8879
+          }
+        ],
+        "cancellation": {
+          "description": "Free Cancellation (100% refund) if you cancel this booking before 2025-09-25 23:58:59 (destination time). Cancellations post that will be subject to a hotel fee as follows:From 2025-09-25 23:59:00 (destination time) till 2025-10-09 10:59:59 (destination time) - 100% of booking amount.After 2025-10-09 11:00:00 (destination time) - 100% of booking amount.Cancellations are only allowed before CheckIn.",
+          "freeCancellation": true,
+          "penalties": {
+            "penalty": [
+              {
+                "description": "Free Cancellation (100% refund) if you cancel this booking before 2025-09-25 23:58:59.",
+                "dateFrom": "2025-09-22 13:29:01",
+                "dateTo": "2025-09-25 23:58:59",
+                "type": "Confirmed",
+                "unit": "PBA",
+                "value": "0.0"
+              },
+              {
+                "description": "This booking is non-refundable and the tariff cannot be cancelled with zero fee.",
+                "dateFrom": "2025-09-25 23:59:00",
+                "dateTo": "2025-10-09 10:59:59",
+                "type": "Confirmed",
+                "unit": "PBA",
+                "value": "100.0"
+              },
+              {
+                "description": "In case of no show, no refund.",
+                "dateFrom": "2025-10-09 11:00:00",
+                "dateTo": "2025-10-12 23:59:59",
+                "type": "NOSHOW",
+                "unit": "PBA",
+                "value": "100.0"
+              }
+            ]
+          },
+          "tillDate": "25-Sep-2025 23:58",
+          "penaltyType": "FREE_CANCELLATION"
+        },
+        "mealPlans": ["2 meals -  Breakfast & Lunch or Dinner"]
+      }
+    ]
+  },
+  "statusCode": 200,
+  "responseDateTime": "2025-09-22T14:00:41"
+}

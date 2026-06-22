@@ -1,0 +1,83 @@
+/* HERE YOU MENTION THE CLASS NAME from CARD THEME */
+.theme-[CARD_THEME] {
+  /* Banner Text */
+
+  /* THIS VARIABLE GRADIENT TEXT WHICH IS SEEN ON THE HERO BANNER THE LOGGED IN USER NAME HELLO MR. */
+  --brand-gradient: linear-gradient(88deg, #fff 8.66%, #4a6286 147.9%);
+
+  /* SMART BUY LANDING PAGE - Benefits Button  */
+  /* THIS IS THE BUTTON WE SEE ON THE LOGGIN BANNER WHICH OPENS THE STORIES */
+  --smartbuy-benefits-button-bg: #14151b;
+  --smartbuy-benefits-button-bg-hover: #1a2338;
+  --smartbuy-benefits-button-border: #536072;
+  --smartbuy-benefits-button-glow: #8cb3dd;
+
+  /* Hero Upcoming Event Card */
+  /* THESE VARIABLES ARE RESPONSIBLE FOR THE UPCOMING EVENTS/BANNER HERO SECTION */
+  --smartbuy-upcoming-event-border: #39536c;
+  --smartbuy-upcoming-event-bg: #14151b;
+  --smartbuy-upcoming-event-glow: #8cb3dd;
+  --smartbuy-upcoming-eventcard-shaddow: 0px 3.347px 16.734px 0px
+    rgba(22, 29, 41, 0.49);
+
+  /* THIS IS THE COLOR RESPONSIBLE FOR THE BANNER BACKGROUND COLOR */
+  --nav-bar-bg: #242e4b;
+
+  --primary: #242e4b;
+
+  /* THESE VARIABLES FOR THE CARD SWITCHER */
+  --card-name-gradient: linear-gradient(90deg, #ffffff 0%, #4a6286 116.67%);
+  --card-dropdown-bg-gradient: linear-gradient(
+    117deg,
+    #16293e 0.62%,
+    #151a26 98.4%
+  );
+  --card-dropdown-border-gradient: linear-gradient(
+    90deg,
+    #ffffff1a 0%,
+    #659ccf 51%,
+    #ffffff1a 100%
+  );
+
+  /* THESE VARIABLES ARE RESPONSIBLE FOR THE HEADER SUB MENU COLORS */
+  --navigation-heading-popup-bg: rgba(27, 38, 54, 0.8);
+  --navigation-menu-border-gradient-start: #659ccf;
+  --navigation-heading-menu-triangle-bg: linear-gradient(
+    0deg,
+    #4a8fe7 0%,
+    #182341 100%
+  );
+  --navigation-menu-triangle-glow: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 0) 0%,
+    #659ccf 50%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  --navigation-heading-menu-hover-bg: linear-gradient(
+    90deg,
+    rgba(20, 20, 25, 0.6) 42.34%,
+    rgba(28, 36, 50, 0.6) 86.33%
+  );
+
+  /* Upcoming Card Blur Color */
+  --smartbuy-upcoming-blur-gradient-color: #4a8fe7;
+
+  --savings-pill-gradient: linear-gradient(
+    269.85deg,
+    #131318 0.06%,
+    #1c578e 99.83%
+  );
+
+  /* THESE ARE THE COLORS RESPONSIBLE FOR THE AFFILIATED PARTNERS SECTION */
+  --eclipse-glow: #7494e6d9;
+  --glow-line: #5867e8;
+  --underline-eclipse-glow: linear-gradient(
+    90deg,
+    rgba(19, 19, 24, 0) 0%,
+    #5867e8 37%,
+    #5867e8 63%,
+    rgba(19, 19, 24, 0) 100%
+  );
+  --affiliate-partner-content-bg: #13162d;
+  --quicksilver-popup-partner-bg: #13162d;
+}

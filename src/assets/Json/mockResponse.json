@@ -1,0 +1,318 @@
+{
+  "okResponse": true,
+  "errorcode": 0,
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "message": "Voucher data retrieved successfully",
+  "timestamp": "2025-10-15T06:54:38.596Z",
+  "value": {
+    "status": true,
+    "message": "Vouchers Found",
+    "vouchers": {
+      "280825093050": {
+        "voucher": {
+          "id": 600238,
+          "program": "SmrtDigiD",
+          "voucher_code": 280825093050,
+          "points": 3076,
+          "voucher_balance": "923.00",
+          "voucherINRvalue": "923",
+          "INRValue": "923",
+          "email": "PqmzylcuVxvHw9jBc9TTk5LGzIPgsGJPLQ3w/SQLeoY=",
+          "mobile": "M3/ZfOIVzeQzhn4HgJJ06Q==",
+          "bin": "n8Nxx/BjJIlHytb2LxqglQ==",
+          "points_percentage": 0.3,
+          "first4digit": "AD8mk3VNOjs97YeXEnb2HQ==",
+          "last4digit": "H1pR4tzOtQMjiQiEVVNLsg==",
+          "dob": "pvgtRXPkbcE0aJpoEidTMA==",
+          "clientToken": "SMARTBUY",
+          "service_id": 2,
+          "customerid": "M3/ZfOIVzeQzhn4HgJJ06Q==",
+          "created_date": "2025-08-28T04:00:50.000Z",
+          "expiry_date": "2025-08-28T09:00:50.000Z",
+          "order_number": "0",
+          "expiry_flag": 0,
+          "refunded_date": null,
+          "refund_reason": null,
+          "consumption_date": "2025-08-28T04:00:50.000Z",
+          "fail_reason": null,
+          "isConcierge": 0
+        },
+        "transactiondetails": [
+          {
+            "id": 40940,
+            "order": null,
+            "value": 923,
+            "points": 3076,
+            "created_date": "2025-08-28T04:00:50.000Z",
+            "transaction_type": 2,
+            "event": 1,
+            "status": 1,
+            "description": ""
+          },
+          {
+            "id": 40941,
+            "order": {
+              "order_ref_num": "47927310556890449877",
+              "mobile": "M3/ZfOIVzeQzhn4HgJJ06Q==",
+              "service_token": "Hotel"
+            },
+            "value": 923,
+            "points": 3077,
+            "created_date": "2025-08-28T04:00:50.000Z",
+            "transaction_type": 1,
+            "event": 2,
+            "status": 1,
+            "description": ""
+          },
+          {
+            "id": 40942,
+            "order": {
+              "order_ref_num": "47927310556890449877",
+              "mobile": "M3/ZfOIVzeQzhn4HgJJ06Q==",
+              "service_token": "Hotel"
+            },
+            "value": 923,
+            "points": 3077,
+            "created_date": "2025-08-28T04:01:04.000Z",
+            "transaction_type": 2,
+            "event": 5,
+            "status": 1,
+            "description": ""
+          }
+        ]
+      },
+      "160825105528": {
+        "voucher": {
+          "id": 600174,
+          "program": "SmrtDigiF",
+          "voucher_code": 160825105528,
+          "points": 200,
+          "voucher_balance": "100.00",
+          "voucherINRvalue": "100",
+          "INRValue": "100",
+          "email": "PqmzylcuVxvHw9jBc9TTk5LGzIPgsGJPLQ3w/SQLeoY=",
+          "mobile": "M3/ZfOIVzeQzhn4HgJJ06Q==",
+          "bin": "meey+VdZBJpy8CuNVPMHYQ==",
+          "points_percentage": 0.5,
+          "first4digit": "70huJgqwTlJ7h/K6pi8A+Q==",
+          "last4digit": "H1pR4tzOtQMjiQiEVVNLsg==",
+          "dob": "pvgtRXPkbcE0aJpoEidTMA==",
+          "clientToken": "SMARTBUY",
+          "service_id": 1,
+          "customerid": "M3/ZfOIVzeQzhn4HgJJ06Q==",
+          "created_date": "2025-08-16T05:25:28.000Z",
+          "expiry_date": "2025-08-16T05:45:28.000Z",
+          "order_number": "0",
+          "expiry_flag": 4,
+          "refunded_date": null,
+          "refund_reason": null,
+          "consumption_date": "2025-08-16T07:20:49.000Z",
+          "fail_reason": null,
+          "isConcierge": 0
+        },
+        "transactiondetails": [
+          {
+            "id": 40775,
+            "order": null,
+            "value": 100,
+            "points": 200,
+            "created_date": "2025-08-16T05:25:28.000Z",
+            "transaction_type": 2,
+            "event": 1,
+            "status": 1,
+            "description": "Create"
+          },
+          {
+            "id": 40776,
+            "order": {
+              "order_ref_num": "44117553218805801666",
+              "mobile": "M3/ZfOIVzeQzhn4HgJJ06Q==",
+              "service_token": "Flight"
+            },
+            "value": 100,
+            "points": 200,
+            "created_date": "2025-08-16T05:25:28.000Z",
+            "transaction_type": 1,
+            "event": 2,
+            "status": 1,
+            "description": "Consumed"
+          },
+          {
+            "id": 40777,
+            "order": {
+              "order_ref_num": "44117553218805801666",
+              "mobile": "M3/ZfOIVzeQzhn4HgJJ06Q==",
+              "service_token": "Flight"
+            },
+            "value": 100,
+            "points": 200,
+            "created_date": "2025-08-16T05:25:48.000Z",
+            "transaction_type": 2,
+            "event": 5,
+            "status": 1,
+            "description": "Refund-paymentFailed"
+          },
+          {
+            "id": 40778,
+            "order": null,
+            "value": 100,
+            "points": 200,
+            "created_date": "2025-08-16T06:20:12.000Z",
+            "transaction_type": 1,
+            "event": 3,
+            "status": 0,
+            "description": "Refund-Expiry/VoucherCancel-RefundtoCARD"
+          },
+          {
+            "id": 40779,
+            "order": null,
+            "value": 100,
+            "points": 200,
+            "created_date": "2025-08-16T06:20:22.000Z",
+            "transaction_type": 2,
+            "event": 12,
+            "status": 0,
+            "description": "Refund-Failed Refund to CARD-Refund Back to system (Exceptional Case)"
+          },
+          {
+            "id": 40780,
+            "order": null,
+            "value": 100,
+            "points": 200,
+            "created_date": "2025-08-16T06:26:19.000Z",
+            "transaction_type": 1,
+            "event": 3,
+            "status": 0,
+            "description": "Refund-Expiry/VoucherCancel-RefundtoCARD"
+          },
+          {
+            "id": 40781,
+            "order": null,
+            "value": 100,
+            "points": 200,
+            "created_date": "2025-08-16T06:26:29.000Z",
+            "transaction_type": 2,
+            "event": 12,
+            "status": 0,
+            "description": "Refund-Failed Refund to CARD-Refund Back to system (Exceptional Case)"
+          },
+          {
+            "id": 40782,
+            "order": null,
+            "value": 100,
+            "points": 200,
+            "created_date": "2025-08-16T06:59:41.000Z",
+            "transaction_type": 1,
+            "event": 3,
+            "status": 0,
+            "description": "Refund-Expiry/VoucherCancel-RefundtoCARD"
+          },
+          {
+            "id": 40783,
+            "order": null,
+            "value": 100,
+            "points": 200,
+            "created_date": "2025-08-16T07:08:32.000Z",
+            "transaction_type": 1,
+            "event": 3,
+            "status": 0,
+            "description": "Refund-Expiry/VoucherCancel-RefundtoCARD"
+          },
+          {
+            "id": 40784,
+            "order": null,
+            "value": 100,
+            "points": 200,
+            "created_date": "2025-08-16T07:08:42.000Z",
+            "transaction_type": 2,
+            "event": 12,
+            "status": 0,
+            "description": "Refund-Failed Refund to CARD-Refund Back to system (Exceptional Case)"
+          },
+          {
+            "id": 40785,
+            "order": null,
+            "value": 100,
+            "points": 200,
+            "created_date": "2025-08-16T07:20:49.000Z",
+            "transaction_type": 1,
+            "event": 3,
+            "status": 0,
+            "description": "Refund-Expiry/VoucherCancel-RefundtoCARD"
+          },
+          {
+            "id": 40786,
+            "order": null,
+            "value": 100,
+            "points": 200,
+            "created_date": "2025-08-16T07:20:59.000Z",
+            "transaction_type": 2,
+            "event": 12,
+            "status": 0,
+            "description": "Refund-Failed Refund to CARD-Refund Back to system (Exceptional Case)"
+          }
+        ]
+      },
+      "230725055001": {
+        "voucher": {
+          "id": 600125,
+          "program": "SmrtAirB",
+          "voucher_code": 230725055001,
+          "points": 200,
+          "voucher_balance": "0.00",
+          "voucherINRvalue": "100",
+          "INRValue": "100",
+          "email": "PqmzylcuVxvHw9jBc9TTk5LGzIPgsGJPLQ3w/SQLeoY=",
+          "mobile": "M3/ZfOIVzeQzhn4HgJJ06Q==",
+          "bin": "Fc40txIV/Z037MLwhRdOnA==",
+          "points_percentage": 0.5,
+          "first4digit": "1KH61DKbOem4L4aqhmedsg==",
+          "last4digit": "H1pR4tzOtQMjiQiEVVNLsg==",
+          "dob": "pvgtRXPkbcE0aJpoEidTMA==",
+          "clientToken": "INFINIA",
+          "service_id": 122,
+          "customerid": "M3/ZfOIVzeQzhn4HgJJ06Q==",
+          "created_date": "2025-07-23T12:20:01.000Z",
+          "expiry_date": "2025-07-23T12:40:01.000Z",
+          "order_number": "0",
+          "expiry_flag": 0,
+          "refunded_date": null,
+          "refund_reason": null,
+          "consumption_date": "2025-07-23T12:20:01.000Z",
+          "fail_reason": null,
+          "isConcierge": 0
+        },
+        "transactiondetails": [
+          {
+            "id": 40656,
+            "order": null,
+            "value": 100,
+            "points": 200,
+            "created_date": "2025-07-23T12:20:01.000Z",
+            "transaction_type": 2,
+            "event": 1,
+            "status": 1,
+            "description": "Create"
+          },
+          {
+            "id": 40657,
+            "order": {
+              "order_ref_num": "9917532731950857",
+              "mobile": "M3/ZfOIVzeQzhn4HgJJ06Q==",
+              "service_token": "Airmiles"
+            },
+            "value": 100,
+            "points": 200,
+            "created_date": "2025-07-23T12:20:01.000Z",
+            "transaction_type": 1,
+            "event": 2,
+            "status": 1,
+            "description": "Consumed"
+          }
+        ]
+      }
+    }
+  },
+  "transactionId": "17605112785961751"
+}

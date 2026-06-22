@@ -1,0 +1,108 @@
+import { CARDTYPES } from "@/config";
+
+export interface CustomerCard {
+  id?: number;
+  bin?: string;
+  cardNumber?: string;
+  first4digit?: string;
+  last4digit?: string;
+  dob?: string;
+  aan?: string | null;
+  mobile?: string;
+  logoId?: string;
+  logo_id?: string;
+  status?: string;
+  cardType?: CARDTYPES;
+  imageUrl?: string;
+  extendedCardType?: string;
+  currentPoints?: string;
+  redeemablePoints?: string;
+  subProgram?: string;
+  cardLogo?: string;
+  errorMsg?: string | null;
+  redemption_card?: number;
+}
+export interface Customercard {
+  card: string;
+  id: number;
+  is_primary: number;
+}
+export interface CCustomer {
+  id?: number;
+  bin?: string;
+  cardNumber?: string;
+  first4digit?: string;
+  last4digit?: string;
+  dob?: string;
+  aan?: string | null;
+  mobile?: string;
+  logoId?: string;
+  status?: string;
+  cardType?: CARDTYPES;
+  imageUrl?: string;
+  extendedCardType?: string;
+  currentPoints?: string;
+  redeemablePoints?: string;
+  subProgram?: string;
+  cardLogo?: string;
+  errorMsg?: string | null;
+  logo_id?: string;
+  points_percentage?: string | null;
+  points_available?: string;
+  last_stmt_points?: string;
+  current_available_points?: string;
+  customername?: string | null;
+  CcCharges?: string | null;
+  DOB?: string;
+  sub_program?: string;
+}
+export interface CheckCsrfResponse {
+  id?: number;
+  customer_id?: string;
+  mobileNumberVerified?: boolean;
+  userid?: string;
+  isPayZapp?: boolean;
+  hashed_mobile?: string;
+  pincode?: number;
+  mobile?: string;
+  email?: string;
+  checksum?: string | null;
+  title?: string;
+  lastaccesseddatetime?: string | null;
+  event?: string | null;
+  otpAttempt?: number;
+  channel?: number;
+  consent?: string | null;
+  programName?: string;
+  concierge_user?: string | number | null;
+  concierge_checker?: string | null;
+  cardType?: string;
+  customerCards?: CustomerCard[];
+  orderCount?: number;
+  loginId?: string;
+  customerid?: string;
+  cardTypeName?: string | null;
+  newCustomer?: boolean;
+  clientid?: string;
+  firstname: string;
+  lastname?: string;
+  countrycode?: string;
+  lastpasswordchange?: string | null;
+  cardstatus?: number;
+  guestLogin?: boolean;
+  new_customer?: boolean;
+  is_flexipay_eligible?: boolean;
+  org_session: number;
+  customer_cookie?: number;
+  customercards?: Customercard[];
+  ccustomer?: CCustomer;
+  ccustomer_d?: CCustomer;
+  enable_only_payzapp?: boolean;
+  customer_cookiename?: string;
+  consent_cookie_name?: string;
+  "XSRF-TOKEN"?: string;
+  uuid?: string;
+  userType?: string;
+  authToken?: string;
+  obopHashedMobile?: string;
+}

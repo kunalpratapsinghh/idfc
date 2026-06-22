@@ -1,0 +1,209 @@
+:root {
+  --radius: 0.625rem;
+  --background: oklch(1 0 0);
+  --foreground: oklch(0.145 0 0);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.145 0 0);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.145 0 0);
+  --primary: oklch(32.814% 0.10602 259.687);
+  --primary-foreground: oklch(0.985 0 0);
+  --secondary: oklch(0.97 0 0);
+  --secondary-foreground: oklch(0.205 0 0);
+  --muted: oklch(0.97 0 0);
+  --muted-foreground: oklch(0.556 0 0);
+  --accent: oklch(0.97 0 0);
+  --accent-foreground: oklch(0.205 0 0);
+  --destructive: oklch(0.577 0.245 27.325);
+  --border: oklch(0.922 0 0);
+  --input: oklch(0.922 0 0);
+  --ring: oklch(0.708 0 0);
+  --chart-1: oklch(0.646 0.222 41.116);
+  --chart-2: oklch(0.6 0.118 184.704);
+  --chart-3: oklch(0.398 0.07 227.392);
+  --chart-4: oklch(0.828 0.189 84.429);
+  --chart-5: oklch(0.769 0.188 70.08);
+  --sidebar: oklch(0.985 0 0);
+  --sidebar-foreground: oklch(0.145 0 0);
+  --sidebar-primary: oklch(0.205 0 0);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.97 0 0);
+  --sidebar-accent-foreground: oklch(0.205 0 0);
+  --sidebar-border: oklch(0.922 0 0);
+  --sidebar-ring: oklch(0.708 0 0);
+  --link: #1d85fe;
+  --color-text: #ffffff;
+
+  --Light-Primary-100: #d0ddfc;
+  --Light-Primary-900: #0f326a;
+  --Primary-500: #1d85fe;
+  --sb-primary: #1d85fe;
+  --sb-primary-100: #dfe4f7;
+  --sb-primary-200: #a3baf9;
+  --sb-primary-500: #659ccf;
+  --nav-bar-bg: #0f326a;
+  --sb-danger: #e22853;
+  --sb-danger-300: #fbe1e7;
+
+  --card-name-gradient: linear-gradient(90deg, #fff 0%, #4a6286 116.67%);
+  --card-dropdown-bg-gradient: linear-gradient(
+    117deg,
+    #0f326a 0.62%,
+    #0f326a 98.4%
+  );
+  --card-dropdown-border-gradient: linear-gradient(
+    90deg,
+    #ffffff1a 0%,
+    #659ccf 51%,
+    #ffffff1a 100%
+  );
+  --color-text: #ffffff;
+  --color-smartbuy: #1d85fe;
+
+  --card-gradient-from: #000;
+  --card-gradient-via: transparent;
+  --card-gradient-to: rgba(0, 0, 0, 0);
+
+  /* SECTION BG */
+  --section-accelerated-bg: oklch(0.95 0.0108 256.7);
+  --section-rewards-cataloge-bg: oklch(0.95 0.0134 281.56);
+  --section-affiliateoffers-bg: linear-gradient(0deg, #fff 0%, #ebedf7 100%);
+  --section-weekly-deals: linear-gradient(180deg, #1a1c25 0%, #464f6f 102.75%);
+
+  /* Landing Page */
+  --color-powder-blue: #f3f6fd;
+  --color-charcoal-gray: #575757;
+
+  --brand-gradient: linear-gradient(90deg, #fff 0%, #6eaded 117.11%);
+
+  /* SMART BUY BENEFITS BUTTON ON LANDING PAGE */
+  --smartbuy-benefits-button-bg: #274381;
+  --smartbuy-benefits-button-bg-hover: #1c1d25;
+  --smartbuy-benefits-button-border: #83b4f3;
+  --smartbuy-benefits-button-glow: #4a8fe7;
+
+  /* Hero Upcoming Event Card */
+  --smartbuy-upcoming-event-border: #39536c;
+  --smartbuy-upcoming-event-bg: #14151b;
+  --smartbuy-upcoming-event-glow: #8cb3dd;
+  --smartbuy-upcoming-eventcard-shaddow: 0px 3.347px 16.734px 0px
+    rgba(22, 29, 41, 0.49);
+  --color-testimonial-card-footer: #f3f6fd;
+  --smartbuy-card-radius: 20px;
+
+  /* HERO MObile Pre login  */
+  --color-hero-prelogin-bg: #182341;
+  --color-weekly-deal: linear-gradient(
+    90deg,
+    #ffb6ba 6.81%,
+    #3d62f3 48.13%,
+    #ffb1b6 93.79%
+  );
+
+  /* HERO */
+  --color-hero-bg: #0f326a;
+  /* Upcoming Card Blur Color */
+  --smartbuy-upcoming-blur-gradient-color: #4a8fe7;
+  --eclipse-glow: #7494e666;
+  --glow-line: #5867e8;
+  --underline-eclipse-glow: linear-gradient(
+    90deg,
+    rgba(19, 19, 24, 0) 0%,
+    #5867e8 37%,
+    #5867e8 63%,
+    rgba(19, 19, 24, 0) 100%
+  );
+  --underline-innner-eclipse-glow: linear-gradient(
+    90deg,
+    rgba(19, 19, 24, 0) 0%,
+    #d2d6f6 54.5%,
+    rgba(19, 19, 24, 0) 100%
+  );
+  --affiliate-partner-content-bg: var(--primary);
+
+  --navigation-menu-triangle-glow: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 0) 0%,
+    #659ccf 50%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  --header-menu-highlight: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 0) 0%,
+    #659ccf 50%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  --surface-dark: rgba(19, 19, 24, 1);
+  --search-form-gradient: linear-gradient(
+    90deg,
+    rgba(172, 189, 213, 0.5) 0%,
+    rgba(138, 179, 226, 0.5) 50%,
+    rgba(121, 135, 152, 0.35) 100%
+  );
+  --nav-footer-highlight: #1c3fca;
+  --primary-btn-color: #1c3fca;
+
+  /* Segemented Control */
+  /* -------------------------------------------------
+   * CONTAINER (Outer Segmented Control)
+   * ------------------------------------------------- */
+
+  /* Background behind all options (inactive area) */
+  --seg-bg: #ffffff;
+  --seg-track-bg: #ffffff;
+  /* Outline of the segmented container */
+  --seg-border: #e6e6e6;
+
+  /* -------------------------------------------------
+   * ACTIVE THUMB (The sliding pill)
+   * ------------------------------------------------- */
+
+  /* The pill background — supports solid color OR gradient */
+  --seg-active-bg: #1c3fca;
+
+  /* Border on the sliding pill */
+  --seg-active-border: #1c3fca;
+
+  /* -------------------------------------------------
+   * TEXT / ICON COLORS
+   * Icons inherit `currentColor`
+   * ------------------------------------------------- */
+
+  /* Label + icon color when active */
+  --seg-active-text: #ffffff;
+
+  /* Label + icon color when inactive */
+  --seg-inactive-text: #5f5f5f;
+
+  /* Hover color for inactive options */
+  --seg-inactive-hover-text: #fff;
+
+  --intent-pill-active-bg: #2344d8;
+  /* blue fill */
+  --intent-pill-active-text: #ffffff;
+  /* text + icon color */
+  --intent-pill-active-border: #2344d8;
+
+  --intent-pill-inactive-bg: #ffffff;
+  /* white fill */
+  --intent-pill-inactive-text: #5f5f5f;
+  --intent-pill-inactive-border: #e1e1e1;
+
+  --date-picker-selected-border-color: #1d86ff;
+  --quicksilver-popup-partner-bg: #315da3;
+  --navigation-menu-border-gradient-start: #1d85fe;
+  --navigation-heading-popup-bg: #0f326acc;
+
+  /* Savings Calculator */
+  --savings-calculator-panel-bg: linear-gradient(
+    316deg,
+    #1a4a8f 0%,
+    #0c2a5c 95.52%
+  );
+  --savings-calculator-toggle-active-border: #1d85fe;
+  --savings-calculator-toggle-active-bg: #dfe4f7;
+  --savings-calculator-toggle-active-text: #0f326a;
+  --savings-calculator-info-bg: #dfe4f7;
+  --savings-calculator-slider-track-bg: #1d85fecc;
+  --savings-calculator-slider-range-bg: #1d85fe;
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "label": "Price",
+    "mlabel": "Price",
+    "context-key": "price",
+    "mimage": "/booking/Hotel/price.svg",
+    "filters": [
+      "Under ₹1000",
+      "₹1000 - ₹2000",
+      "₹2000 - ₹3000",
+      "₹3000 - ₹4000"
+    ]
+  },
+  {
+    "label": "Star Category",
+    "mlabel": "Star Category",
+    "context-key": "star_category",
+    "mimage": "/booking/Hotel/starRating.svg",
+    "filters": ["5 Star", "4 Star", "3 Star", "2 Star", "1 Star"]
+  },
+  {
+    "label": "Property Type",
+    "context-key": "property_type",
+    "mlabel": "Property Type",
+    "mimage": "/booking/Hotel/property.svg",
+    "filters": [
+      "Hotel",
+      "Resort",
+      "Apartment",
+      "Villa",
+      "Hostel",
+      "Guest House",
+      "Homestay"
+    ]
+  },
+  {
+    "label": "Amenities",
+    "context-key": "amenities",
+    "mlabel": "Amenities",
+    "mimage": "/booking/Hotel/property.svg",
+    "filters": [
+      "Gym",
+      "Wireless",
+      "Projector",
+      "Swimming",
+      "Breakfast",
+      "Bar",
+      "Parking",
+      "Cafe",
+      "Air Conditioner",
+      "Lounge",
+      "Business Centre",
+      "Conference Room",
+      "Elevator",
+      "Room Service",
+      "Power Backup",
+      "Restaurant"
+    ]
+  },
+  {
+    "label": "Partners",
+    "context-key": "partners",
+    "mlabel": "Partners",
+    "mimage": "/booking/Hotel/Partner.svg",
+    "filters": ["Cleartrip", "Makemytrip", "Yatra"]
+  }
+]

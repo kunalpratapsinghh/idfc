@@ -1,0 +1,8 @@
+{
+  "status": "success",
+  "authtoken": "qzmo8CTWTnCKVuWG",
+  "response": {
+    "data": "{\"id\":598484,\"customer_id\":\"9481343765\",\"address1\":null,\"city\":\"\",\"mobileNumberVerified\":1,\"state\":\"\",\"userid\":\"aVVNGcBu+UD4idKIdutemA==\",\"hashed_mobile\":\"53c06557fecd4e12c620693f3da991d3dfba9a765aff9fea534ea3abfab58794\",\"pincode\":0,\"mobile\":\"9481343765\",\"email\":\"pratheekh.dn@reward360.co\",\"title\":\"Mr\",\"country\":\"\",\"address2\":null,\"lastaccesseddatetime\":null,\"event\":null,\"otpAttempt\":0,\"channel\":0,\"consent\":null,\"programName\":\"SMARTBUY\",\"concierge_checker\":null,\"cardType\":\"\",\"customerCards\":[],\"loginId\":\"BsSA61i3codUevCL4sDhC9fUA2i7qmtPDjBRXYnp26U=\",\"customerid\":\"9481343765\",\"cardTypeName\":null,\"newCustomer\":false,\"clientid\":\"HDFC243\",\"firstname\":\"Pratheeksh\",\"lastname\":\"D\",\"countrycode\":\"91\",\"lastpasswordchange\":null,\"cardstatus\":0,\"guestLogin\":false,\"appPasswordVerified\":false,\"new_customer\":false,\"is_flexipay_eligible\":false,\"org_session\":1,\"customer_cookie\":1,\"customercards\":[],\"enable_only_payzapp\":false,\"customer_cookiename\":\"customer_cookie_s\",\"consent_cookie_name\":\"acceptCookies_s\",\"XSRF-TOKEN\":\"kfVy8WHfhIzOPkLKG1ujjcVtqzmo8CTWTnCKVuWG\",\"encryptedCustomerPKId\":\"aVVNGcBu+UD4idKIdutemA==\"}",
+    "signature": "Q4beFvtxOQj3PG2QykKe/3CXa/5i/cnP+PErfr1aOBk0ISIZySRTOJfwITXoGVE2WIcCEsE+dJ/P7cUE6Cx24VOOvg0FvVXFEZO+HpyvNqtg7AixydeVKTgwVdFvstcF/F/TzjVjsLh/r/b6UQ3+UXHFrJp93BDm1BdvdmZhw8Cm3yftWv4aD+VbrOs8C/Z5PF4gKkB3qr/ZfuBPRgK9uJgBoOrthKEmAv6v2a0UiXpMVMEXrCXsgme0M0l69ysiKUHiG94XfGtfKDFq74zBrUdAhqdk6gYXsY53hZIRY26C1jRwE5qZ5DIKb1lydMgA0r2K9AIfPsjtqNUA9hrBdw=="
+  }
+}
