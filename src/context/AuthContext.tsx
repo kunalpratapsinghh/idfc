@@ -3,8 +3,6 @@
 import { useLoginController } from "@/hooks/useLoginController";
 import { CheckCsrfResponse } from "@/server/schemas/auth/auth";
 import { CheckLoginOptions } from "@/types/loginController";
-import { ConfigService } from "@reward360-global-services-pvt-ltd/smartbuy-header";
-import { defineCustomElements } from "@reward360-global-services-pvt-ltd/smartbuy-header/loader";
 import {
   createContext,
   ReactNode,
@@ -12,7 +10,6 @@ import {
   useEffect,
   useState
 } from "react";
-import { TextualConfig } from "../config";
 
 export type User = {
   id: string;
@@ -74,31 +71,7 @@ export const AuthProvider = ({
   const { loginControllerEvent, showAddCardModalEvent } = useLoginController();
 
   useEffect(() => {
-    defineCustomElements(window);
-    ConfigService.setConfig({
-      authApi: process.env.NEXT_PUBLIC_AUTH_API_URL || "",
-      cookieApi: process.env.NEXT_PUBLIC_COOKIE_API_URL || "",
-      nextApiUrl: process.env.NEXT_PUBLIC_DEPLOY_URL || "",
-      nextTrpcApiUrl: process.env.NEXT_PUBLIC_DEPLOY_URL + "/api/trpc" || "",
-      cardFaciaCdnUrl: process.env.NEXT_PUBLIC_CARD_FACIA_CDN_URL || "",
-      sessionCheckLoginPath: process.env.NEXT_PUBLIC_SESSION_REDIRECT || "",
-      sessionSharingDomain:
-        process.env.NEXT_PUBLIC_SESSION_ISMAIN === "true" || false,
-      programConfig: {
-        program: cardType || programName,
-        subProgram: subProgram
-      },
-      encryption: {
-        enabled: process.env.NEXT_PUBLIC_ENCRYPTION_ENABLED === "true",
-        encryptionKey: process.env.NEXT_PUBLIC_RSA_PUBLIC_KEY || ""
-      },
-      googleAnalyticsKey: process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS_KEY || "",
-      cookieConsentName: process.env.NEXT_PUBLIC_COOKIE_CONSENT_NAME || "",
-      customerInfo: customerInfo,
-      textualConfig: {
-        PRIMA_FAILURE: TextualConfig.PRIMA_FAILURE
-      }
-    });
+    // header web component config removed
   }, [customerInfo, cardType, subProgram]);
 
   useEffect(() => {

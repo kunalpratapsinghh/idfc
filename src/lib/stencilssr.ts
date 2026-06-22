@@ -1,5 +1,9 @@
-import { renderToString } from "@reward360-global-services-pvt-ltd/smartbuy-header/hydrate";
 import { formatPoints } from "./utils";
+
+const renderToString = async (
+  _html: string,
+  _opts: any
+): Promise<{ html: string }> => ({ html: "" });
 
 const normalizeHtml = (html: any = "") => {
   return html

@@ -1,5 +1,9 @@
 import { CheckLoginOptions } from "@/types/loginController";
-import { loginController } from "@reward360-global-services-pvt-ltd/smartbuy-header";
+
+const loginController = {
+  checkLogin: (_cb: (res: any) => void, _opts: any) => {},
+  requestAddCard: (_cb: (res: any) => void, _opts: any) => {}
+};
 
 export const useLoginController = () => {
   //internal function
