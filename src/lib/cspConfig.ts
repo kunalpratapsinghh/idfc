@@ -10,8 +10,6 @@ export const csp = {
   "default-src": ["'self'"],
   "script-src": [
     "'self'",
-    "*.moengage.com",
-    `'nonce-${nonce}'`,
     "'unsafe-inline'",
     "'unsafe-eval'",
     "https://d157777v0iph40.cloudfront.net",
@@ -20,7 +18,6 @@ export const csp = {
   ],
   "connect-src": [
     "'self'",
-    "*.moengage.com",
     "cdn.jsdelivr.net",
     "unpkg.com",
     "https://d2hx8jjky1f7ly.cloudfront.net",
@@ -35,7 +32,6 @@ export const csp = {
     "'self'",
     "'unsafe-inline'",
     "'unsafe-hashes'",
-    "*.moengage.com",
     "https://d157777v0iph40.cloudfront.net",
     "https://dxzbkowhmlqkh.cloudfront.net",
     "fonts.bunny.net"
@@ -58,9 +54,7 @@ export const csp = {
     "*.mmtcdn.com",
     "*.arcgisonline.com",
     "*.ibcdn.com",
-    "*.moengage.com",
     "*.google-analytics.com",
-    "moe-email-campaigns.s3.amazonaws.com",
     "https://script.hotjar.com",
     "https://q-xx.bstatic.com",
     "https://i.travelapi.com",
@@ -69,15 +63,13 @@ export const csp = {
   "font-src": [
     "'self'",
     "*.googleapis.com",
-    "*.moengage.com",
     "fonts.gstatic.com",
     "https://d157777v0iph40.cloudfront.net",
     "https://dxzbkowhmlqkh.cloudfront.net"
   ],
-  "frame-ancestors": ["'self'", "*.moengage.com"],
+  "frame-ancestors": ["'self'"],
   "manifest-src": ["'self'", "https://d157777v0iph40.cloudfront.net"],
   "media-src": [
-    "*.moengage.com",
     "https://d157777v0iph40.cloudfront.net",
     "https://d2hx8jjky1f7ly.cloudfront.net",
     "https://dxzbkowhmlqkh.cloudfront.net"
@@ -91,6 +83,6 @@ export const generateCSP = () => {
     csp: Object.entries(csp)
       .map(([key, values]) => `${key} ${values.join(" ")}`)
       .join("; "),
-    nonce: nonce
+    nonce: ""
   };
 };
