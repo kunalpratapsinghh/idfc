@@ -12,7 +12,7 @@ import DynamicIcon from "@/components/ui/DynamicIcon";
 import Autoplay from "embla-carousel-autoplay";
 import { AnimatePresence, motion } from "framer-motion";
 import { useSearchParams } from "next/navigation";
-import { Suspense, useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import FloatingParticles from "../_components/FloatingParticles";
 import PartnerLogoCard from "../_components/PartnerLogoCard";
 import { PARTNERS } from "../_data/data";
@@ -42,7 +42,7 @@ const STATS: { icon: string; label: string; value: string }[] = [
   // { icon: "Gift", label: "Exclusive Offers", value: "Live Now" },
 ];
 
-function CachePage() {
+export default function CachePage() {
   const searchParams = useSearchParams();
   const variant = Math.min(4, Math.max(1, parseInt(searchParams.get("variant") ?? "1") || 1));
 
@@ -434,13 +434,5 @@ function CachePage() {
         }
       `}</style>
     </main>
-  );
-}
-
-export default function Page() {
-  return (
-    <Suspense fallback={null}>
-      <CachePage />
-    </Suspense>
   );
 }
