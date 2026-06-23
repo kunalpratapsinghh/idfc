@@ -59,7 +59,7 @@ export default function PartnerLogoCardV4({
             <div className="absolute top-2.5 right-2.5 z-10">
               <span
                 className="px-2 py-0.5 rounded-full text-[10px] sm:text-xs font-black text-white shadow-md"
-                style={{ backgroundColor: "var(--primary-btn-color, #00386C)" }}
+                style={{ backgroundColor: "#9b1e26" }}
               >
                 {tier}
               </span>
@@ -93,7 +93,7 @@ export default function PartnerLogoCardV4({
           </div>
           <p className="sm:hidden text-[11px] text-slate-500 leading-snug">
             Earn{" "}
-            <span className="font-bold" style={{ color: "var(--primary-btn-color, #00386C)" }}>
+            <span className="font-bold" style={{ color: "#9b1e26" }}>
               {tier}
             </span>{" "}
             Reward Points
@@ -122,7 +122,7 @@ export default function PartnerLogoCardV4({
               </h3>
               <p className="text-[10px] text-slate-500 mt-0.5 leading-snug">
                 Earn{" "}
-                <span className="font-bold" style={{ color: "var(--primary-btn-color, #00386C)" }}>
+                <span className="font-bold" style={{ color: "#e44d57" }}>
                   {tier}
                 </span>{" "}
                 Reward Points
@@ -130,7 +130,7 @@ export default function PartnerLogoCardV4({
             </div>
             <div
               className="shrink-0 w-7 h-7 rounded-full flex items-center justify-center text-white text-sm transition-transform duration-300 group-hover:translate-x-0.5"
-              style={{ backgroundColor: "var(--primary-btn-color, #00386C)" }}
+              style={{ backgroundColor: "#9b1e26" }}
             >
               →
             </div>

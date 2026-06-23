@@ -199,7 +199,7 @@ export default function CachePage() {
                   style={{
                     width: currentSlide === i ? "1.8rem" : "0.35rem",
                     background:
-                      currentSlide === i ? "#3B82F6" : "rgba(255,255,255,0.25)"
+                      currentSlide === i ? "white" : "rgba(255,255,255,0.25)"
                   }}
                 />
               ))}
