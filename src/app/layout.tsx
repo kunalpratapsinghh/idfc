@@ -30,24 +30,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Smartbuy | Home",
+  title: "IDFC | Home",
   description:
-    "SmartBuy is a platform that solely displays offers extended by Merchants to HDFC Bank's Customers. HDFC Bank is not responsible for selling/rendering any of the listed Products/Services. HDFC Bank does not act as an express or implied agent of the listed Merchants/owners of the following vis-a-vis the Customers.",
-  icons: {
-    icon: `https://d157777v0iph40.cloudfront.net/unified3.0/prod/4.5/assets/images/sb_img/${process.env.NEXT_PUBLIC_ISMAIN === "true"
-      ? "hdfc-main.svg"
-      : "favicon.svg"
-      }`,
-    shortcut: `https://d157777v0iph40.cloudfront.net/unified3.0/prod/4.5/assets/images/sb_img/${process.env.NEXT_PUBLIC_ISMAIN === "true"
-      ? "hdfc-main.svg"
-      : "favicon.svg"
-      }`,
-    apple: `https://d157777v0iph40.cloudfront.net/unified3.0/prod/4.5/assets/images/sb_img/${process.env.NEXT_PUBLIC_ISMAIN === "true"
-      ? "hdfc-main.svg"
-      : "favicon.svg"
-      }`
-  },
-  manifest: "/manifest.json"
+    "IDFC platform that solely displays offers extended by Merchants to IDFC FIRST Bank's Customers. IDFC FIRST Bank is not responsible for selling/rendering any of the listed Products/Services. IDFC FIRST Bank does not act as an express or implied agent of the listed Merchants/owners of the following vis-a-vis the Customers.",
 };
 
 type Props = {
