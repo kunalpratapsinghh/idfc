@@ -42,7 +42,7 @@ function DisclaimerBody({ tier }: { tier: string }) {
             <li key={i} className="flex gap-3">
               <span
                 className="shrink-0 w-6 h-6 rounded-full flex items-center justify-center text-xs font-bold text-white"
-                style={{ backgroundColor: "var(--primary-btn-color, #00386C)" }}
+                style={{ backgroundColor: "#9b1e26" }}
               >
                 {i + 1}
               </span>
@@ -159,7 +159,7 @@ function DisclaimerInner({ tier, onProceed, TitleComponent, isMobile }: InnerPro
           <button
             onClick={onProceed}
             className="hidden sm:block shrink-0 px-7 py-2.5 rounded-lg text-white font-semibold text-sm transition-opacity hover:opacity-90 active:opacity-80 cursor-pointer"
-            style={{ backgroundColor: "var(--primary-btn-color, #00386C)" }}
+            style={{ backgroundColor: "#9b1e26" }}
           >
             Start Shopping
           </button>
@@ -169,7 +169,7 @@ function DisclaimerInner({ tier, onProceed, TitleComponent, isMobile }: InnerPro
           <button
             onClick={onProceed}
             className="w-full py-3 rounded-xl text-white font-semibold text-base transition-opacity hover:opacity-90 active:opacity-80 cursor-pointer"
-            style={{ backgroundColor: "var(--primary-btn-color, #00386C)" }}
+            style={{ backgroundColor: "#9b1e26" }}
           >
             Start Shopping
           </button>
