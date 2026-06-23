@@ -30,8 +30,8 @@ const CAROUSEL_IMAGES = [
 const FILTER_PILL =
   "rounded-full px-4 py-1.5 text-xs sm:text-sm font-medium transition-all duration-300 cursor-pointer select-none whitespace-nowrap border tracking-tight";
 const FILTER_ACTIVE_BG =
-  "bg-white font-semibold border-[var(--primary-btn-color)]";
-const FILTER_ACTIVE_STYLE = { color: "var(--primary-btn-color)" };
+  "bg-white font-semibold border-[#9b1e26]";
+const FILTER_ACTIVE_STYLE = { color: "#9b1e26" };
 const FILTER_IDLE =
   "bg-white/80 text-slate-600 border-slate-100 hover:bg-white hover:text-slate-900 hover:border-slate-200 hover:shadow-sm";
 
@@ -307,7 +307,7 @@ export default function CachePage() {
       `}
                 style={
                   activeTab === tab
-                    ? { color: "var(--primary-btn-color)" }
+                    ? { color: "#9b1e26" }
                     : undefined
                 }
               >
