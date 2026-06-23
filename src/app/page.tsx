@@ -18,7 +18,7 @@ import PartnerLogoCard from "../_components/PartnerLogoCard";
 import { PARTNERS } from "../_data/data";
 
 const CAROUSEL_IMAGES = [
-  "/cache/carousel/idfc/main.png",
+  "/cache/carousel/idfc/main1.png",
   "/cache/carousel/ajio.png",
   "/cache/carousel/idfc/decathalon.png",
   "/cache/carousel/myntra.png",
@@ -101,7 +101,7 @@ export default function CachePage() {
         className="relative w-full overflow-hidden"
         style={{
           background:
-            "linear-gradient(160deg, #050c1a 0%, #0d1b35 50%, #0a1428 100%)"
+            "linear-gradient(135deg, #9d1d27 0%, #5a0f16 55%, #0b0f1a 100%)"
         }}
       >
         {/* Animated glow orbs */}

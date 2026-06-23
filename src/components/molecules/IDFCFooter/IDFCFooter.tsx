@@ -4,7 +4,7 @@ export function IDFCFooter() {
   const year = new Date().getFullYear();
 
   return (
-    <footer className="bottom-0 left-0 w-full mt-8">
+    <footer className="bottom-0 left-0 w-full">
       {/* Section 1: nav links — gray bg */}
       <div className="footer-container-1 px-4">
         <div className="footer-border">
@@ -64,7 +64,7 @@ export function IDFCFooter() {
 
       {/* Section 3: copyright — dark bg */}
       <div>
-        <div className="footer-container-2 py-4 text-center">
+        <div className="footer-container-2 py-4 text-center px-20">
           <span className="footer-span">
             Copyright @ {year} Reward360 Global Services Private Limited. All rights
             reserved.

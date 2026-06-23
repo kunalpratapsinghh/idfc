@@ -36,7 +36,7 @@ function DisclaimerBody({ tier }: { tier: string }) {
         <ol className="space-y-2 list-none">
           {[
             { text: "Click \"Start Shopping.\"", star: false },
-            { text: "Pay using your HDFC Infinia credit card and the same mobile number used on SmartBuy.", star: false },
+            { text: "Pay using your IDFC credit card and the same mobile number used on IDFC.", star: false },
             { text: `Enjoy upto ${tier} Reward Points on your purchase.`, star: true }
           ].map(({ text, star }, i) => (
             <li key={i} className="flex gap-3">
@@ -59,41 +59,45 @@ function DisclaimerBody({ tier }: { tier: string }) {
       {/* Disclaimer */}
       <div>
         <p className="font-bold text-gray-900 mb-3 text-base">Disclaimer</p>
+
         <div className="space-y-3">
           <p>Dear Customer,</p>
+
           <p>
-            By clicking on the hyperlink you will be exiting HDFC Bank SmartBuy
-            website and entering into the Merchant&apos;s website. This link is
-            provided only for the convenience of HDFC Bank&apos;s customers,
-            HDFC Bank will not earn any commission or any other fee upon its
-            Customers viewing the offers made available by Merchants or
-            purchasing/ availing of a Product/Service offered by Merchants,
-            except the customary considerations for use of credit card/debit
-            cards/net banking facility. The Customer is free to purchase/avail
-            them from any other stores/online platforms and by using any other
-            payment mechanism.
+            By clicking on the hyperlink, you will be exiting the IDFC FIRST Bank
+            website and entering the Merchant&apos;s website. This link is provided
+            solely for the convenience of IDFC FIRST Bank customers. IDFC FIRST Bank
+            will not earn any commission or other fee when its customers view offers
+            made available by merchants or purchase or avail products or services
+            offered by merchants, except for the customary charges associated with the
+            use of credit cards, debit cards, or net banking facilities. Customers
+            are free to purchase or avail such products or services from any other
+            store or online platform using any payment mechanism of their choice.
           </p>
+
           <p>
-            HDFC Bank is not selling/rendering any of these
-            Products/Services. Neither is HDFC Bank guaranteeing nor making
-            any representation with respect to the offers made by the merchants
-            and HDFC Bank is not liable /responsible for sale/quality/features
-            of the Products/Services selected for purchase by the customers.
-            HDFC Bank is merely facilitating the payment by its Customers by
-            providing the Payment Gateway Services.
+            IDFC FIRST Bank is not selling or rendering any of these products or
+            services. Nor does IDFC FIRST Bank guarantee or make any representation
+            regarding the offers made by merchants. IDFC FIRST Bank shall not be
+            liable or responsible for the sale, quality, features, delivery, or
+            performance of any products or services selected for purchase by
+            customers. IDFC FIRST Bank merely facilitates payments by providing
+            payment gateway services.
           </p>
+
           <p>
             <span className="font-semibold">Important Note: </span>
-            SmartBuy offer benefits are not applicable on usage of non HDFC Bank
-            payment instruments. This redirection holds good only for this brand
-            via SmartBuy — upto {tier} RP benefit would only be applicable for
-            this brand via SmartBuy. The payment modes have been restricted to
-            only HDFC Bank payment methods; no other payment instruments can be
-            utilised here. HDFC Bank SmartBuy is designed to bring valuable
-            offers and deals. The customer can use his / her discretion to check
-            merchant offers available online or at stores and purchase / avail
-            them from any other stores / online platforms basis their payment
-            needs.
+            IDFC offer benefits are not applicable when non-IDFC FIRST Bank payment
+            instruments are used. This redirection is valid only for this brand
+            through IDFC FIRST Bank, and up to {tier} RP benefits will be applicable
+            only for transactions made with this brand using IDFC FIRST Bank payment
+            methods. Payment options on this page are restricted exclusively to IDFC
+            FIRST Bank payment instruments; no other payment methods can be used.
+            IDFC FIRST Bank rewards is designed to bring valuable offers and deals
+            to its customers. Customers may, at their discretion, compare merchant
+            offers available online or in stores and choose to purchase or avail
+            products or services from other stores or online platforms based on their
+            payment preferences and requirements.
           </p>
         </div>
       </div>
@@ -117,11 +121,11 @@ function DisclaimerInner({ tier, onProceed, TitleComponent, isMobile }: InnerPro
       {/* Fixed header */}
       <div className="px-6 pt-6 pb-4 border-b shrink-0 bg-white">
         <TitleComponent className="text-base font-bold leading-snug pr-6">
-          Earn upto {tier} Reward Points when you Shop via SmartBuy.
+          Earn upto {tier} Reward Points when you Shop via IDFC.
         </TitleComponent>
         {isMobile
-          ? <SheetDescription className="sr-only">SmartBuy brand disclaimer</SheetDescription>
-          : <DialogDescription className="sr-only">SmartBuy brand disclaimer</DialogDescription>
+          ? <SheetDescription className="sr-only">IDFC brand disclaimer</SheetDescription>
+          : <DialogDescription className="sr-only">IDFC brand disclaimer</DialogDescription>
         }
       </div>
 
@@ -142,7 +146,7 @@ function DisclaimerInner({ tier, onProceed, TitleComponent, isMobile }: InnerPro
           <p className="text-xs text-gray-500 leading-relaxed">
             <sup className="text-red-500 font-bold">*</sup> Please{" "}
             <a
-              href="https://offers.reward360.in/terms_conditions"
+              href="https://firstrewards.in/terms-conditions"
               target="_blank"
               rel="noopener noreferrer"
               className="underline"
