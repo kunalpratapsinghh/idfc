@@ -12,7 +12,7 @@ import DynamicIcon from "@/components/ui/DynamicIcon";
 import Autoplay from "embla-carousel-autoplay";
 import { AnimatePresence, motion } from "framer-motion";
 import { useSearchParams } from "next/navigation";
-import { Suspense, useMemo, useRef, useState } from "react";
+import { Suspense, useEffect, useMemo, useRef, useState } from "react";
 import FloatingParticles from "../_components/FloatingParticles";
 import PartnerLogoCard from "../_components/PartnerLogoCard";
 import { PARTNERS } from "../_data/data";
@@ -45,6 +45,10 @@ const STATS: { icon: string; label: string; value: string }[] = [
 function CachePage() {
   const searchParams = useSearchParams();
   const variant = Math.min(4, Math.max(1, parseInt(searchParams.get("variant") ?? "1") || 1));
+
+  useEffect(() => {
+    document.title = "IDFC FIRST Bank | Exclusive Offers & Rewards";
+  }, []);
 
   const [search, setSearch] = useState("");
   const [activeCategory, setActiveCategory] = useState("All");
