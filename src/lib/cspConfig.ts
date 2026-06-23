@@ -12,6 +12,7 @@ export const csp = {
     "'self'",
     "*.moengage.com",
     `'nonce-${nonce}'`,
+    "'unsafe-inline'",
     "'unsafe-eval'",
     "https://d157777v0iph40.cloudfront.net",
     "https://dxzbkowhmlqkh.cloudfront.net",
