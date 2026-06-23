@@ -66,7 +66,7 @@ export function IDFCFooter() {
       <div>
         <div className="footer-container-2 py-4 text-center">
           <span className="footer-span">
-            Copyright @ {year} CustCap Solutions Private Limited. All rights
+            Copyright @ {year} Reward360 Global Services Private Limited. All rights
             reserved.
           </span>
         </div>
