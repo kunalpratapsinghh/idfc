@@ -4,6 +4,80 @@
 @import "./themes/base.css";
 @import "./themes/infinia.css";
 
+/* Air India custom fonts */
+@font-face {
+  font-family: "Air India Variable";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://fonts.airindia.com/fonts/AirIndiaVariable/AirIndiaVariable.woff2") format("woff2"),
+       url("https://fonts.airindia.com/fonts/AirIndiaVariable/AirIndiaVariable.woff") format("woff"),
+       url("https://fonts.airindia.com/fonts/AirIndiaVariable/AirIndiaVariable.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Air India";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://fonts.airindia.com/fonts/AirIndiaWebFont/airindia-regular-webfont.woff2") format("woff2"),
+       url("https://fonts.airindia.com/fonts/AirIndiaWebFont/airindia-regular-webfont.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Air India";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("https://fonts.airindia.com/fonts/AirIndiaWebFont/airindia-bold-webfont.woff2") format("woff2"),
+       url("https://fonts.airindia.com/fonts/AirIndiaWebFont/airindia-bold-webfont.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Air India";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("https://fonts.airindia.com/fonts/AirIndiaWebFont/airindia-light-webfont.woff2") format("woff2"),
+       url("https://fonts.airindia.com/fonts/AirIndiaWebFont/airindia-light-webfont.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://fonts.airindia.com/fonts/NunitoSans/NunitoSans10pt-Regular.woff2") format("woff2"),
+       url("https://fonts.airindia.com/fonts/NunitoSans/NunitoSans10pt-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("https://fonts.airindia.com/fonts/NunitoSans/NunitoSans10pt-Medium.woff2") format("woff2"),
+       url("https://fonts.airindia.com/fonts/NunitoSans/NunitoSans10pt-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("https://fonts.airindia.com/fonts/NunitoSans/NunitoSans10pt-SemiBold.woff2") format("woff2"),
+       url("https://fonts.airindia.com/fonts/NunitoSans/NunitoSans10pt-SemiBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("https://fonts.airindia.com/fonts/NunitoSans/NunitoSans10pt-Bold.woff2") format("woff2"),
+       url("https://fonts.airindia.com/fonts/NunitoSans/NunitoSans10pt-Bold.woff") format("woff");
+}
+
 /* TODO ADD OTHER VARIAINTS  */
 
 @custom-variant dark (&:is(.dark *));

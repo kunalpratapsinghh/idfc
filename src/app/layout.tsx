@@ -1,6 +1,6 @@
 import TRPCProvider from "@/app/_trpc/Provider";
 import SmoothScrollManager from "@/components/atoms/scroller";
-import { IDFCFooter, IDFCHeader } from "@/components/molecules";
+import { AirIndiaFooter, AirIndiaHeader } from "@/components/molecules";
 import { CARDBYPATH, CARDTYPE, ThemeTypes } from "@/config";
 import { DisclaimerProvider } from "@/context";
 import { AuthProvider } from "@/context/AuthContext";
@@ -30,9 +30,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "IDFC | Home",
+  title: "Air India: Book Domestic & International Non-Stop Direct Flights",
   description:
-    "IDFC platform that solely displays offers extended by Merchants to IDFC FIRST Bank's Customers. IDFC FIRST Bank is not responsible for selling/rendering any of the listed Products/Services. IDFC FIRST Bank does not act as an express or implied agent of the listed Merchants/owners of the following vis-a-vis the Customers.",
+    "Air India platform that solely displays offers extended by Merchants to Air India Customers. Air India is not responsible for selling/rendering any of the listed Products/Services. Air India does not act as an express or implied agent of the listed Merchants/owners of the following vis-a-vis the Customers.",
 };
 
 type Props = {
@@ -90,6 +90,7 @@ export default async function RootLayout({ children }: Props) {
     delete metadata.manifest;
     metadata.manifest = `${process.env.NEXT_PUBLIC_MANIFEST_URL_PATH}${path}.json?v=${path}`;
   }
+  metadata.title = "Air India: Book Domestic & International Non-Stop Direct Flights";
 
   const { header, footer, disclaimers, error } = data
   if (error) {
@@ -119,6 +120,11 @@ export default async function RootLayout({ children }: Props) {
     >
       <head>
         <meta name="theme-color" content="#0f326a" />
+        <link rel="preconnect" href="https://fonts.airindia.com" crossOrigin="anonymous" />
+        <link rel="preload" href="https://fonts.airindia.com/fonts/AirIndiaVariable/AirIndiaVariable.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
+        <link rel="preload" href="https://fonts.airindia.com/fonts/NunitoSans/NunitoSans10pt-Regular.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
+        <link rel="preload" href="https://fonts.airindia.com/fonts/NunitoSans/NunitoSans10pt-SemiBold.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
+        <link rel="preload" href="https://fonts.airindia.com/fonts/NunitoSans/NunitoSans10pt-Bold.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
       </head>
 
       <AuthProvider
@@ -138,9 +144,9 @@ export default async function RootLayout({ children }: Props) {
             <DisclaimerProvider disclaimers={disclaimers}>
               <TRPCProvider>
                 <SmoothScrollManager />
-                <IDFCHeader />
+                <AirIndiaHeader />
                 {children}
-                <IDFCFooter />
+                <AirIndiaFooter />
               </TRPCProvider>
             </DisclaimerProvider>
           </body>

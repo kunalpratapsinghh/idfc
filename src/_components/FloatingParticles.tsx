@@ -30,7 +30,7 @@ export default function FloatingParticles() {
     resize();
     window.addEventListener("resize", resize);
 
-    const particles: Particle[] = Array.from({ length: 200 }, () => ({
+    const particles: Particle[] = Array.from({ length: 5 }, () => ({
       x: Math.random() * canvas.width,
       y: Math.random() * canvas.height,
       r: Math.random() * 3 + 1,

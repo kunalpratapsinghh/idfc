@@ -18,20 +18,17 @@ import PartnerLogoCard from "../_components/PartnerLogoCard";
 import { PARTNERS } from "../_data/data";
 
 const CAROUSEL_IMAGES = [
-  "/cache/carousel/idfc/main1.png",
-  "/cache/carousel/ajio.png",
-  "/cache/carousel/idfc/decathalon.png",
-  "/cache/carousel/myntra.png",
-  "/cache/carousel/idfc/shoppersstop.png",
-  "/cache/carousel/rarerabit.png",
-  "/cache/carousel/idfc/tatacliq.png"
+  "/cache/carousel/airindia/Generated image_ Air India Maharaja loyalty rewards banner.png",
+  "/cache/carousel/airindia/Generated image_ Earn rewards with Maharaja points.png",
+  "/cache/carousel/airindia/image (1).png",
+
 ];
 
 const FILTER_PILL =
   "rounded-full px-4 py-1.5 text-xs sm:text-sm font-medium transition-all duration-300 cursor-pointer select-none whitespace-nowrap border tracking-tight";
 const FILTER_ACTIVE_BG =
   "bg-white font-semibold border-[#9b1e26]";
-const FILTER_ACTIVE_STYLE = { color: "#9b1e26" };
+const FILTER_ACTIVE_STYLE = { color: "#da0e29" };
 const FILTER_IDLE =
   "bg-white/80 text-slate-600 border-slate-100 hover:bg-white hover:text-slate-900 hover:border-slate-200 hover:shadow-sm";
 
@@ -47,7 +44,7 @@ export default function CachePage() {
   const variant = Math.min(4, Math.max(1, parseInt(searchParams.get("variant") ?? "1") || 1));
 
   useEffect(() => {
-    document.title = "IDFC FIRST Bank | Exclusive Offers & Rewards";
+    document.title = "Air India: Book Domestic & International Non-Stop Direct Flights";
   }, []);
 
   const [search, setSearch] = useState("");
@@ -101,7 +98,7 @@ export default function CachePage() {
         className="relative w-full overflow-hidden"
         style={{
           background:
-            "linear-gradient(135deg, #9d1d27 0%, #5a0f16 55%, #0b0f1a 100%)"
+            "linear-gradient(135deg, #da0e29 0%, #da0e29 25%, #F5E6C8 100%)"
         }}
       >
         {/* Animated glow orbs */}
@@ -307,7 +304,7 @@ export default function CachePage() {
       `}
                 style={
                   activeTab === tab
-                    ? { color: "#9b1e26" }
+                    ? { color: "#da0e29" }
                     : undefined
                 }
               >
