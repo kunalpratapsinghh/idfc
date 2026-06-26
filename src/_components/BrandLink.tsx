@@ -36,8 +36,8 @@ function DisclaimerBody({ tier }: { tier: string }) {
         <ol className="space-y-2 list-none">
           {[
             { text: "Click \"Start Shopping.\"", star: false },
-            { text: "Pay using your IDFC credit card and the same mobile number used on IDFC.", star: false },
-            { text: `Enjoy upto ${tier} Reward Points on your purchase.`, star: true }
+            { text: "Pay using your linked Air India account and the same mobile number registered with Air India.", star: false },
+            { text: `Enjoy upto ${tier} Flying Returns Miles on your purchase.`, star: true }
           ].map(({ text, star }, i) => (
             <li key={i} className="flex gap-3">
               <span
@@ -64,40 +64,35 @@ function DisclaimerBody({ tier }: { tier: string }) {
           <p>Dear Customer,</p>
 
           <p>
-            By clicking on the hyperlink, you will be exiting the IDFC FIRST Bank
-            website and entering the Merchant&apos;s website. This link is provided
-            solely for the convenience of IDFC FIRST Bank customers. IDFC FIRST Bank
-            will not earn any commission or other fee when its customers view offers
-            made available by merchants or purchase or avail products or services
-            offered by merchants, except for the customary charges associated with the
-            use of credit cards, debit cards, or net banking facilities. Customers
-            are free to purchase or avail such products or services from any other
-            store or online platform using any payment mechanism of their choice.
+            By clicking on the hyperlink, you will be exiting the Air India website
+            and entering the Merchant&apos;s website. This link is provided solely for
+            the convenience of Air India Flying Returns members. Air India will not
+            earn any commission or other fee when its members view offers made
+            available by merchants or purchase or avail products or services offered
+            by merchants. Members are free to purchase or avail such products or
+            services from any other store or online platform using any payment
+            mechanism of their choice.
           </p>
 
           <p>
-            IDFC FIRST Bank is not selling or rendering any of these products or
-            services. Nor does IDFC FIRST Bank guarantee or make any representation
-            regarding the offers made by merchants. IDFC FIRST Bank shall not be
-            liable or responsible for the sale, quality, features, delivery, or
-            performance of any products or services selected for purchase by
-            customers. IDFC FIRST Bank merely facilitates payments by providing
-            payment gateway services.
+            Air India is not selling or rendering any of these products or services.
+            Nor does Air India guarantee or make any representation regarding the
+            offers made by merchants. Air India shall not be liable or responsible
+            for the sale, quality, features, delivery, or performance of any products
+            or services selected for purchase by members.
           </p>
 
           <p>
             <span className="font-semibold">Important Note: </span>
-            IDFC offer benefits are not applicable when non-IDFC FIRST Bank payment
-            instruments are used. This redirection is valid only for this brand
-            through IDFC FIRST Bank, and up to {tier} RP benefits will be applicable
-            only for transactions made with this brand using IDFC FIRST Bank payment
-            methods. Payment options on this page are restricted exclusively to IDFC
-            FIRST Bank payment instruments; no other payment methods can be used.
-            IDFC FIRST Bank rewards is designed to bring valuable offers and deals
-            to its customers. Customers may, at their discretion, compare merchant
-            offers available online or in stores and choose to purchase or avail
-            products or services from other stores or online platforms based on their
-            payment preferences and requirements.
+            Flying Returns Miles benefits are applicable only when purchases are made
+            through your linked Air India account. This redirection is valid only for
+            this brand through Air India Flying Returns, and up to {tier} Miles
+            benefits will be applicable only for transactions made with this brand
+            via Air India. Air India Flying Returns is designed to bring valuable
+            offers and deals to its members. Members may, at their discretion,
+            compare merchant offers available online or in stores and choose to
+            purchase or avail products or services from other stores or online
+            platforms based on their preferences.
           </p>
         </div>
       </div>
@@ -121,11 +116,11 @@ function DisclaimerInner({ tier, onProceed, TitleComponent, isMobile }: InnerPro
       {/* Fixed header */}
       <div className="px-6 pt-6 pb-4 border-b shrink-0 bg-white">
         <TitleComponent className="text-base font-bold leading-snug pr-6">
-          Earn upto {tier} Reward Points when you Shop via IDFC.
+          Earn upto {tier} Flying Returns Miles when you Shop via Air India.
         </TitleComponent>
         {isMobile
-          ? <SheetDescription className="sr-only">IDFC brand disclaimer</SheetDescription>
-          : <DialogDescription className="sr-only">IDFC brand disclaimer</DialogDescription>
+          ? <SheetDescription className="sr-only">Air India brand disclaimer</SheetDescription>
+          : <DialogDescription className="sr-only">Air India brand disclaimer</DialogDescription>
         }
       </div>
 
@@ -146,7 +141,7 @@ function DisclaimerInner({ tier, onProceed, TitleComponent, isMobile }: InnerPro
           <p className="text-xs text-gray-500 leading-relaxed">
             <sup className="text-red-500 font-bold">*</sup> Please{" "}
             <a
-              href="https://firstrewards.in/terms-conditions"
+              href="https://www.airindia.com/in/en/terms-and-condition.html"
               target="_blank"
               rel="noopener noreferrer"
               className="underline"
